@@ -1,0 +1,88 @@
+govern_system: |
+  You are a helpful assistant.
+  Your task is to find a list of directors and commissioners for a given company from their annual reports.
+  You will be provided with a retriever tool to access the annual reports.
+  The annual reports are written in both Bahasa Indonesia and English, so you need to optimize your queries for better retrieval.
+
+govern_query: |
+  Please provide the names of the directors and commissioners of {company} from the annual reports.
+
+govern_structured: |
+  Your task is to structure the list of director and commissioner names extracted from the raw text.
+
+  text:
+  {text}
+
+working_system: |
+  You are a helpful assistant.
+  Your task is to find the working experiences of a specific director/commissioner from their annual reports.
+  You will be provided with a retriever tool to access the annual reports.
+  The annual reports are written in both Bahasa Indonesia and English, so you need to optimize your queries for better retrieval.
+
+working_query: |
+  Please retrieve the working experiences of {name} from the annual reports.
+  You need to collect the following information:
+  1. Name: (e.g., Herliniawaty Sutanto)
+  2. Current Position: (e.g., President Director)
+  3. Current Position Company Name: (e.g., PT Asuransi Bina Dana Arta Tbk)
+  4. Current Position Tenure in Months: (e.g., 36)
+  5. Working Experience Positions: (e.g., Credit Analyst; Payment Processing Head; User Liaison / Business Analyst; Portfolio Management Head; Card Business Manager; Relationship Manager & Training Leader; Chief Operation Officer; ACC Task Force Leader; ACC IT & Quality Director; Chief Operation Officer, Consumer; Operation Risk Management Head; Chief Operation & Technology Officer; Chief Operation Officer; Chief Distribution Officer; Chief Executive Officer) (separated by ';')
+  6. Working Experience Company Names: (e.g., Citibank Card Center; Bank Universal; Citibank ICC, Singapore; General Electric Finance; Bank OCBC; Bank Danamon; PT AIA Financial; PT Asuransi Cigna) (separated by ';')
+  7. Working Experience Tenure in Months: (e.g., 12; N/A; 48; 36; 36; 60; 60; 24; 24; 36; 36; 36; 24; 12; 36) (separated by ';')
+  8. Number of Working Experiences: (e.g., 15)
+
+  Ensure that the number of items in “Positions,” “Company Names,” and “Tenure in Months” is the same.
+  Tenure is calculated as of December 2022. If the information is not available, please input 'N/A'.
+
+working_structured: |
+  Your task is to structure the working experience data of a director/commissioner from the raw text.
+  Please ensure to gather the following information:
+  1. Name: (e.g., Herliniawaty Sutanto)
+  2. Current Position: (e.g., President Director)
+  3. Current Position Company Name: (e.g., PT Asuransi Bina Dana Arta Tbk)
+  4. Current Position Tenure in Months: (e.g., 36)
+  5. Working Experience Positions: (e.g., Credit Analyst; Payment Processing Head; etc.) (separated by ';')
+  6. Working Experience Company Names: (e.g., Citibank Card Center; Bank Universal) (separated by ';')
+  7. Working Experience Tenure in Months: (e.g., 12; N/A; 48) (separated by ';')
+  8. Number of Working Experiences: (e.g., 15)
+
+  Ensure that the number of items in “Positions,” “Company Names,” and “Tenure in Months” is the same. If the information is not available, input 'N/A' to maintain consistency.
+
+  text:
+  {text}
+
+edu_system: |
+  You are a helpful assistant.
+  Your task is to find the educational background of a specific director/commissioner from their annual reports.
+  You will be provided with a retriever tool to access the annual reports.
+  The annual reports are written in both Bahasa Indonesia and English, so you need to optimize your queries for better retrieval.
+
+edu_query: |
+  Please retrieve the educational background of {name} from the annual reports.
+  You need to collect the following information:
+  1. Name: (e.g., Herliniawaty Sutanto)
+  2. Current Position: (e.g., President Director)
+  3. Education Majors: (e.g., Management; Finance) (separated by ';')
+  4. Education Grades: (e.g., BACHELOR; MASTER) (separated by ';')
+  5. Education Universities: (e.g., University of Indonesia; Erasmus University Rotterdam) (separated by ';')
+  6. Education Countries: (e.g., Indonesia; Netherlands) (separated by ';')
+  7. Education Graduate Years: (e.g., N/A; 1995) (separated by ';')
+
+  Ensure that the number of items in “Majors,” “Grades,” “Universities,” “Countries,” and “Graduate Years” is the same.
+  If the information is not available, please input 'N/A' to maintain consistency.
+
+edu_structured: |
+  Your task is to structure the educational background data of a director/commissioner from the raw text.
+  Please ensure to gather the following information:
+  1. Name: (e.g., Herliniawaty Sutanto)
+  2. Current Position: (e.g., President Director)
+  3. Education Majors: (e.g., Management; Finance) (separated by ';')
+  4. Education Grades: (e.g., BACHELOR; MASTER) (separated by ';')
+  5. Education Universities: (e.g., University of Indonesia; Erasmus University Rotterdam) (separated by ';')
+  6. Education Countries: (e.g., Indonesia; Netherlands) (separated by ';')
+  7. Education Graduate Years: (e.g., N/A; 1995) (separated by ';')
+
+  Ensure that the number of items in “Majors,” “Grades,” “Universities,” “Countries,” and “Graduate Years” is the same. If the information is not available, input 'N/A' to maintain consistency.
+
+  text:
+  {text}
