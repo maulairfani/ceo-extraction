@@ -17,6 +17,27 @@ class ReportAgent:
         self.prompts = self._load_prompts()
 
     def get_governance_body(self):
+        # class GovernanceBody(BaseModel):
+        #     directors: List[str] = Field(description="List of full names of all directors.")
+        #     commissioners: List[str] = Field(description="List of full names of all commissioners.")
+        
+
+        # govern_system: |
+        # You are a helpful assistant.
+        # Your task is to find a list of directors and commissioners for a given company from their annual reports.
+        # You will be provided with a retriever tool to access the annual reports.
+        # The annual reports are written in both Bahasa Indonesia and English, so you need to optimize your queries for better retrieval.
+
+        # govern_query: |
+        # Please provide the names of the directors and commissioners of {company} from the annual reports.
+
+        # govern_structured: |
+        # Your task is to structure the list of director and commissioner names extracted from the raw text.
+        # Separate directors and commissioners into distinct lists.
+
+        # text:
+        # {text}
+        
         system_prompt = self.prompts['govern_system'].strip()
         structured_prompt = self.prompts['govern_structured'].strip()
         query = self.prompts['govern_query'].strip().format(company=self.company)
@@ -24,7 +45,9 @@ class ReportAgent:
         sllm = self.llm.with_structured_output(GovernanceBody)
         agent = TCAgent(self.model_name, system_prompt, self.company)
 
-        raw_response = agent.invoke(query)
+        raw_response = agent.invoke(query) # paragraf
+
+        # structurize
         structured_response = sllm.invoke(structured_prompt.format(text=raw_response), config={"run_name": "Structurize Output"})
         return structured_response
     

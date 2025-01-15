@@ -49,7 +49,7 @@ class TCAgent:
         return RetrieverTool()
 
     def _create_vector_store(self):
-        index_name = "annual-reports"
+        index_name = "financial-statements"
         index = Pinecone(api_key=os.getenv("PINECONE_API_KEY")).Index(index_name)
         embedding = OpenAIEmbeddings(model="text-embedding-3-large", api_key=os.getenv("OPENAI_API_KEY"))
         return PineconeVectorStore(index=index, embedding=embedding)

@@ -14,7 +14,7 @@ load_dotenv()
 
 class VectorDB:
     def __init__(self):
-        self.index_name = "annual-reports"
+        self.index_name = "financial-statements"
         self.index = Pinecone(api_key=os.getenv("PINECONE_API_KEY")).Index(self.index_name)
         self.embedding = OpenAIEmbeddings(model="text-embedding-3-large", api_key=os.getenv("OPENAI_API_KEY"))
         self.vector_store = PineconeVectorStore(index=self.index, embedding=self.embedding)
