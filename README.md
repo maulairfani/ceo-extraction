@@ -14,20 +14,4 @@
 
 - Buka 02. vectordb.ipynb, sesuaikan adjustable yakni direktori file json (hasil pdf parsing)
 - Run file 02. vectordb.ipynb
-
-**Schema**
-- Buatlah schema / daftar variabel yang ingin di-crawl pada file scripts/schemas.py
-
-**Prompt**
-- Atur QUERY prompt yang ada pada file prompts.yml, selain query prompt tidak perlu diubah.
-
-**Crawling**
-- Pada file scripts/report_agent.py, adjust variabel di bawah ini
-    ```
-    json_dir = "data/JSON" # Merupakan direktori tempat json hasil parsing disimpan 
-    output_dir = "results" # Merupakan target direktori untuk menyimpan hasil crawling
-    files = glob.glob(os.path.join(json_dir, "*", "*.json")) # Merupakan daftar file path json, pastikan format glob sudah tepat.
-    ```
-- Bagian time.sleep(30) opsional, ini hanya memastikan tidak terjadi rate limit / menit
-- Run `python scripts/report_agent.py` melalui terminal
-- Hasil akan tersimpan dalam folder `output_dir`
+- Bersambung... di file 03. crawling.ipynb
