@@ -1,0 +1,49 @@
+{
+    "data": {
+        "bod": [
+            {
+                "name": "Herliniawaty Sutanto",
+                "position": "President Director"
+            },
+            {
+                "name": "Julien Pierre Combaret",
+                "position": "Director"
+            },
+            {
+                "name": "Liani Chandra",
+                "position": "Director"
+            },
+            {
+                "name": "Fenni Sutanto",
+                "position": "Director"
+            }
+        ],
+        "boc": [
+            {
+                "name": "Abhishek Bhatia",
+                "position": "President Commissioner"
+            },
+            {
+                "name": "Saurabh Narayan Agarwal",
+                "position": "Commissioner"
+            },
+            {
+                "name": "Francisco Noriega Malave",
+                "position": "Independent Commissioner"
+            },
+            {
+                "name": "Herwan Ng",
+                "position": "Independent Commissioner"
+            }
+        ],
+        "company": "ID_ABDA_IR_2023"
+    },
+    "sources": [
+        111,
+        81,
+        177,
+        181,
+        117,
+        87
+    ]
+}
