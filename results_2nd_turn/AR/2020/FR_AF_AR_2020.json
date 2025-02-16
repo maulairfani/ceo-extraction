@@ -1,0 +1,63 @@
+{
+    "data": {
+        "name": "Anne-Marie Couderc",
+        "position": "Chair of the Board of Directors",
+        "start_tenure": "2018-05-15",
+        "end_tenure": null,
+        "gender": "Female",
+        "birthdate_or_age": "1950-02-13",
+        "nationality": "French",
+        "education_bachelor": {
+            "major": "Private Law",
+            "university": null,
+            "country": "France"
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer",
+                "company": "Hachette Filipacchi Associ\u00e9s",
+                "country": "France",
+                "start_date": "1997-01-01",
+                "end_date": "2006-01-01"
+            },
+            {
+                "position": "Secretary-General",
+                "company": "Lagard\u00e8re Active",
+                "country": "France",
+                "start_date": "2006-01-01",
+                "end_date": "2010-01-01"
+            },
+            {
+                "position": "Chair",
+                "company": "Presstalis Group",
+                "country": "France",
+                "start_date": "2011-01-01",
+                "end_date": "2017-06-30"
+            },
+            {
+                "position": "Member of Parliament",
+                "company": "French Government",
+                "country": "France",
+                "start_date": "1993-01-01",
+                "end_date": "1997-01-01"
+            }
+        ],
+        "company": "FR_AF_AR_2020"
+    },
+    "sources": [
+        51,
+        52,
+        54,
+        71
+    ]
+}

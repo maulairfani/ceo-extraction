@@ -1,0 +1,56 @@
+{
+    "data": {
+        "name": "Carlo Messina",
+        "position": "Managing Director and Chief Executive Officer",
+        "start_tenure": "2013-09-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1964-04-04",
+        "nationality": "Italian",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": "University of Rome",
+            "country": "Italy"
+        },
+        "education_master": {
+            "major": "Finance",
+            "university": "University of Pennsylvania - Wharton School",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Operating Officer",
+                "company": "Intesa Sanpaolo",
+                "country": "Italy",
+                "start_date": "2010-01-01",
+                "end_date": "2013-08-31"
+            },
+            {
+                "position": "Director of Strategy",
+                "company": "Intesa Sanpaolo",
+                "country": "Italy",
+                "start_date": "2005-01-01",
+                "end_date": "2009-12-31"
+            },
+            {
+                "position": "Head of M&A",
+                "company": "Intesa",
+                "country": "Italy",
+                "start_date": "2002-01-01",
+                "end_date": "2004-12-31"
+            }
+        ],
+        "company": "IT_ISP_AR_2020"
+    },
+    "sources": [
+        867,
+        164,
+        13,
+        173
+    ]
+}

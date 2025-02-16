@@ -1,0 +1,75 @@
+{
+    "data": {
+        "name": "Thomas Buberl",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2018-04-25",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1973-03-24",
+        "nationality": "French, German, Swiss",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": "WHU Koblenz",
+            "country": "Germany"
+        },
+        "education_master": {
+            "major": "Master of Business Administration",
+            "university": "Lancaster University",
+            "country": "UK"
+        },
+        "education_doctoral": {
+            "major": "Economics",
+            "university": "University of St. Gallen",
+            "country": "Switzerland"
+        },
+        "working_experience": [
+            {
+                "position": "Consultant",
+                "company": "Boston Consulting Group",
+                "country": "Germany",
+                "start_date": "2000-01-01",
+                "end_date": "2005-01-01"
+            },
+            {
+                "position": "Chief Operating Officer",
+                "company": "Winterthur Group",
+                "country": "Switzerland",
+                "start_date": "2005-01-01",
+                "end_date": "2008-01-01"
+            },
+            {
+                "position": "Chief Executive Officer",
+                "company": "Zurich Financial Services",
+                "country": "Switzerland",
+                "start_date": "2008-01-01",
+                "end_date": "2012-01-01"
+            },
+            {
+                "position": "Chief Executive Officer",
+                "company": "AXA Konzern AG",
+                "country": "Germany",
+                "start_date": "2012-01-01",
+                "end_date": "2016-04-30"
+            },
+            {
+                "position": "Chief Executive Officer",
+                "company": "AXA",
+                "country": "France",
+                "start_date": "2016-09-01",
+                "end_date": null
+            }
+        ],
+        "company": "FR_CS_AR_2020"
+    },
+    "sources": [
+        128,
+        449,
+        161,
+        102,
+        7,
+        105,
+        152,
+        121,
+        94
+    ]
+}

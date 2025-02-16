@@ -1,0 +1,46 @@
+{
+    "data": {
+        "name": "Jeanne Johns",
+        "position": "Managing Director & CEO",
+        "start_tenure": "2017-11-15",
+        "end_tenure": null,
+        "gender": "Female",
+        "birthdate_or_age": null,
+        "nationality": "Not provided",
+        "education_bachelor": {
+            "major": "Chemical Engineering",
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Various executive roles",
+                "company": null,
+                "country": "North America, UK, China, Europe, Asia",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "AU_IPL_AR_2021"
+    },
+    "sources": [
+        68,
+        41,
+        17,
+        19,
+        52,
+        54,
+        56,
+        60
+    ]
+}

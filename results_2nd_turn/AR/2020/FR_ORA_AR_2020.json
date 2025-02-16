@@ -1,0 +1,63 @@
+{
+    "data": {
+        "name": "St\u00e9phane Richard",
+        "position": "Chairman and Chief Executive Officer",
+        "start_tenure": "2011-03-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1961-08-02",
+        "nationality": "French",
+        "education_bachelor": {
+            "major": null,
+            "university": "\u00c9cole polytechnique",
+            "country": "France"
+        },
+        "education_master": {
+            "major": null,
+            "university": "T\u00e9l\u00e9com ParisTech",
+            "country": "France"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer",
+                "company": "Orange SA",
+                "country": "France",
+                "start_date": "2011-03-01",
+                "end_date": null
+            },
+            {
+                "position": "Director",
+                "company": "Op\u00e9ra National de Paris",
+                "country": "France",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Director",
+                "company": "France Industrie",
+                "country": "France",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Chairman of the Board",
+                "company": "GSMA",
+                "country": "International",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "FR_ORA_AR_2020"
+    },
+    "sources": [
+        345,
+        347,
+        340,
+        343
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "data": {
+        "name": "Alison Rose",
+        "position": "Group Chief Executive Officer",
+        "start_tenure": "2019-11-01",
+        "end_tenure": null,
+        "gender": "Female",
+        "birthdate_or_age": "1970-02-22",
+        "nationality": "British",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": "University of Edinburgh",
+            "country": "UK"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "University of Cambridge",
+            "country": "UK"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Deputy CEO",
+                "company": "NatWest Holdings",
+                "country": "UK",
+                "start_date": "2019-04-01",
+                "end_date": null
+            },
+            {
+                "position": "Chief Executive of Commercial & Private Banking",
+                "company": "NatWest",
+                "country": "UK",
+                "start_date": "2018-01-01",
+                "end_date": "2019-04-01"
+            },
+            {
+                "position": "Head of Europe, Middle East and Africa, Markets & International Banking",
+                "company": "NatWest",
+                "country": "UK",
+                "start_date": "2014-01-01",
+                "end_date": "2018-01-01"
+            },
+            {
+                "position": "Global Head of International Banking Capital and Balance Sheet",
+                "company": "NatWest",
+                "country": "UK",
+                "start_date": "2012-01-01",
+                "end_date": "2014-01-01"
+            }
+        ],
+        "company": "GB_NWG_AR_2022"
+    },
+    "sources": [
+        1,
+        4,
+        6,
+        73,
+        45,
+        48,
+        49,
+        53,
+        89,
+        26,
+        221
+    ]
+}

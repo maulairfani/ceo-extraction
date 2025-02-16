@@ -1,0 +1,66 @@
+{
+    "data": {
+        "name": "Edmond Scanlon",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2017-10-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": 50,
+        "nationality": "Irish",
+        "education_bachelor": {
+            "major": "Food Science",
+            "university": "University College Dublin",
+            "country": "Ireland"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "University of Glasgow",
+            "country": "Scotland"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer",
+                "company": "Kerry Group plc",
+                "country": "Ireland",
+                "start_date": "2017-10-01",
+                "end_date": null
+            },
+            {
+                "position": "Director of Flavours and Applied Health and Nutrition",
+                "company": "Kerry Group plc",
+                "country": "Ireland",
+                "start_date": "2015-01-01",
+                "end_date": "2017-09-30"
+            },
+            {
+                "position": "Regional Head (Asia Pacific)",
+                "company": "Kerry Group plc",
+                "country": "China",
+                "start_date": "2012-01-01",
+                "end_date": "2014-12-31"
+            },
+            {
+                "position": "Graduate Program Participant",
+                "company": "Kerry Group plc",
+                "country": "Ireland",
+                "start_date": "1996-01-01",
+                "end_date": "1998-01-01"
+            }
+        ],
+        "company": "IE_KRZ_AR_2023"
+    },
+    "sources": [
+        168,
+        171,
+        12,
+        110,
+        114,
+        20,
+        181
+    ]
+}

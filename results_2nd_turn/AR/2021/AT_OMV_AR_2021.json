@@ -1,0 +1,65 @@
+{
+    "data": {
+        "name": "Alfred Stern",
+        "position": "Chairman of the Executive Board, Chief Executive Officer",
+        "start_tenure": "2021-04-01",
+        "end_tenure": "2024-08-31",
+        "gender": "Male",
+        "birthdate_or_age": "1965-01-01",
+        "nationality": "Austrian",
+        "education_bachelor": {
+            "major": "Polymer Engineering and Science",
+            "university": "Montanuniversit\u00e4t Leoben",
+            "country": "Austria"
+        },
+        "education_master": {
+            "major": "Material Science",
+            "university": "Montanuniversit\u00e4t Leoben",
+            "country": "Austria"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer",
+                "company": "Borealis AG",
+                "country": "Austria",
+                "start_date": "2018-07-01",
+                "end_date": "2021-04-01"
+            },
+            {
+                "position": "Member of the Executive Board",
+                "company": "Borealis AG",
+                "country": "Austria",
+                "start_date": "2012-04-01",
+                "end_date": "2021-04-01"
+            },
+            {
+                "position": "Senior Vice President Innovation & Technology",
+                "company": "Borealis AG",
+                "country": "Austria",
+                "start_date": "2008-01-01",
+                "end_date": "2012-04-01"
+            },
+            {
+                "position": "Various Management Positions",
+                "company": "DuPont de Nemours",
+                "country": "Switzerland, Germany, USA",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "AT_OMV_AR_2021"
+    },
+    "sources": [
+        225,
+        10,
+        235,
+        14,
+        83,
+        86
+    ]
+}

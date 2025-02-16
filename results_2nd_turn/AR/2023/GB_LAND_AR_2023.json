@@ -1,0 +1,63 @@
+{
+    "data": {
+        "name": "Mark Allan",
+        "position": "Chief Executive",
+        "start_tenure": "2020-05-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "UK",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive",
+                "company": "St. Modwen Properties PLC",
+                "country": "UK",
+                "start_date": "2017-05-01",
+                "end_date": "2020-04-30"
+            },
+            {
+                "position": "Chief Executive",
+                "company": "The Unite Group plc",
+                "country": "UK",
+                "start_date": "2006-01-01",
+                "end_date": "2016-12-31"
+            },
+            {
+                "position": "Chief Financial Officer",
+                "company": "The Unite Group plc",
+                "country": "UK",
+                "start_date": "2003-01-01",
+                "end_date": "2006-12-31"
+            },
+            {
+                "position": "Various financial roles",
+                "company": "KPMG",
+                "country": "UK",
+                "start_date": "1999-01-01",
+                "end_date": "2003-12-31"
+            }
+        ],
+        "company": "GB_LAND_AR_2023"
+    },
+    "sources": [
+        56,
+        57,
+        94,
+        97
+    ]
+}

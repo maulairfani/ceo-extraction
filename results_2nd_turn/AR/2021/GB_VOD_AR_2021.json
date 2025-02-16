@@ -1,0 +1,69 @@
+{
+    "data": {
+        "name": "Nick Read",
+        "position": "Chief Executive",
+        "start_tenure": "2018-10-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Group Chief Financial Officer",
+                "company": "Vodafone",
+                "country": "UK",
+                "start_date": "2014-04-01",
+                "end_date": null
+            },
+            {
+                "position": "Chief Executive for Africa, Middle East and Asia-Pacific",
+                "company": "Vodafone",
+                "country": "Various",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Chief Executive of Vodafone UK",
+                "company": "Vodafone",
+                "country": "UK",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Senior global finance positions",
+                "company": "United Business Media Plc and Federal Express Worldwide",
+                "country": null,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "GB_VOD_AR_2021"
+    },
+    "sources": [
+        70,
+        105,
+        9,
+        75,
+        11,
+        109,
+        78,
+        112,
+        84,
+        24
+    ]
+}

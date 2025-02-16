@@ -1,0 +1,70 @@
+{
+    "data": {
+        "name": "Walter Schalka",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2013-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": 62,
+        "nationality": "Brazilian",
+        "education_bachelor": {
+            "major": "Engineering",
+            "university": "Instituto Tecnol\u00f3gico da Aeron\u00e1utica",
+            "country": "Brazil"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "Funda\u00e7\u00e3o Getulio Vargas",
+            "country": "Brazil"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Financial and Administrative Officer",
+                "company": "Dixie Lalekla",
+                "country": "Brazil",
+                "start_date": "1989-01-01",
+                "end_date": "1995-01-01"
+            },
+            {
+                "position": "General Manager",
+                "company": "Dixie Toga Group",
+                "country": "Brazil",
+                "start_date": "1995-01-01",
+                "end_date": "1997-01-01"
+            },
+            {
+                "position": "President",
+                "company": "Dixie Toga Group",
+                "country": "Brazil",
+                "start_date": "1997-01-01",
+                "end_date": "2005-01-01"
+            },
+            {
+                "position": "President",
+                "company": "Votorantim Cimentos",
+                "country": "Brazil",
+                "start_date": "2005-01-01",
+                "end_date": "2013-01-01"
+            },
+            {
+                "position": "Chief Executive Officer",
+                "company": "Suzano",
+                "country": "Brazil",
+                "start_date": "2013-01-01",
+                "end_date": null
+            }
+        ],
+        "company": "BR_SUZB3_AR_2022"
+    },
+    "sources": [
+        136,
+        321,
+        77,
+        78
+    ]
+}

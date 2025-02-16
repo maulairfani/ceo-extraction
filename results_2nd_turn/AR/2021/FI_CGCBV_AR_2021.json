@@ -1,0 +1,49 @@
+{
+    "data": {
+        "name": "Mika Vehvil\u00e4inen",
+        "position": "CEO",
+        "start_tenure": "2018-05-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1961-01-01",
+        "nationality": "Finnish",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": null,
+            "country": "Finland"
+        },
+        "education_master": {
+            "major": "Economics",
+            "university": null,
+            "country": "Finland"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "Cargotec Corporation",
+                "country": "Finland",
+                "start_date": "2018-05-01",
+                "end_date": null
+            },
+            {
+                "position": "Head of Business Area",
+                "company": null,
+                "country": null,
+                "start_date": "2012-01-01",
+                "end_date": "2017-12-31"
+            }
+        ],
+        "company": "FI_CGCBV_AR_2021"
+    },
+    "sources": [
+        177,
+        43,
+        35,
+        39
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "data": {
+        "name": "Piyush Gupta",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2009-11-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": 62,
+        "nationality": "Indian",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": "University of Delhi",
+            "country": "India"
+        },
+        "education_master": {
+            "major": "Management",
+            "university": "Indian Institute of Management, Ahmedabad",
+            "country": "India"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer",
+                "company": "DBS Group",
+                "country": "Singapore",
+                "start_date": "2009-11-01",
+                "end_date": null
+            },
+            {
+                "position": "Chief Executive Officer for Southeast Asia, Australia and New Zealand",
+                "company": "Citigroup",
+                "country": "Various",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "SG_D05_AR_2021"
+    },
+    "sources": [
+        194,
+        165,
+        6,
+        168,
+        170,
+        172,
+        46,
+        82
+    ]
+}

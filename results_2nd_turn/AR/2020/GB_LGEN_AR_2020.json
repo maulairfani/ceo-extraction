@@ -1,0 +1,42 @@
+{
+    "data": {
+        "name": "Nigel Wilson",
+        "position": "Group Chief Executive Officer",
+        "start_tenure": "2012-06-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Financial Officer",
+                "company": "Legal & General",
+                "country": null,
+                "start_date": "2009-09-01",
+                "end_date": "2012-05-31"
+            }
+        ],
+        "company": "GB_LGEN_AR_2020"
+    },
+    "sources": [
+        60,
+        61,
+        62,
+        63
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "data": {
+        "name": "Fleetwood Grobler",
+        "position": "President and CEO",
+        "start_tenure": "2019-11-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Operating Officer",
+                "company": "Sasol Limited",
+                "country": "South Africa",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Acting EVP: Group Technology",
+                "company": "Sasol Limited",
+                "country": "South Africa",
+                "start_date": "2019-07-01",
+                "end_date": "2020-02-29"
+            },
+            {
+                "position": "EVP: Sustainability and Technology",
+                "company": "Sasol Limited",
+                "country": "South Africa",
+                "start_date": "2020-03-01",
+                "end_date": null
+            }
+        ],
+        "company": "ZA_SOL_IR_2020"
+    },
+    "sources": [
+        41,
+        53,
+        5,
+        33
+    ]
+}

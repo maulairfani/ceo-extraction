@@ -1,0 +1,52 @@
+{
+    "data": {
+        "name": "Hsu Chieh-Li",
+        "position": "President",
+        "start_tenure": "2020-03-21",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1974-08-11",
+        "nationality": "Republic of China",
+        "education_bachelor": {
+            "major": "International Business Administration",
+            "university": "Waseda University",
+            "country": "Japan"
+        },
+        "education_master": {
+            "major": "EMBA on Cross-Strait Business",
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Director",
+                "company": "Kinpo Electronics",
+                "country": "Republic of China",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "President",
+                "company": "AcBel Polytech Inc.",
+                "country": "Republic of China",
+                "start_date": "2020-03-21",
+                "end_date": null
+            }
+        ],
+        "company": "TW_6282_AR_2021"
+    },
+    "sources": [
+        324,
+        13,
+        50,
+        22,
+        23,
+        24,
+        28
+    ]
+}

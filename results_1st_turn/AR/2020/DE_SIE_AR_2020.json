@@ -1,0 +1,23 @@
+{
+    "data": {
+        "directors": [
+            "Joe Kaeser",
+            "Roland Busch",
+            "Lisa Davis"
+        ],
+        "commissioners": [
+            "Jim Hagemann Snabe",
+            "Birgit Steinborn",
+            "Werner Wenning",
+            "Werner Brandt",
+            "Michael Diekmann"
+        ],
+        "company": "DE_SIE_AR_2020"
+    },
+    "sources": [
+        184,
+        185,
+        187,
+        189
+    ]
+}

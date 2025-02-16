@@ -1,0 +1,60 @@
+{
+    "data": {
+        "name": "Andreas Schierenbeck",
+        "position": "CEO",
+        "start_tenure": "2019-06-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "German",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "Uniper SE",
+                "country": "Germany",
+                "start_date": "2019-06-01",
+                "end_date": null
+            },
+            {
+                "position": "Member of the Management Board",
+                "company": "Uniper SE",
+                "country": "Germany",
+                "start_date": "2019-06-01",
+                "end_date": null
+            },
+            {
+                "position": "Chief Operating Officer",
+                "company": "Uniper SE",
+                "country": "Germany",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "DE_UNPRF_AR_2020"
+    },
+    "sources": [
+        1,
+        98,
+        81,
+        147,
+        84,
+        246,
+        247,
+        248
+    ]
+}

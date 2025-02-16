@@ -1,0 +1,32 @@
+{
+    "data": {
+        "directors": [
+            "Dr. Lorenz N\u00e4ger",
+            "Kevin Gluskie",
+            "Jon Morrish",
+            "Chris Ward",
+            "Hakan Gurdal",
+            "Ernest Jelito"
+        ],
+        "commissioners": [
+            "Fritz-J\u00fcrgen Heckmann",
+            "Heinz Schmitt",
+            "Barbara Breuninger",
+            "Birgit Jochens",
+            "Ludwig Merckle",
+            "Tobias Merckle",
+            "Luka Mucic",
+            "Dr. Ines Ploss",
+            "Peter Riedel",
+            "Werner Schraeder",
+            "Margret Suckale"
+        ],
+        "company": "DE_HEIG_AR_2020"
+    },
+    "sources": [
+        100,
+        15,
+        102,
+        103
+    ]
+}

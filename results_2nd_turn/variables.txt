@@ -1,0 +1,147 @@
+class EducationEntry(BaseModel):
+    major: str | None = Field(
+        default=None,
+        description="The major or field of study pursued.",
+        example="Business Administration"
+    )
+    university: str | None = Field(
+        default=None,
+        description="The name of the educational institution (e.g., university or college).",
+        example="Harvard University"
+    )
+    country: str | None = Field(
+        default=None,
+        description="The country where the educational institution is located.",
+        example="USA"
+    )
+
+class WorkingExperienceEntry(BaseModel):
+    position: str = Field(
+        description="The job title or position held during the work experience.",
+        example="Chief Operating Officer"
+    )
+    company: str | None = Field(
+        default=None,
+        description="The name of the company or organization where the work experience took place.",
+        example="Google"
+    )
+    country: str | None = Field(
+        default=None,
+        description="The country where the work experience took place.",
+        example="USA"
+    )
+    start_date: str | None = Field(
+        default=None,
+        description="The start date of this work experience in YYYY-MM-DD format (e.g., '2020-01-01').",
+        example="2020-01-01"
+    )
+    end_date: str | None = Field(
+        default=None,
+        description="The end date of this work experience in YYYY-MM-DD format (e.g., '2022-12-31'). Use None if the role is ongoing.",
+        example="2022-12-31"
+    )
+
+class CEOBackground(BaseModel):
+    name: str = Field(
+        description="The full name of the CEO (or equivalent role such as President Director, Managing Director, or Chairman).",
+        example="Jane Doe"
+    )
+    position: str = Field(
+        description="The official title or designation of the CEO.",
+        example="CEO"
+    )
+    start_tenure: str | None = Field(
+        default=None,
+        description="The date when the CEO began their tenure in YYYY-MM-DD format (e.g., '2018-05-01'). Use None if unavailable.",
+        example="2018-05-01"
+    )
+    end_tenure: str | None = Field(
+        default=None,
+        description="The date when the CEO ended their tenure in YYYY-MM-DD format, or None if currently serving.",
+        example=None
+    )
+    gender: Literal['Male', 'Female'] = Field(
+        description="The gender of the CEO. Must be either 'Male' or 'Female'.",
+        example="Female"
+    )
+    birthdate_or_age: str | int | None = Field(
+        default=None,
+        description="Either the CEO's birthdate (as a YYYY-MM-DD formatted string) or their age (as an integer) at the time of reporting.",
+        example="1965-07-15"
+    )
+    nationality: str = Field(
+        description="The nationality of the CEO.",
+        example="American"
+    )
+    education_bachelor: EducationEntry = Field(
+        description="Details of the CEO's bachelor's degree education.",
+        example={
+            "major": "Economics",
+            "university": "University of California, Berkeley",
+            "country": "USA"
+        }
+    )
+    education_master: EducationEntry = Field(
+        description="Details of the CEO's master's degree education.",
+        example={
+            "major": "Finance",
+            "university": "Massachusetts Institute of Technology",
+            "country": "USA"
+        }
+    )
+    education_doctoral: EducationEntry = Field(
+        description="Details of the CEO's doctoral degree education.",
+        example={
+            "major": "Business Administration",
+            "university": "Stanford University",
+            "country": "USA"
+        }
+    )
+    working_experience: List[WorkingExperienceEntry] = Field(
+        default_factory=list,
+        description="A list of the CEO's previous work experiences.",
+        example=[
+            {
+                "position": "Chief Operating Officer",
+                "company": "Google",
+                "country": "USA",
+                "start_date": "2020-01-01",
+                "end_date": "2022-12-31"
+            }
+        ]
+    )
+
+
+query_prompt_1 = """
+Please search for comprehensive and up-to-date information on the CEO or President Director of the company {company}.
+
+You may use detailed queries for the retriever tool multiple times to ensure the information is accurate.
+
+Your results must include the following details, structured according to the JSON schema provided below:
+
+1. **Basic Information:**
+   - **Name:** The full name of the CEO (e.g., "Jane Doe").
+   - **Position:** The official title or designation (e.g., "CEO").
+   - **Start Tenure:** The date when the CEO began their tenure (in YYYY-MM-DD format, e.g., "2018-05-01"). Use None if unavailable.
+   - **End Tenure:** The date when the CEO ended their tenure (in YYYY-MM-DD format), or None if they are still serving.
+   - **Gender:** The gender of the CEO. Must be either "Male" or "Female" (e.g., "Female").
+   - **Birthdate or Age:** Either the CEO's birthdate (as a YYYY-MM-DD formatted string) or their age (as an integer) at the time of reporting (e.g., "1965-07-15").
+   - **Nationality:** The nationality of the CEO (e.g., "American").
+
+2. **Educational Background:**  
+   For each degree, please provide the following:
+   - **Bachelor's Degree ("education_bachelor")** with:
+     - **Major:** Field of study (e.g., "Economics").
+     - **University:** Name of the institution (e.g., "University of California, Berkeley").
+     - **Country:** Location of the institution (e.g., "USA").
+   - **Master's Degree ("education_master")** with similar details (e.g., "Finance" from "Massachusetts Institute of Technology", "USA").
+   - **Doctoral Degree ("education_doctoral")** with similar details (e.g., "Business Administration" from "Stanford University", "USA").
+
+3. **Working Experience:**  
+   A list of previous work experiences, where each entry should include:
+   - **Position:** The job title held (e.g., "Chief Operating Officer").
+   - **Company:** The name of the company or organization where the work experience took place (e.g., "Google").
+   - **Country:** The country where this experience took place (e.g., "USA").
+   - **Start Date:** When the work experience started (in YYYY-MM-DD format, e.g., "2020-01-01").
+   - **End Date:** When the work experience ended (in YYYY-MM-DD format, e.g., "2022-12-31"). Use None if the role is still ongoing.
+"""

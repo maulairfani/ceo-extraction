@@ -1,0 +1,61 @@
+{
+    "data": {
+        "name": "Octavio Alv\u00eddrez",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2012-08-15",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Mexican",
+        "education_bachelor": {
+            "major": "Mining Engineering",
+            "university": null,
+            "country": "Mexico"
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "General Manager",
+                "company": "Madero mine operated by Pe\u00f1oles",
+                "country": "Mexico",
+                "start_date": "1988-08-01",
+                "end_date": null
+            },
+            {
+                "position": "Treasurer and Head of Procurement",
+                "company": "Pe\u00f1oles",
+                "country": "Mexico",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Head of Investor Relations",
+                "company": "Fresnillo",
+                "country": "UK",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "MX_FRES_AR_2020"
+    },
+    "sources": [
+        4,
+        139,
+        144,
+        145,
+        50,
+        19,
+        180,
+        148,
+        22
+    ]
+}

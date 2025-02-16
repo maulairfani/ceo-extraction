@@ -1,0 +1,45 @@
+{
+    "data": {
+        "name": "John Eric Francia",
+        "position": "President & Chief Executive Officer",
+        "start_tenure": "2011-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Filipino",
+        "education_bachelor": {
+            "major": "Humanities and Political Economy",
+            "university": "University of Asia & the Pacific",
+            "country": "Philippines"
+        },
+        "education_master": {
+            "major": "Management Studies",
+            "university": "University of Cambridge",
+            "country": "United Kingdom"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Managing Director",
+                "company": "Ayala Corporation",
+                "country": "Philippines",
+                "start_date": "2009-01-01",
+                "end_date": null
+            }
+        ],
+        "company": "PH_PHEN_IR_2020"
+    },
+    "sources": [
+        34,
+        35,
+        36,
+        37,
+        38,
+        47,
+        31
+    ]
+}

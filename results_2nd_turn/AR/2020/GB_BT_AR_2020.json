@@ -1,0 +1,81 @@
+{
+    "data": {
+        "name": "Philip Jansen",
+        "position": "CEO",
+        "start_tenure": "2019-02-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1967-06-07",
+        "nationality": "British",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": "University of Exeter",
+            "country": "UK"
+        },
+        "education_master": {
+            "major": "MBA",
+            "university": "University of Cambridge",
+            "country": "UK"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "Worldpay",
+                "country": "UK",
+                "start_date": "2013-04-01",
+                "end_date": "2018-12-31"
+            },
+            {
+                "position": "CEO",
+                "company": "Brakes Group",
+                "country": "UK",
+                "start_date": "2010-01-01",
+                "end_date": "2015-01-01"
+            },
+            {
+                "position": "Group CEO",
+                "company": "Sodexo",
+                "country": "UK",
+                "start_date": "2004-01-01",
+                "end_date": "2010-01-01"
+            },
+            {
+                "position": "Chief Operating Officer",
+                "company": "MyTravel Group",
+                "country": "UK",
+                "start_date": "2002-01-01",
+                "end_date": "2004-01-01"
+            },
+            {
+                "position": "Managing Director",
+                "company": "Telewest Communications",
+                "country": "UK",
+                "start_date": "2000-01-01",
+                "end_date": "2002-01-01"
+            },
+            {
+                "position": "Various roles",
+                "company": "Procter & Gamble",
+                "country": "UK",
+                "start_date": "1990-01-01",
+                "end_date": "2000-01-01"
+            }
+        ],
+        "company": "GB_BT_AR_2020"
+    },
+    "sources": [
+        98,
+        9,
+        106,
+        12,
+        77,
+        14,
+        13,
+        115
+    ]
+}

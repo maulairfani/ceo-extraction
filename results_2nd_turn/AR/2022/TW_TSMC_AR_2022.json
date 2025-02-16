@@ -1,0 +1,70 @@
+{
+    "data": {
+        "name": "C.C. Wei",
+        "position": "CEO",
+        "start_tenure": "1998-02-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "R.O.C.",
+        "education_bachelor": {
+            "major": "Electrical Engineering",
+            "university": "National Chiao Tung University",
+            "country": "R.O.C."
+        },
+        "education_master": {
+            "major": "Electrical Engineering",
+            "university": "National Chiao Tung University",
+            "country": "R.O.C."
+        },
+        "education_doctoral": {
+            "major": "Electrical Engineering",
+            "university": "Yale University",
+            "country": "USA"
+        },
+        "working_experience": [
+            {
+                "position": "President and Co-Chief Executive Officer",
+                "company": "TSMC",
+                "country": "R.O.C.",
+                "start_date": "1998-02-01",
+                "end_date": null
+            },
+            {
+                "position": "Executive Vice President and Co-Chief Operating Officer",
+                "company": "TSMC",
+                "country": "R.O.C.",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Senior Vice President, Business Development",
+                "company": "TSMC",
+                "country": "R.O.C.",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Senior Vice President, Mainstream Technology Business",
+                "company": "TSMC",
+                "country": "R.O.C.",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Senior Vice President, Chartered Semiconductor Manufacturing Ltd.",
+                "company": "Chartered Semiconductor Manufacturing Ltd.",
+                "country": "Singapore",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "TW_TSMC_AR_2022"
+    },
+    "sources": [
+        16,
+        18,
+        19,
+        14
+    ]
+}

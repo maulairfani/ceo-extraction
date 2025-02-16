@@ -1,0 +1,50 @@
+{
+    "data": {
+        "name": "Darren Entwistle",
+        "position": "President and Chief Executive Officer",
+        "start_tenure": "2005-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Canadian",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer",
+                "company": "TELUS",
+                "country": "Canada",
+                "start_date": "2005-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Director",
+                "company": "TELUS",
+                "country": "Canada",
+                "start_date": "2000-01-01",
+                "end_date": null
+            }
+        ],
+        "company": "CA_T_AR_2023"
+    },
+    "sources": [
+        1,
+        17,
+        26,
+        27,
+        28
+    ]
+}

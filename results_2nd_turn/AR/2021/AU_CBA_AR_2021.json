@@ -1,0 +1,59 @@
+{
+    "data": {
+        "name": "Matt Comyn",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2018-04-09",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Australian",
+        "education_bachelor": {
+            "major": "Bachelor of Arts",
+            "university": "University of Sydney",
+            "country": "Australia"
+        },
+        "education_master": {
+            "major": "Master of Commerce",
+            "university": "University of New South Wales",
+            "country": "Australia"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Group Executive Retail Banking Services",
+                "company": "Commonwealth Bank of Australia",
+                "country": "Australia",
+                "start_date": "2012-01-01",
+                "end_date": "2018-04-08"
+            },
+            {
+                "position": "Managing Director",
+                "company": "CommSec",
+                "country": "Australia",
+                "start_date": "2006-01-01",
+                "end_date": "2010-12-31"
+            },
+            {
+                "position": "Various Senior Roles",
+                "company": "Commonwealth Bank of Australia",
+                "country": "Australia",
+                "start_date": "1999-01-01",
+                "end_date": "2011-12-31"
+            }
+        ],
+        "company": "AU_CBA_AR_2021"
+    },
+    "sources": [
+        4,
+        6,
+        38,
+        40,
+        39,
+        43,
+        44
+    ]
+}

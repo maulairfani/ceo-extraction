@@ -1,0 +1,58 @@
+{
+    "data": {
+        "name": "Roland Busch",
+        "position": "President and Chief Executive Officer",
+        "start_tenure": "2011-04-01",
+        "end_tenure": "2025-03-31",
+        "gender": "Male",
+        "birthdate_or_age": "1964-11-22",
+        "nationality": "German",
+        "education_bachelor": {
+            "major": "Physics",
+            "university": "Technical University of Munich",
+            "country": "Germany"
+        },
+        "education_master": {
+            "major": "Physics",
+            "university": "Technical University of Munich",
+            "country": "Germany"
+        },
+        "education_doctoral": {
+            "major": "Natural Sciences",
+            "university": "Technical University of Munich",
+            "country": "Germany"
+        },
+        "working_experience": [
+            {
+                "position": "President and Chief Executive Officer",
+                "company": "Siemens AG",
+                "country": "Germany",
+                "start_date": "2021-02-03",
+                "end_date": null
+            },
+            {
+                "position": "Member of the Managing Board",
+                "company": "Siemens AG",
+                "country": "Germany",
+                "start_date": "2011-04-01",
+                "end_date": null
+            },
+            {
+                "position": "Head of Siemens Mobility",
+                "company": "Siemens AG",
+                "country": "Germany",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "DE_SIE_AR_2023"
+    },
+    "sources": [
+        162,
+        134,
+        135,
+        168,
+        203,
+        216
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "data": {
+        "name": "Jos\u00e9 Mar\u00eda \u00c1lvarez-Pallete L\u00f3pez",
+        "position": "Executive Chairman",
+        "start_tenure": "2016-04-08",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1963-01-01",
+        "nationality": "Spanish",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": "Complutense University of Madrid",
+            "country": "Spain"
+        },
+        "education_master": {
+            "major": "Economics",
+            "university": "Free University of Brussels",
+            "country": "Belgium"
+        },
+        "education_doctoral": {
+            "major": "Advanced Research Degree",
+            "university": "Complutense University of Madrid",
+            "country": "Spain"
+        },
+        "working_experience": [
+            {
+                "position": "Chief Financial Officer",
+                "company": "Telef\u00f3nica S.A.",
+                "country": "Spain",
+                "start_date": "1999-02-01",
+                "end_date": null
+            },
+            {
+                "position": "Chief Financial Officer",
+                "company": "Telef\u00f3nica Internacional S.A.U.",
+                "country": "Spain",
+                "start_date": "1999-02-01",
+                "end_date": null
+            },
+            {
+                "position": "Chief Financial Officer",
+                "company": "CEMEX Group Indonesia",
+                "country": "Indonesia",
+                "start_date": "1998-01-01",
+                "end_date": "1999-01-01"
+            },
+            {
+                "position": "Chief Financial Officer",
+                "company": "Compa\u00f1\u00eda Valenciana de Cementos Portland (CEMEX)",
+                "country": "Spain",
+                "start_date": "1995-01-01",
+                "end_date": "1998-01-01"
+            },
+            {
+                "position": "Consultant",
+                "company": "Benito & Monjard\u00edn / Kidder, Peabody & Co.",
+                "country": "Spain",
+                "start_date": "1988-01-01",
+                "end_date": "1995-01-01"
+            },
+            {
+                "position": "Auditor",
+                "company": "Arthur Young Auditors",
+                "country": "Spain",
+                "start_date": "1987-01-01",
+                "end_date": "1988-01-01"
+            }
+        ],
+        "company": "ES_TEF_IR_2023"
+    },
+    "sources": [
+        480,
+        481,
+        482,
+        483,
+        599,
+        591,
+        593,
+        597,
+        567
+    ]
+}

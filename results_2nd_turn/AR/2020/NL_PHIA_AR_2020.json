@@ -1,0 +1,58 @@
+{
+    "data": {
+        "name": "Frans van Houten",
+        "position": "Chief Executive Officer (CEO)",
+        "start_tenure": "2011-04-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1960-01-01",
+        "nationality": "Dutch",
+        "education_bachelor": {
+            "major": "Industrial Engineering",
+            "university": "University of Twente",
+            "country": "Netherlands"
+        },
+        "education_master": {
+            "major": "Management",
+            "university": "Rotterdam School of Management, Erasmus University",
+            "country": "Netherlands"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Co-CEO",
+                "company": "Philips Consumer Electronics",
+                "country": "Various (on three continents)",
+                "start_date": "2001-01-01",
+                "end_date": "2006-12-31"
+            },
+            {
+                "position": "President & CEO",
+                "company": "Philips Group",
+                "country": "Rotterdam, Netherlands",
+                "start_date": "2011-04-01",
+                "end_date": null
+            },
+            {
+                "position": "Various Leadership Positions",
+                "company": "Philips",
+                "country": "Various",
+                "start_date": "1986-01-01",
+                "end_date": "2001-12-31"
+            }
+        ],
+        "company": "NL_PHIA_AR_2020"
+    },
+    "sources": [
+        7,
+        104,
+        8,
+        105,
+        85,
+        92
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "data": {
+        "name": "Michael Lewis",
+        "position": "CEO",
+        "start_tenure": "2023-06-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "null",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chairman of the Board of Management, Chief Executive Officer",
+                "company": "Uniper SE",
+                "country": "Germany",
+                "start_date": "2023-06-01",
+                "end_date": null
+            },
+            {
+                "position": "Chairman",
+                "company": "Uniper Global Commodities SE",
+                "country": "Germany",
+                "start_date": "2023-06-01",
+                "end_date": null
+            },
+            {
+                "position": "Chairman",
+                "company": "Uniper Kraftwerke GmbH",
+                "country": "Germany",
+                "start_date": "2023-06-01",
+                "end_date": null
+            },
+            {
+                "position": "Board Member",
+                "company": "United Utilities Group PLC",
+                "country": "UK",
+                "start_date": "2023-05-01",
+                "end_date": null
+            }
+        ],
+        "company": "DE_UNPRF_AR_2023"
+    },
+    "sources": [
+        98,
+        11,
+        87,
+        280,
+        281,
+        91
+    ]
+}

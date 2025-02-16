@@ -1,0 +1,53 @@
+{
+    "data": {
+        "name": "Luca de Meo",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2020-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1967-09-18",
+        "nationality": "Italian",
+        "education_bachelor": {
+            "major": "Marketing and Business Management",
+            "university": "Universit\u00e0 Bocconi",
+            "country": "Italy"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "Universit\u00e4t Mannheim",
+            "country": "Germany"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Marketing Director",
+                "company": "Volkswagen",
+                "country": "Germany",
+                "start_date": "2012-01-01",
+                "end_date": "2015-01-01"
+            },
+            {
+                "position": "Managing Director",
+                "company": "SEAT",
+                "country": "Spain",
+                "start_date": "2015-01-01",
+                "end_date": "2020-01-01"
+            }
+        ],
+        "company": "FR_RNO_AR_2023"
+    },
+    "sources": [
+        290,
+        8,
+        297,
+        11,
+        524,
+        248,
+        282,
+        251
+    ]
+}

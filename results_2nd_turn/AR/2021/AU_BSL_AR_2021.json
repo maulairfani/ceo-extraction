@@ -1,0 +1,63 @@
+{
+    "data": {
+        "name": "Mark Vassella",
+        "position": "Managing Director & Chief Executive Officer",
+        "start_tenure": "2018-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": 58,
+        "nationality": "Australian",
+        "education_bachelor": {
+            "major": "Commerce",
+            "university": null,
+            "country": "Australia"
+        },
+        "education_master": {
+            "major": "MBA",
+            "university": null,
+            "country": "Australia"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive",
+                "company": "Smorgon Steel Distribution",
+                "country": "Australia",
+                "start_date": "2007-01-01",
+                "end_date": "2018-01-01"
+            },
+            {
+                "position": "Chief Executive Australian Distribution and Solutions",
+                "company": "BlueScope",
+                "country": "Australia",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "President",
+                "company": "BlueScope Steel North America",
+                "country": "USA",
+                "start_date": "2008-01-01",
+                "end_date": "2011-01-01"
+            },
+            {
+                "position": "Chief Executive BlueScope Australia and New Zealand",
+                "company": "BlueScope",
+                "country": "Australia",
+                "start_date": "2011-01-01",
+                "end_date": "2018-01-01"
+            }
+        ],
+        "company": "AU_BSL_AR_2021"
+    },
+    "sources": [
+        33,
+        139,
+        150,
+        6
+    ]
+}

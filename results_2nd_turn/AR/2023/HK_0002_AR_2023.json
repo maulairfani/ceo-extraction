@@ -1,0 +1,49 @@
+{
+    "data": {
+        "name": "Chiang Tung Keung",
+        "position": "Chief Executive Officer (CEO)",
+        "start_tenure": "2023-10-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": 57,
+        "nationality": "Hong Kong",
+        "education_bachelor": {
+            "major": "Electrical & Electronic Engineering",
+            "university": "The University of Hong Kong",
+            "country": "Hong Kong"
+        },
+        "education_master": {
+            "major": "Electrical Engineering",
+            "university": "The Hong Kong Polytechnic University",
+            "country": "Hong Kong"
+        },
+        "education_doctoral": {
+            "major": "Business Administration",
+            "university": "The Chinese University of Hong Kong",
+            "country": "Hong Kong"
+        },
+        "working_experience": [
+            {
+                "position": "Managing Director - CLP Power",
+                "company": "CLP Power",
+                "country": "Hong Kong",
+                "start_date": "2017-06-01",
+                "end_date": "2023-06-30"
+            },
+            {
+                "position": "Graduate Trainee",
+                "company": "CLP Power",
+                "country": "Hong Kong",
+                "start_date": "1988-01-01",
+                "end_date": null
+            }
+        ],
+        "company": "HK_0002_AR_2023"
+    },
+    "sources": [
+        80,
+        177,
+        82,
+        83
+    ]
+}

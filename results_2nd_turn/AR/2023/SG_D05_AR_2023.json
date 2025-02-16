@@ -1,0 +1,65 @@
+{
+    "data": {
+        "name": "Piyush Gupta",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2009-11-09",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1959-12-01",
+        "nationality": "Indian",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": "University of Delhi",
+            "country": "India"
+        },
+        "education_master": {
+            "major": "Management",
+            "university": "Indian Institute of Management, Ahmedabad",
+            "country": "India"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer & Executive Director",
+                "company": "DBS Group Holdings Ltd and DBS Bank Ltd",
+                "country": "Singapore",
+                "start_date": "2009-11-09",
+                "end_date": null
+            },
+            {
+                "position": "Chairman & CEO",
+                "company": "Kiina Systems Limited",
+                "country": "India",
+                "start_date": "2014-04-01",
+                "end_date": "2020-12-31"
+            },
+            {
+                "position": "Executive Vice President & Board Director",
+                "company": "Solar Frontier K.K.",
+                "country": "Japan",
+                "start_date": "2014-01-01",
+                "end_date": "2016-12-31"
+            },
+            {
+                "position": "Adjunct Professor",
+                "company": "Singapore Management University",
+                "country": "Singapore",
+                "start_date": "2004-01-01",
+                "end_date": "2015-12-31"
+            }
+        ],
+        "company": "SG_D05_AR_2023"
+    },
+    "sources": [
+        97,
+        98,
+        37,
+        6,
+        109,
+        111
+    ]
+}

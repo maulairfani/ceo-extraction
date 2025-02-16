@@ -1,0 +1,52 @@
+{
+    "data": {
+        "name": "S\u00f8ren Skou",
+        "position": "CEO",
+        "start_tenure": "2016-06-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1964-01-01",
+        "nationality": "Danish",
+        "education_bachelor": {
+            "major": "Business Administration",
+            "university": "Copenhagen Business School",
+            "country": "Denmark"
+        },
+        "education_master": {
+            "major": "MBA (Honours)",
+            "university": "IMD",
+            "country": "Switzerland"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "Maersk Tankers",
+                "country": "Denmark",
+                "start_date": "2001-01-01",
+                "end_date": "2011-01-01"
+            },
+            {
+                "position": "Various roles",
+                "company": "A.P. M\u00f8ller - M\u00e6rsk A/S",
+                "country": "Various locations (Copenhagen, New York, Beijing)",
+                "start_date": "1983-01-01",
+                "end_date": "1998-01-01"
+            }
+        ],
+        "company": "DK_MAERSK-B_AR_2020"
+    },
+    "sources": [
+        1,
+        7,
+        136,
+        10,
+        150,
+        57,
+        58
+    ]
+}

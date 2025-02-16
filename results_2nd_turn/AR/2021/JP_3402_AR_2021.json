@@ -1,0 +1,70 @@
+{
+    "data": {
+        "name": "Akihiro Nikkaku",
+        "position": "President, Chief Executive Officer, Chief Operating Officer",
+        "start_tenure": "2010-04-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Japanese",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "General Manager, Engineering Division",
+                "company": "Toray Industries, Inc.",
+                "country": "Japan",
+                "start_date": "2001-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Vice President (Member of the Board)",
+                "company": "Toray Industries, Inc.",
+                "country": "Japan",
+                "start_date": "2002-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Senior Vice President (Member of the Board)",
+                "company": "Toray Industries, Inc.",
+                "country": "Japan",
+                "start_date": "2004-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Executive Vice President and Representative Member of the Board",
+                "company": "Toray Industries, Inc.",
+                "country": "Japan",
+                "start_date": "2007-01-01",
+                "end_date": null
+            },
+            {
+                "position": "President and Representative Member of the Board",
+                "company": "Toray Industries, Inc.",
+                "country": "Japan",
+                "start_date": "2010-04-01",
+                "end_date": null
+            }
+        ],
+        "company": "JP_3402_AR_2021"
+    },
+    "sources": [
+        56,
+        49,
+        54,
+        55
+    ]
+}

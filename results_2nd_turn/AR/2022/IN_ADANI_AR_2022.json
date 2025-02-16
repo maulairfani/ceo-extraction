@@ -1,0 +1,34 @@
+{
+    "data": {
+        "name": "Shersingh B. Khyalia",
+        "position": "Chief Executive Officer",
+        "start_tenure": null,
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [],
+        "company": "IN_ADANI_AR_2022"
+    },
+    "sources": [
+        458,
+        125,
+        150,
+        149
+    ]
+}

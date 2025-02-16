@@ -1,0 +1,73 @@
+{
+    "data": {
+        "name": "Benjamin Smith",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2018-08-16",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1971-08-27",
+        "nationality": "British and Canadian",
+        "education_bachelor": {
+            "major": "Business Administration",
+            "university": "University not specified",
+            "country": "Canada"
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "President Airlines and Chief Operating Officer",
+                "company": "Air Canada",
+                "country": "Canada",
+                "start_date": "2014-01-01",
+                "end_date": "2018-08-15"
+            },
+            {
+                "position": "Executive Vice-President and Chief Commercial Officer",
+                "company": "Air Canada",
+                "country": "Canada",
+                "start_date": "2007-01-01",
+                "end_date": "2014-01-01"
+            },
+            {
+                "position": "Head of Network Planning",
+                "company": "Air Canada",
+                "country": "Canada",
+                "start_date": "2002-01-01",
+                "end_date": "2007-01-01"
+            },
+            {
+                "position": "Entrepreneur",
+                "company": "Retail Corporate Travel Agency",
+                "country": "Canada",
+                "start_date": "1992-01-01",
+                "end_date": "2000-01-01"
+            },
+            {
+                "position": "Customer Service Agent",
+                "company": "Air Ontario",
+                "country": "Canada",
+                "start_date": "1990-01-01",
+                "end_date": "1992-01-01"
+            }
+        ],
+        "company": "FR_AF_AR_2021"
+    },
+    "sources": [
+        67,
+        132,
+        71,
+        74,
+        76,
+        83,
+        407
+    ]
+}

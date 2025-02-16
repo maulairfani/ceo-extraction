@@ -1,0 +1,79 @@
+{
+    "data": {
+        "name": "Vasant (Vas) Narasimhan",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2018-02-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1976-01-01",
+        "nationality": "American",
+        "education_bachelor": {
+            "major": "Biological Sciences",
+            "university": "University of Chicago",
+            "country": "USA"
+        },
+        "education_master": {
+            "major": "Public Policy",
+            "university": "John F. Kennedy School of Government, Harvard University",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": "Medicine",
+            "university": "Harvard Medical School",
+            "country": "USA"
+        },
+        "working_experience": [
+            {
+                "position": "Global Head of Drug Development and Chief Medical Officer",
+                "company": "Novartis AG",
+                "country": "Switzerland",
+                "start_date": "2016-01-01",
+                "end_date": "2018-01-31"
+            },
+            {
+                "position": "Global Head of Development",
+                "company": "Novartis Pharmaceuticals",
+                "country": "Switzerland",
+                "start_date": "2014-01-01",
+                "end_date": "2016-12-31"
+            },
+            {
+                "position": "Global Head of Biopharmaceuticals and Oncology Injectables",
+                "company": "Sandoz International",
+                "country": "Germany",
+                "start_date": "2014-01-01",
+                "end_date": "2014-12-31"
+            },
+            {
+                "position": "Global Head of Development",
+                "company": "Novartis Vaccines",
+                "country": "USA",
+                "start_date": "2012-01-01",
+                "end_date": "2014-12-31"
+            },
+            {
+                "position": "North America Region Head and US Country President",
+                "company": "Novartis Vaccines and Diagnostics",
+                "country": "USA",
+                "start_date": "2008-01-01",
+                "end_date": "2012-12-31"
+            },
+            {
+                "position": "Various roles",
+                "company": "Novartis",
+                "country": "Various",
+                "start_date": "2005-01-01",
+                "end_date": null
+            }
+        ],
+        "company": "CH_NOVN_AR_2022"
+    },
+    "sources": [
+        3,
+        5,
+        151,
+        152,
+        153,
+        154
+    ]
+}

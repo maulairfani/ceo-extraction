@@ -1,0 +1,65 @@
+{
+    "data": {
+        "name": "Andrea Orcel",
+        "position": "Chief Executive Officer & Head of Italy",
+        "start_tenure": "2021-04-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1963-07-29",
+        "nationality": "Italian",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": "University of Rome",
+            "country": "Italy"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "London Business School",
+            "country": "UK"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Group Chief Executive Officer",
+                "company": "UniCredit S.p.A.",
+                "country": "Italy",
+                "start_date": "2021-04-01",
+                "end_date": null
+            },
+            {
+                "position": "Chief Executive Officer",
+                "company": "Bank of America Merrill Lynch",
+                "country": "USA",
+                "start_date": "2018-01-01",
+                "end_date": "2021-03-31"
+            },
+            {
+                "position": "Head of Investment Banking",
+                "company": "Deutsche Bank",
+                "country": "Germany",
+                "start_date": "2013-01-01",
+                "end_date": "2017-12-31"
+            },
+            {
+                "position": "Head of Global Markets",
+                "company": "UBS",
+                "country": "Switzerland",
+                "start_date": "2006-01-01",
+                "end_date": "2012-12-31"
+            }
+        ],
+        "company": "IT_UCG_AR_2023"
+    },
+    "sources": [
+        905,
+        15,
+        591,
+        24,
+        217,
+        216
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "data": {
+        "name": "Warren East",
+        "position": "Chief Executive",
+        "start_tenure": "2015-07-03",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "British",
+        "education_bachelor": {
+            "major": "Engineering",
+            "university": "University of Manchester",
+            "country": "UK"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "University of Cambridge",
+            "country": "UK"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive",
+                "company": "Rolls-Royce Holdings PLC",
+                "country": "UK",
+                "start_date": "2015-07-03",
+                "end_date": null
+            },
+            {
+                "position": "Chief Executive Officer",
+                "company": "ARM Holdings plc",
+                "country": "UK",
+                "start_date": "2001-01-01",
+                "end_date": "2013-07-01"
+            }
+        ],
+        "company": "GB_RR._AR_2020"
+    },
+    "sources": [
+        1,
+        66,
+        67,
+        98,
+        97,
+        100,
+        59,
+        94
+    ]
+}

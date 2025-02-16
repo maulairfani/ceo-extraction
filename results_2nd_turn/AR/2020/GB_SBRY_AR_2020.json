@@ -1,0 +1,56 @@
+{
+    "data": {
+        "name": "Simon Roberts",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2020-06-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Retail & Operations Director",
+                "company": "Sainsbury's",
+                "country": "UK",
+                "start_date": "2017-07-01",
+                "end_date": null
+            },
+            {
+                "position": "Executive Vice President",
+                "company": "Walgreens Boots Alliance",
+                "country": null,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "President",
+                "company": "Boots UK and Ireland",
+                "country": null,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "GB_SBRY_AR_2020"
+    },
+    "sources": [
+        48,
+        49,
+        52,
+        54
+    ]
+}

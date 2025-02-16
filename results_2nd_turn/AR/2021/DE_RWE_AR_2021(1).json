@@ -1,0 +1,63 @@
+{
+    "data": {
+        "name": "Markus Krebber",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2021-05-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1973-01-01",
+        "nationality": "German",
+        "education_bachelor": {
+            "major": "Banking",
+            "university": null,
+            "country": "Germany"
+        },
+        "education_master": {
+            "major": "Economics",
+            "university": null,
+            "country": "Germany"
+        },
+        "education_doctoral": {
+            "major": "Economics",
+            "university": null,
+            "country": "Germany"
+        },
+        "working_experience": [
+            {
+                "position": "Manager",
+                "company": "McKinsey & Company",
+                "country": "Germany",
+                "start_date": "2000-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Various managerial positions",
+                "company": "Commerzbank AG",
+                "country": "Germany",
+                "start_date": "2000-01-01",
+                "end_date": null
+            },
+            {
+                "position": "CEO",
+                "company": "RWE Supply & Trading GmbH",
+                "country": "Germany",
+                "start_date": "2015-03-01",
+                "end_date": "2021-04-30"
+            },
+            {
+                "position": "Chief Financial Officer",
+                "company": "RWE AG",
+                "country": "Germany",
+                "start_date": "2016-10-01",
+                "end_date": "2021-04-30"
+            }
+        ],
+        "company": "DE_RWE_AR_2021(1)"
+    },
+    "sources": [
+        8,
+        226,
+        227,
+        223
+    ]
+}

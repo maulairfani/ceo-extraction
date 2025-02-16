@@ -1,0 +1,70 @@
+{
+    "data": {
+        "name": "Albert Manifold",
+        "position": "Group Chief Executive",
+        "start_tenure": "2014-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": 59,
+        "nationality": "Irish",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Operating Officer",
+                "company": "CRH",
+                "country": "Ireland",
+                "start_date": "2009-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Finance Director of the Europe Materials Division",
+                "company": "CRH",
+                "country": "Ireland",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Group Development Director",
+                "company": "CRH",
+                "country": "Ireland",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Managing Director of Europe Materials",
+                "company": "CRH",
+                "country": "Ireland",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Chief Operating Officer with a private equity group",
+                "company": null,
+                "country": null,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "IE_CRG_AR_2021"
+    },
+    "sources": [
+        75,
+        64,
+        58,
+        267
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "data": {
+        "name": "Bill Maldonado",
+        "position": "CEO",
+        "start_tenure": "2023-09-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Unknown",
+        "education_bachelor": {
+            "major": "Physics",
+            "university": "Sussex University, Uppsala University",
+            "country": "UK, Sweden"
+        },
+        "education_master": {
+            "major": "MBA",
+            "university": "Cranfield University",
+            "country": "UK"
+        },
+        "education_doctoral": {
+            "major": "Laser Physics",
+            "university": "Oxford University",
+            "country": "UK"
+        },
+        "working_experience": [
+            {
+                "position": "Chief Investment Officer",
+                "company": "Eastspring",
+                "country": "Singapore",
+                "start_date": "2022-05-01",
+                "end_date": null
+            },
+            {
+                "position": "Asia Pacific Chief Investment Officer, Global Chief Investment Officer, Equities",
+                "company": "HSBC Global Asset Management",
+                "country": "Various",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Head of Equities",
+                "company": "Eastspring",
+                "country": "Singapore",
+                "start_date": "2021-09-01",
+                "end_date": null
+            }
+        ],
+        "company": "GB_PRU_AR_2023"
+    },
+    "sources": [
+        160,
+        162,
+        163,
+        164,
+        114,
+        56,
+        154,
+        157,
+        158,
+        159
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "data": {
+        "name": "Edmond Scanlon",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2017-10-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": 49,
+        "nationality": "Irish",
+        "education_bachelor": {
+            "major": "Food Science",
+            "university": "University College Dublin",
+            "country": "Ireland"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "University of Cambridge",
+            "country": "UK"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Executive Director & CEO",
+                "company": "Kerry Group",
+                "country": "Ireland",
+                "start_date": "2017-10-01",
+                "end_date": null
+            },
+            {
+                "position": "Head of Group's Flavours and Applied Health and Nutrition businesses",
+                "company": "Kerry Group",
+                "country": "Ireland",
+                "start_date": "2005-04-01",
+                "end_date": "2017-09-30"
+            },
+            {
+                "position": "Regional Chief Operating Officer",
+                "company": "Kerry Group",
+                "country": "USA",
+                "start_date": "2000-01-01",
+                "end_date": "2005-03-31"
+            },
+            {
+                "position": "Regional CEO",
+                "company": "Kerry Group",
+                "country": "China",
+                "start_date": "1996-06-01",
+                "end_date": "2000-12-31"
+            }
+        ],
+        "company": "IE_KRZ_AR_2022"
+    },
+    "sources": [
+        128,
+        167,
+        108,
+        109,
+        111,
+        17,
+        155,
+        158,
+        127
+    ]
+}

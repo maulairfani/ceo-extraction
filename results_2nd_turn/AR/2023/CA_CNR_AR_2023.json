@@ -1,0 +1,52 @@
+{
+    "data": {
+        "name": "Tracy Robinson",
+        "position": "President and Chief Executive Officer",
+        "start_tenure": "2023-01-01",
+        "end_tenure": null,
+        "gender": "Female",
+        "birthdate_or_age": null,
+        "nationality": "Canadian",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Executive Vice-President, Corporate Services",
+                "company": "Canadian National Railway Company",
+                "country": "Canada",
+                "start_date": "2020-01-01",
+                "end_date": "2022-12-31"
+            },
+            {
+                "position": "Senior Vice-President of Operations",
+                "company": "Canadian National Railway Company",
+                "country": "Canada",
+                "start_date": "2018-01-01",
+                "end_date": "2019-12-31"
+            }
+        ],
+        "company": "CA_CNR_AR_2023"
+    },
+    "sources": [
+        98,
+        8,
+        9,
+        11,
+        152,
+        27,
+        29
+    ]
+}

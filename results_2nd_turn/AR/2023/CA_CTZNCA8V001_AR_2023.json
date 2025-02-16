@@ -1,0 +1,66 @@
+{
+    "data": {
+        "name": "Wellington Holbrook",
+        "position": "President and CEO",
+        "start_tenure": "2024-01-15",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "connectFirst Credit Union",
+                "country": "Canada",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Senior Director",
+                "company": "Gartner",
+                "country": null,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Leader",
+                "company": "Business Development Bank of Canada",
+                "country": "Canada",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Executive",
+                "company": "ATB Financial",
+                "country": "Canada",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "CA_CTZNCA8V001_AR_2023"
+    },
+    "sources": [
+        33,
+        36,
+        5,
+        38,
+        6,
+        39,
+        11
+    ]
+}

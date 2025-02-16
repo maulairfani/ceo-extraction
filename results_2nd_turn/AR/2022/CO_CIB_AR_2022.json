@@ -1,0 +1,59 @@
+{
+    "data": {
+        "name": "Juan Carlos Mora Uribe",
+        "position": "CEO",
+        "start_tenure": null,
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Colombian",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": "University of Los Andes",
+            "country": "Colombia"
+        },
+        "education_master": {
+            "major": "Finance",
+            "university": "University of Chicago",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Vice President for Corporate Banking",
+                "company": "Bancolombia",
+                "country": "Colombia",
+                "start_date": "2010-01-01",
+                "end_date": "2013-12-31"
+            },
+            {
+                "position": "Corporate Vice President",
+                "company": "Bancolombia",
+                "country": "Colombia",
+                "start_date": "2014-01-01",
+                "end_date": "2018-03-31"
+            },
+            {
+                "position": "CEO",
+                "company": "Bancolombia",
+                "country": "Colombia",
+                "start_date": "2018-04-01",
+                "end_date": null
+            }
+        ],
+        "company": "CO_CIB_AR_2022"
+    },
+    "sources": [
+        6,
+        74,
+        10,
+        79,
+        19,
+        20,
+        182
+    ]
+}

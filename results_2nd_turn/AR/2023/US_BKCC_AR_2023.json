@@ -1,0 +1,59 @@
+{
+    "data": {
+        "name": "Laurence D. Fink",
+        "position": "Chairman and Chief Executive Officer",
+        "start_tenure": "1988-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1952-11-02",
+        "nationality": "American",
+        "education_bachelor": {
+            "major": "Political Science",
+            "university": "Suny - Oneonta",
+            "country": "USA"
+        },
+        "education_master": {
+            "major": "MBA",
+            "university": "Columbia University Graduate School of Business",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Co-Founder and CEO",
+                "company": "BlackRock, Inc.",
+                "country": "USA",
+                "start_date": "1988-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Vice President",
+                "company": "First Boston",
+                "country": "USA",
+                "start_date": "1980-01-01",
+                "end_date": "1988-01-01"
+            },
+            {
+                "position": "Financial Analyst",
+                "company": "The Bank of America",
+                "country": "USA",
+                "start_date": "1976-01-01",
+                "end_date": "1980-01-01"
+            }
+        ],
+        "company": "US_BKCC_AR_2023"
+    },
+    "sources": [
+        3,
+        6,
+        7,
+        75,
+        45,
+        16,
+        17
+    ]
+}

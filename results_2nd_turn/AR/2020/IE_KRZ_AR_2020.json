@@ -1,0 +1,59 @@
+{
+    "data": {
+        "name": "Edmond Scanlon",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2017-10-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1973-10-26",
+        "nationality": "Irish",
+        "education_bachelor": {
+            "major": "Food Science",
+            "university": "University College Dublin",
+            "country": "Ireland"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "University of Michigan",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Regional Chief Executive Officer",
+                "company": "Kerry Group",
+                "country": "China",
+                "start_date": "2012-01-01",
+                "end_date": "2017-09-30"
+            },
+            {
+                "position": "Senior Vice President",
+                "company": "Kerry Group",
+                "country": "USA",
+                "start_date": "2006-01-01",
+                "end_date": "2011-12-31"
+            },
+            {
+                "position": "Product Development Manager",
+                "company": "Kerry Group",
+                "country": "Ireland",
+                "start_date": "1996-01-01",
+                "end_date": "2005-12-31"
+            }
+        ],
+        "company": "IE_KRZ_AR_2020"
+    },
+    "sources": [
+        97,
+        139,
+        148,
+        149,
+        87,
+        88,
+        90
+    ]
+}

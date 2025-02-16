@@ -1,0 +1,91 @@
+{
+    "data": {
+        "name": "Mads Nipper",
+        "position": "Group President and CEO",
+        "start_tenure": "2021-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1966-01-01",
+        "nationality": "Danish",
+        "education_bachelor": {
+            "major": "International Business",
+            "university": "University of Aarhus",
+            "country": "Denmark"
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Group President and Chief Executive Officer",
+                "company": "\u00d8rsted A/S",
+                "country": "Denmark",
+                "start_date": "2021-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Group President and Chief Executive Officer",
+                "company": "Grundfos A/S",
+                "country": "Denmark",
+                "start_date": "2014-01-01",
+                "end_date": "2020-12-31"
+            },
+            {
+                "position": "Executive Vice President, Chief Marketing Officer",
+                "company": "Lego A/S",
+                "country": "Denmark",
+                "start_date": "2011-01-01",
+                "end_date": "2014-12-31"
+            },
+            {
+                "position": "Executive Vice President, Markets & Products",
+                "company": "Lego A/S",
+                "country": "Denmark",
+                "start_date": "2006-01-01",
+                "end_date": "2011-12-31"
+            },
+            {
+                "position": "Senior Vice President, Global Innovation & Marketing",
+                "company": "Lego A/S",
+                "country": "Denmark",
+                "start_date": "2004-01-01",
+                "end_date": "2006-12-31"
+            },
+            {
+                "position": "Managing Director and Senior Vice President, Lego Central Europe",
+                "company": "Lego A/S",
+                "country": "Denmark",
+                "start_date": "2001-01-01",
+                "end_date": "2004-12-31"
+            },
+            {
+                "position": "Senior Vice President, Global Segment 8+",
+                "company": "Lego A/S",
+                "country": "Denmark",
+                "start_date": "1999-01-01",
+                "end_date": "2001-12-31"
+            },
+            {
+                "position": "Various manager positions",
+                "company": "Lego A/S",
+                "country": "Denmark",
+                "start_date": "1992-01-01",
+                "end_date": "1999-12-31"
+            }
+        ],
+        "company": "DK_ORSTED_AR_2021"
+    },
+    "sources": [
+        176,
+        169,
+        69,
+        65
+    ]
+}

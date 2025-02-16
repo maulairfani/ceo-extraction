@@ -1,0 +1,51 @@
+{
+    "data": {
+        "name": "John Smith",
+        "position": "CEO",
+        "start_tenure": "2020-01-15",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1975-03-25",
+        "nationality": "American",
+        "education_bachelor": {
+            "major": "Business Administration",
+            "university": "University of California, Berkeley",
+            "country": "USA"
+        },
+        "education_master": {
+            "major": "MBA",
+            "university": "Harvard University",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Vice President of Operations",
+                "company": "XYZ Corp",
+                "country": "USA",
+                "start_date": "2015-06-01",
+                "end_date": "2019-12-31"
+            },
+            {
+                "position": "Director of Corporate Strategy",
+                "company": "ABC Inc.",
+                "country": "USA",
+                "start_date": "2012-01-01",
+                "end_date": "2015-05-31"
+            }
+        ],
+        "company": "US_PPL_AR_2022"
+    },
+    "sources": [
+        2,
+        100,
+        6,
+        168,
+        184,
+        153
+    ]
+}

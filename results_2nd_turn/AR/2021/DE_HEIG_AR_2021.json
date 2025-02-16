@@ -1,0 +1,49 @@
+{
+    "data": {
+        "name": "Dr Dominik von Achten",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2020-02-01",
+        "end_tenure": "2025-01-01",
+        "gender": "Male",
+        "birthdate_or_age": 56,
+        "nationality": "German",
+        "education_bachelor": {
+            "major": "Law and Economics",
+            "university": "University of Freiburg and University of Munich",
+            "country": "Germany"
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Member of the Managing Board",
+                "company": "HeidelbergCement AG",
+                "country": "Germany",
+                "start_date": "2007-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Chairman of the Managing Board",
+                "company": "HeidelbergCement AG",
+                "country": "Germany",
+                "start_date": "2020-02-01",
+                "end_date": null
+            }
+        ],
+        "company": "DE_HEIG_AR_2021"
+    },
+    "sources": [
+        120,
+        121,
+        14,
+        15
+    ]
+}

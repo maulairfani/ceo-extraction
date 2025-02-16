@@ -1,0 +1,65 @@
+{
+    "data": {
+        "name": "Graeme Hunt",
+        "position": "Managing Director & CEO",
+        "start_tenure": "2021-04-22",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": 65,
+        "nationality": "Australian",
+        "education_bachelor": {
+            "major": "Bachelor of Metallurgical Engineering",
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": "Master of Business Administration",
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Managing Director",
+                "company": "Broadspectrum Limited",
+                "country": "Australia",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Managing Director",
+                "company": "Lihir Gold Limited",
+                "country": "Papua New Guinea",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "BHP Group - various senior executive positions",
+                "company": "BHP Group",
+                "country": "Australia",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Chair",
+                "company": "BIS Industries Limited",
+                "country": "Australia",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "AU_AGL_AR_2022"
+    },
+    "sources": [
+        164,
+        6,
+        85,
+        56,
+        57,
+        60
+    ]
+}

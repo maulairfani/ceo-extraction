@@ -1,0 +1,59 @@
+{
+    "data": {
+        "name": "Albert Manifold",
+        "position": "Chief Executive",
+        "start_tenure": "2015-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1969-05-21",
+        "nationality": "Irish",
+        "education_bachelor": {
+            "major": "Commerce",
+            "university": "University College Dublin",
+            "country": "Ireland"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "Harvard Business School",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive",
+                "company": "CRH plc",
+                "country": "Ireland",
+                "start_date": "2015-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Chief Operating Officer",
+                "company": "CRH plc",
+                "country": "Ireland",
+                "start_date": "2004-01-01",
+                "end_date": "2014-12-31"
+            },
+            {
+                "position": "Managing Director - Great Britain",
+                "company": "CRH plc",
+                "country": "United Kingdom",
+                "start_date": "2003-01-01",
+                "end_date": "2004-12-31"
+            }
+        ],
+        "company": "IE_CRG_AR_2023"
+    },
+    "sources": [
+        4,
+        8,
+        10,
+        13,
+        120,
+        124,
+        126
+    ]
+}

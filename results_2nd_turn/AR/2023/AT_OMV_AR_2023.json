@@ -1,0 +1,56 @@
+{
+    "data": {
+        "name": "Alfred Stern",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2021-04-01",
+        "end_tenure": "2026-08-31",
+        "gender": "Male",
+        "birthdate_or_age": "1965-01-01",
+        "nationality": "Austrian",
+        "education_bachelor": {
+            "major": "Material Science",
+            "university": "Montanuniversit\u00e4t Leoben",
+            "country": "Austria"
+        },
+        "education_master": {
+            "major": "Polymer Engineering and Science",
+            "university": "Montanuniversit\u00e4t Leoben",
+            "country": "Austria"
+        },
+        "education_doctoral": {
+            "major": "Material Science",
+            "university": "Montanuniversit\u00e4t Leoben",
+            "country": "Austria"
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "Borealis",
+                "country": "Austria",
+                "start_date": "2018-07-01",
+                "end_date": "2021-04-01"
+            },
+            {
+                "position": "Board Member for Polyolefins and Innovation & Technology divisions",
+                "company": "Borealis",
+                "country": "Austria",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Various roles",
+                "company": "DuPont de Nemours",
+                "country": "USA/Germany/Switzerland",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "AT_OMV_AR_2023"
+    },
+    "sources": [
+        96,
+        97,
+        98,
+        95
+    ]
+}

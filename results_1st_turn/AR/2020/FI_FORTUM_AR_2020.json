@@ -1,0 +1,20 @@
+{
+    "data": {
+        "directors": [
+            "Markus Rauramo"
+        ],
+        "commissioners": [
+            "Petri T. R. H. Hakkarainen",
+            "Jari K. P. R. N. J\u00e4rvinen",
+            "Thomas \u00d6str\u00f6m",
+            "Tomi J. P. P. P. R. Rauramo"
+        ],
+        "company": "FI_FORTUM_AR_2020"
+    },
+    "sources": [
+        2,
+        3,
+        4,
+        13
+    ]
+}

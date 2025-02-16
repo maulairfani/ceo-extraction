@@ -1,0 +1,101 @@
+{
+    "data": {
+        "name": "Piyush Gupta",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2009-11-09",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": 61,
+        "nationality": "Indian",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": "University of Delhi",
+            "country": "India"
+        },
+        "education_master": {
+            "major": "Post Graduate Diploma in Management",
+            "university": "Indian Institute of Management, Ahmedabad",
+            "country": "India"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer",
+                "company": "DBS Group Holdings Ltd and DBS Bank Ltd.",
+                "country": "Singapore",
+                "start_date": "2009-11-09",
+                "end_date": null
+            },
+            {
+                "position": "Director",
+                "company": "Islamic Bank of Asia Limited",
+                "country": "Singapore",
+                "start_date": null,
+                "end_date": "last 5 years"
+            },
+            {
+                "position": "Board Member",
+                "company": "Info Communications Development Authority of Singapore",
+                "country": "Singapore",
+                "start_date": null,
+                "end_date": "last 5 years"
+            },
+            {
+                "position": "Deputy Chairman",
+                "company": "SPRING Singapore",
+                "country": "Singapore",
+                "start_date": null,
+                "end_date": "last 5 years"
+            },
+            {
+                "position": "Council Member",
+                "company": "Asian Bureau of Finance and Economic Research",
+                "country": "Singapore",
+                "start_date": null,
+                "end_date": "last 5 years"
+            },
+            {
+                "position": "Chairman, Advisory Board",
+                "company": "Sim Kee Boon Institute for Financial Economics",
+                "country": "Singapore",
+                "start_date": null,
+                "end_date": "last 5 years"
+            },
+            {
+                "position": "Member, Board of Trustees",
+                "company": "Asia Society",
+                "country": "Singapore",
+                "start_date": null,
+                "end_date": "last 5 years"
+            },
+            {
+                "position": "Council Member",
+                "company": "ASEAN Bankers Association",
+                "country": "Singapore",
+                "start_date": null,
+                "end_date": "last 5 years"
+            },
+            {
+                "position": "Member",
+                "company": "United Nations Secretary-General's Task Force on Digital Financing of the Sustainable Development Goals",
+                "country": "International",
+                "start_date": null,
+                "end_date": "last 5 years"
+            }
+        ],
+        "company": "SG_D05_AR_2020"
+    },
+    "sources": [
+        195,
+        5,
+        166,
+        46,
+        81,
+        188,
+        190
+    ]
+}

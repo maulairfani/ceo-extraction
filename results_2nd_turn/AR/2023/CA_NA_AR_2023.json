@@ -1,0 +1,45 @@
+{
+    "data": {
+        "name": "Laurent Ferreira",
+        "position": "President and Chief Executive Officer",
+        "start_tenure": "2023-11-30",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer",
+                "company": "National Bank of Canada",
+                "country": "Canada",
+                "start_date": "2023-11-30",
+                "end_date": null
+            }
+        ],
+        "company": "CA_NA_AR_2023"
+    },
+    "sources": [
+        2,
+        132,
+        7,
+        8,
+        39,
+        40,
+        239
+    ]
+}

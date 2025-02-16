@@ -1,0 +1,63 @@
+{
+    "data": {
+        "name": "Fr\u00e9d\u00e9ric Oud\u00e9a",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2008-05-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1963-07-03",
+        "nationality": "French",
+        "education_bachelor": {
+            "major": "Economic Sciences",
+            "university": "\u00c9cole polytechnique",
+            "country": "France"
+        },
+        "education_master": {
+            "major": "Public Administration",
+            "university": "\u00c9cole nationale d'administration",
+            "country": "France"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Deputy Chief Financial Officer",
+                "company": "Societe Generale",
+                "country": "France",
+                "start_date": "2002-05-01",
+                "end_date": "2003-01-01"
+            },
+            {
+                "position": "Chief Financial Officer",
+                "company": "Societe Generale",
+                "country": "France",
+                "start_date": "2003-01-01",
+                "end_date": "2008-05-01"
+            },
+            {
+                "position": "Chairman and Chief Executive Officer",
+                "company": "Societe Generale",
+                "country": "France",
+                "start_date": "2009-05-01",
+                "end_date": "2015-05-01"
+            },
+            {
+                "position": "Chief Executive Officer",
+                "company": "Societe Generale",
+                "country": "France",
+                "start_date": "2015-05-01",
+                "end_date": null
+            }
+        ],
+        "company": "FR_GLE_AR_2021"
+    },
+    "sources": [
+        73,
+        138,
+        67,
+        93
+    ]
+}

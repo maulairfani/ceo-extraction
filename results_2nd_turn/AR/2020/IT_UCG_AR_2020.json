@@ -1,0 +1,60 @@
+{
+    "data": {
+        "name": "Jean Pierre Mustier",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2016-07-01",
+        "end_tenure": "2021-04-30",
+        "gender": "Male",
+        "birthdate_or_age": "1961-08-23",
+        "nationality": "French",
+        "education_bachelor": {
+            "major": "Business Administration",
+            "university": "University of Paris IX Dauphine",
+            "country": "France"
+        },
+        "education_master": {
+            "major": "International Management",
+            "university": "University of Paris IX Dauphine",
+            "country": "France"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "UniCredit S.p.A.",
+                "country": "Italy",
+                "start_date": "2016-07-01",
+                "end_date": "2021-04-30"
+            },
+            {
+                "position": "Co-CEO",
+                "company": "Calyon",
+                "country": "France",
+                "start_date": "2009-01-01",
+                "end_date": "2015-12-31"
+            },
+            {
+                "position": "Head of Investment Banking",
+                "company": "Deutsche Bank",
+                "country": "Germany",
+                "start_date": "2005-01-01",
+                "end_date": "2009-12-31"
+            }
+        ],
+        "company": "IT_UCG_AR_2020"
+    },
+    "sources": [
+        705,
+        5,
+        102,
+        105,
+        13,
+        83,
+        21,
+        503
+    ]
+}

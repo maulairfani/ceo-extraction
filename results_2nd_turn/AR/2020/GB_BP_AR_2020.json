@@ -1,0 +1,52 @@
+{
+    "data": {
+        "name": "Bernard Looney",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2020-02-05",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Irish",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive, Upstream",
+                "company": "bp",
+                "country": "UK",
+                "start_date": "2016-04-01",
+                "end_date": null
+            },
+            {
+                "position": "Various operational roles including Drilling Engineer",
+                "company": "bp",
+                "country": "Multiple (North Sea, Vietnam, Gulf of Mexico)",
+                "start_date": "1991-01-01",
+                "end_date": null
+            }
+        ],
+        "company": "GB_BP_AR_2020"
+    },
+    "sources": [
+        352,
+        7,
+        39,
+        9,
+        74,
+        76,
+        80
+    ]
+}

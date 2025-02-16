@@ -1,0 +1,41 @@
+{
+    "data": {
+        "directors": [
+            "Philippe DUMONT",
+            "Thierry LANGRENEY",
+            "Henri LE BIHAN",
+            "Jean-Jacques DUCHAMP",
+            "Aurelia ALRAN",
+            "Yannick APPERT-RAULLIN",
+            "Daniel COLLIGNON",
+            "Christian COUCHOUD",
+            "Fran\u00e7oise DEBRUS",
+            "Patrick DEGIOVANNI",
+            "Gilles DEMONSANT",
+            "Marco DI GUIDA",
+            "\u00c9ric F\u00c9RON",
+            "Jean-Luc FRAN\u00c7OIS",
+            "S\u00e9bastien GARNIER",
+            "Pierre GUILLOCHEAU",
+            "Laurent GOULOT",
+            "Hichem JABALLAH",
+            "No\u00ebl L\u00c9GER",
+            "Cl\u00e9ment MICHAUD",
+            "Bruno MOATTI",
+            "Caroline NICAISE",
+            "Guillaume ORECKIN",
+            "Andr\u00e9e-Lise R\u00c9MY",
+            "Yann RENAUT",
+            "Alain ROUSSEL",
+            "Guy VAN DEN BOSCH"
+        ],
+        "commissioners": [],
+        "company": "FR_ACA_AR_2020"
+    },
+    "sources": [
+        72,
+        59,
+        68,
+        92
+    ]
+}

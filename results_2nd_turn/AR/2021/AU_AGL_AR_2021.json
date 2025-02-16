@@ -1,0 +1,73 @@
+{
+    "data": {
+        "name": "Graeme Hunt",
+        "position": "Managing Director & CEO",
+        "start_tenure": "2021-04-22",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": 64,
+        "nationality": "Australian",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Non-Executive Director",
+                "company": "AGL Energy Limited",
+                "country": "Australia",
+                "start_date": "2012-09-01",
+                "end_date": "2021-04-21"
+            },
+            {
+                "position": "Chairman",
+                "company": "AGL Energy Limited",
+                "country": "Australia",
+                "start_date": "2017-09-27",
+                "end_date": "2021-04-21"
+            },
+            {
+                "position": "Managing Director",
+                "company": "Broadspectrum Limited",
+                "country": "Australia",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Managing Director",
+                "company": "Lihir Gold Limited",
+                "country": "Australia",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Various Senior Executive Positions",
+                "company": "BHP Group",
+                "country": "Australia",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "AU_AGL_AR_2021"
+    },
+    "sources": [
+        64,
+        66,
+        4,
+        7,
+        173,
+        90,
+        61
+    ]
+}

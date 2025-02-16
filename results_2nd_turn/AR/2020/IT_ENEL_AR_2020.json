@@ -1,0 +1,57 @@
+{
+    "data": {
+        "name": "Francesco Starace",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2014-05-27",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1964-05-24",
+        "nationality": "Italian",
+        "education_bachelor": {
+            "major": "Business Administration",
+            "university": "University of Rome",
+            "country": "Italy"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "Massachusetts Institute of Technology",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO and General Manager",
+                "company": "Enel SpA",
+                "country": "Italy",
+                "start_date": "2014-05-27",
+                "end_date": null
+            },
+            {
+                "position": "CEO of Enel Green Power",
+                "company": "Enel Green Power",
+                "country": "Italy",
+                "start_date": "2010-01-01",
+                "end_date": "2014-05-27"
+            },
+            {
+                "position": "Head of the Global Business Line",
+                "company": "Enel",
+                "country": "Italy",
+                "start_date": "2009-01-01",
+                "end_date": "2010-01-01"
+            }
+        ],
+        "company": "IT_ENEL_AR_2020"
+    },
+    "sources": [
+        6,
+        42,
+        44,
+        399,
+        504
+    ]
+}

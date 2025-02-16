@@ -1,0 +1,57 @@
+{
+    "data": {
+        "name": "Eduardo Bartolomeo",
+        "position": "CEO",
+        "start_tenure": "2019-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1970-01-01",
+        "nationality": "Brazilian",
+        "education_bachelor": {
+            "major": "Business Administration",
+            "university": "Federal University of Minas Gerais",
+            "country": "Brazil"
+        },
+        "education_master": {
+            "major": "Master of Business Administration",
+            "university": "Harvard Business School",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "Vale",
+                "country": "Brazil",
+                "start_date": "2019-01-01",
+                "end_date": null
+            },
+            {
+                "position": "COO",
+                "company": "Vale",
+                "country": "Brazil",
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            },
+            {
+                "position": "Director of Operations",
+                "company": "Vale",
+                "country": "Brazil",
+                "start_date": "2014-01-01",
+                "end_date": "2017-12-31"
+            }
+        ],
+        "company": "BR_VALE_IR_2020"
+    },
+    "sources": [
+        3,
+        4,
+        5,
+        184,
+        31
+    ]
+}

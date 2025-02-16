@@ -1,0 +1,68 @@
+{
+    "data": {
+        "name": "Maarten Edixhoven",
+        "position": "Chair of the Management Board",
+        "start_tenure": "2021-10-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1971",
+        "nationality": "Dutch",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "Aegon Netherlands",
+                "country": "Netherlands",
+                "start_date": "2017-01-01",
+                "end_date": "2021-09-30"
+            },
+            {
+                "position": "Director Pension",
+                "company": "Aegon Netherlands",
+                "country": "Netherlands",
+                "start_date": "2014-01-01",
+                "end_date": "2016-12-31"
+            },
+            {
+                "position": "CEO",
+                "company": "Zwitserleven/SNS Reaal NV",
+                "country": "Netherlands",
+                "start_date": "2010-01-01",
+                "end_date": "2014-12-31"
+            },
+            {
+                "position": "Various positions",
+                "company": "ING Group",
+                "country": "Netherlands",
+                "start_date": "1995-01-01",
+                "end_date": "2010-12-31"
+            }
+        ],
+        "company": "NL_VLK_AR_2022"
+    },
+    "sources": [
+        226,
+        262,
+        104,
+        105,
+        106,
+        107,
+        45,
+        110,
+        255
+    ]
+}

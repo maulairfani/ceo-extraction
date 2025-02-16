@@ -1,0 +1,59 @@
+{
+    "data": {
+        "name": "Dame Amanda Blanc",
+        "position": "Group Chief Executive Officer (CEO)",
+        "start_tenure": "2020-07-01",
+        "end_tenure": null,
+        "gender": "Female",
+        "birthdate_or_age": null,
+        "nationality": "British",
+        "education_bachelor": {
+            "major": "Business",
+            "university": "University of Leeds",
+            "country": "UK"
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Group CEO",
+                "company": "AXA UK PPP & Ireland",
+                "country": "UK",
+                "start_date": "2016-01-01",
+                "end_date": "2020-06-30"
+            },
+            {
+                "position": "CEO, EMEA & Global Banking",
+                "company": "Zurich Insurance Group",
+                "country": "UK",
+                "start_date": "2013-01-01",
+                "end_date": "2015-12-31"
+            },
+            {
+                "position": "Various roles including graduate",
+                "company": "Commercial Union plc (now part of Aviva)",
+                "country": "UK",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "GB_AV_AR_2023"
+    },
+    "sources": [
+        100,
+        101,
+        103,
+        106,
+        12,
+        15,
+        149
+    ]
+}

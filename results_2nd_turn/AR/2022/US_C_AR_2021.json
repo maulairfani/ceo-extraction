@@ -1,0 +1,77 @@
+{
+    "data": {
+        "name": "Jane Fraser",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2021-02-26",
+        "end_tenure": null,
+        "gender": "Female",
+        "birthdate_or_age": 54,
+        "nationality": "American",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO of Global Consumer Banking",
+                "company": "Citigroup Inc.",
+                "country": "USA",
+                "start_date": "2019-10-01",
+                "end_date": "2020-12-31"
+            },
+            {
+                "position": "CEO of Citi Latin America",
+                "company": "Citigroup Inc.",
+                "country": "USA",
+                "start_date": "2015-06-01",
+                "end_date": "2019-10-01"
+            },
+            {
+                "position": "CEO of U.S. Consumer and Commercial Banking",
+                "company": "Citigroup Inc.",
+                "country": "USA",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "CEO of CitiMortgage",
+                "company": "Citigroup Inc.",
+                "country": "USA",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "CEO of Citi's Global Private Bank",
+                "company": "Citigroup Inc.",
+                "country": "USA",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Global Head of Strategy and M&A",
+                "company": "Citigroup Inc.",
+                "country": "USA",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "US_C_AR_2021"
+    },
+    "sources": [
+        320,
+        321,
+        66,
+        322
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "data": {
+        "name": "Darren Entwistle",
+        "position": "President and Chief Executive Officer",
+        "start_tenure": "2000-08-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Canadian",
+        "education_bachelor": {
+            "major": "Business Administration",
+            "university": "University of Alberta",
+            "country": "Canada"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "University of Alberta",
+            "country": "Canada"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chairman",
+                "company": "Canada's Telecommunications",
+                "country": "Canada",
+                "start_date": "2020-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Chief Operating Officer",
+                "company": "Telus",
+                "country": "Canada",
+                "start_date": "1999-01-01",
+                "end_date": "2000-07-31"
+            },
+            {
+                "position": "Vice President",
+                "company": "Telus",
+                "country": "Canada",
+                "start_date": "1997-01-01",
+                "end_date": "1998-12-31"
+            },
+            {
+                "position": "Manager",
+                "company": "BC Tel",
+                "country": "Canada",
+                "start_date": "1995-01-01",
+                "end_date": "1996-12-31"
+            }
+        ],
+        "company": "CA_T_AR_2022"
+    },
+    "sources": [
+        32,
+        47,
+        30,
+        31
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "data": {
+        "name": "Oliver B\u00e4te",
+        "position": "CEO",
+        "start_tenure": "2015-05-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1962-01-16",
+        "nationality": "German",
+        "education_bachelor": {
+            "major": "Business Administration",
+            "university": "University of Mannheim",
+            "country": "Germany"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "INSEAD",
+            "country": "France"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "Allianz SE",
+                "country": "Germany",
+                "start_date": "2015-05-01",
+                "end_date": null
+            },
+            {
+                "position": "Chief Financial Officer",
+                "company": "Allianz SE",
+                "country": "Germany",
+                "start_date": "2008-01-01",
+                "end_date": "2015-04-30"
+            },
+            {
+                "position": "CEO of Allianz Global Corporate & Specialty",
+                "company": "Allianz SE",
+                "country": "Germany",
+                "start_date": "2006-01-01",
+                "end_date": "2008-01-01"
+            },
+            {
+                "position": "Various roles in the Global Markets Division",
+                "company": "Allianz SE",
+                "country": "Germany",
+                "start_date": "1997-01-01",
+                "end_date": "2006-01-01"
+            }
+        ],
+        "company": "DE_ALV_AR_2023"
+    },
+    "sources": [
+        163,
+        38,
+        166,
+        10,
+        138,
+        11,
+        12,
+        145,
+        156,
+        157
+    ]
+}

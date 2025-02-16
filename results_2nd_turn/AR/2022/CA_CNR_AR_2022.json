@@ -1,0 +1,53 @@
+{
+    "data": {
+        "name": "Tracy Robinson",
+        "position": "President and Chief Executive Officer",
+        "start_tenure": "2022-01-01",
+        "end_tenure": null,
+        "gender": "Female",
+        "birthdate_or_age": null,
+        "nationality": "Canadian",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Not specified",
+                "company": "Not specified",
+                "country": "Not specified",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "President and Chief Executive Officer",
+                "company": "Canadian National Railway Company",
+                "country": "Canada",
+                "start_date": "2022-01-01",
+                "end_date": null
+            }
+        ],
+        "company": "CA_CNR_AR_2022"
+    },
+    "sources": [
+        6,
+        7,
+        8,
+        9,
+        102,
+        28,
+        30,
+        31
+    ]
+}

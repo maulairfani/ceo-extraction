@@ -1,0 +1,69 @@
+{
+    "data": {
+        "name": "St\u00e9phane Richard",
+        "position": "Chairman and Chief Executive Officer",
+        "start_tenure": "2011-03-01",
+        "end_tenure": "2022-04-04",
+        "gender": "Male",
+        "birthdate_or_age": "1961-01-01",
+        "nationality": "French",
+        "education_bachelor": {
+            "major": "Business",
+            "university": "\u00c9cole des Hautes Etudes Commerciales (HEC)",
+            "country": "France"
+        },
+        "education_master": {
+            "major": "Public Administration",
+            "university": "\u00c9cole nationale d'administration (ENA)",
+            "country": "France"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer",
+                "company": "Orange SA",
+                "country": "France",
+                "start_date": "2010-03-01",
+                "end_date": null
+            },
+            {
+                "position": "Delegate Chief Executive Officer",
+                "company": "Orange Group",
+                "country": "France",
+                "start_date": "2009-09-01",
+                "end_date": "2010-03-01"
+            },
+            {
+                "position": "Deputy Managing Director",
+                "company": "Veolia Environnement",
+                "country": "France",
+                "start_date": "2003-01-01",
+                "end_date": "2007-01-01"
+            },
+            {
+                "position": "Chief of Staff to the French Minister for the Economy",
+                "company": "French Government",
+                "country": "France",
+                "start_date": "2007-01-01",
+                "end_date": "2009-01-01"
+            }
+        ],
+        "company": "FR_ORA_AR_2021"
+    },
+    "sources": [
+        386,
+        3,
+        358,
+        360,
+        362,
+        364,
+        365,
+        366,
+        370,
+        371
+    ]
+}

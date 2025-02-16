@@ -1,0 +1,82 @@
+{
+    "data": {
+        "name": "Jack Bowles",
+        "position": "CEO",
+        "start_tenure": "2019-04-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1964-09-01",
+        "nationality": "French",
+        "education_bachelor": {
+            "major": "Business",
+            "university": "University of Bordeaux",
+            "country": "France"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "University of Paris",
+            "country": "France"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chairman",
+                "company": "British American Tobacco France",
+                "country": "France",
+                "start_date": "2005-01-01",
+                "end_date": "2007-12-31"
+            },
+            {
+                "position": "Managing Director",
+                "company": "British American Tobacco Malaysia",
+                "country": "Malaysia",
+                "start_date": "2007-01-01",
+                "end_date": "2009-12-31"
+            },
+            {
+                "position": "Regional Director for Western Europe",
+                "company": "British American Tobacco",
+                "country": "UK",
+                "start_date": "2009-01-01",
+                "end_date": "2011-12-31"
+            },
+            {
+                "position": "Regional Director for the Americas",
+                "company": "British American Tobacco",
+                "country": "UK",
+                "start_date": "2011-01-01",
+                "end_date": "2013-12-31"
+            },
+            {
+                "position": "Regional Director for Asia-Pacific",
+                "company": "British American Tobacco",
+                "country": "UK",
+                "start_date": "2013-01-01",
+                "end_date": "2017-12-31"
+            },
+            {
+                "position": "Chief Operating Officer",
+                "company": "British American Tobacco",
+                "country": "UK",
+                "start_date": "2017-01-01",
+                "end_date": "2019-03-31"
+            }
+        ],
+        "company": "GB_BATS_AR_2021"
+    },
+    "sources": [
+        162,
+        164,
+        6,
+        103,
+        104,
+        106,
+        74,
+        140,
+        366
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "data": {
+        "name": "Gonzalo Alberto P\u00e9rez Rojas",
+        "position": "CEO",
+        "start_tenure": "2021-04-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Colombian",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": "Colombia"
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": "Colombia"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": "Colombia"
+        },
+        "working_experience": [
+            {
+                "position": "Chairman of the Board of Directors",
+                "company": "Grupo Bancolombia",
+                "country": "Colombia",
+                "start_date": "2021-04-01",
+                "end_date": null
+            },
+            {
+                "position": "Inside Director",
+                "company": "Grupo Bancolombia",
+                "country": "Colombia",
+                "start_date": "2004-01-01",
+                "end_date": null
+            }
+        ],
+        "company": "CO_CIB_AR_2021"
+    },
+    "sources": [
+        5,
+        201,
+        13,
+        15,
+        16,
+        49,
+        178,
+        51,
+        52,
+        175,
+        179,
+        56,
+        155,
+        222
+    ]
+}

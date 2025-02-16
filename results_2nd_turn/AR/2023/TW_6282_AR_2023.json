@@ -1,0 +1,77 @@
+{
+    "data": {
+        "name": "Hsu Chieh-Li",
+        "position": "Chairman and President",
+        "start_tenure": "2023-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1968-01-01",
+        "nationality": "Taiwanese",
+        "education_bachelor": {
+            "major": "Electrical Engineering",
+            "university": "National Taiwan University",
+            "country": "Taiwan"
+        },
+        "education_master": {
+            "major": "MBA",
+            "university": "National Taiwan University",
+            "country": "Taiwan"
+        },
+        "education_doctoral": {
+            "major": "Engineering",
+            "university": "National Cheng Kung University",
+            "country": "Taiwan"
+        },
+        "working_experience": [
+            {
+                "position": "President",
+                "company": "AcBel Polytech Inc.",
+                "country": "Taiwan",
+                "start_date": "2023-01-01",
+                "end_date": null
+            },
+            {
+                "position": "CEO",
+                "company": "AcBel Polytech Inc.",
+                "country": "Taiwan",
+                "start_date": "2020-04-01",
+                "end_date": "2022-12-31"
+            },
+            {
+                "position": "Director",
+                "company": "Kinpo Group",
+                "country": "Taiwan",
+                "start_date": "2010-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Vice President",
+                "company": "AcBel Polytech Inc.",
+                "country": "Taiwan",
+                "start_date": "2008-01-01",
+                "end_date": "2010-12-31"
+            },
+            {
+                "position": "Senior Manager",
+                "company": "Hsin Huien Electronics",
+                "country": "Taiwan",
+                "start_date": "2005-01-01",
+                "end_date": "2007-12-31"
+            }
+        ],
+        "company": "TW_6282_AR_2023"
+    },
+    "sources": [
+        32,
+        2,
+        354,
+        8,
+        9,
+        17,
+        53,
+        22,
+        26,
+        27,
+        28
+    ]
+}

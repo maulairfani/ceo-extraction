@@ -1,0 +1,56 @@
+{
+    "data": {
+        "name": "Nicolas Hieronimus",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2021-05-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1965-07-15",
+        "nationality": "French",
+        "education_bachelor": {
+            "major": "Business Administration",
+            "university": "University of Paris-Dauphine",
+            "country": "France"
+        },
+        "education_master": {
+            "major": "MBA",
+            "university": "INSEAD",
+            "country": "France"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "General Manager",
+                "company": "L'Or\u00e9al",
+                "country": "France",
+                "start_date": "2017-01-01",
+                "end_date": "2021-04-30"
+            },
+            {
+                "position": "SVP Global Business Development",
+                "company": "L'Or\u00e9al",
+                "country": "France",
+                "start_date": "2014-01-01",
+                "end_date": "2016-12-31"
+            },
+            {
+                "position": "Managing Director",
+                "company": "L'Or\u00e9al Mexico",
+                "country": "Mexico",
+                "start_date": "2011-01-01",
+                "end_date": "2013-12-31"
+            }
+        ],
+        "company": "FR_OR_AR_2023"
+    },
+    "sources": [
+        112,
+        108,
+        422,
+        126
+    ]
+}

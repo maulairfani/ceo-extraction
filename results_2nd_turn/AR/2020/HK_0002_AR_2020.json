@@ -1,0 +1,60 @@
+{
+    "data": {
+        "name": "Richard Lancaster",
+        "position": "CEO",
+        "start_tenure": "2019-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1970-03-15",
+        "nationality": "British",
+        "education_bachelor": {
+            "major": "Engineering",
+            "university": "University of Melbourne",
+            "country": "Australia"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "University of Melbourne",
+            "country": "Australia"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Operating Officer",
+                "company": "CLP Holdings",
+                "country": "Hong Kong",
+                "start_date": "2015-01-01",
+                "end_date": "2019-01-01"
+            },
+            {
+                "position": "Senior Manager",
+                "company": "Energy Australia",
+                "country": "Australia",
+                "start_date": "2012-01-01",
+                "end_date": "2015-01-01"
+            },
+            {
+                "position": "Manager",
+                "company": "Infrastructure Australia",
+                "country": "Australia",
+                "start_date": "2005-01-01",
+                "end_date": "2012-01-01"
+            }
+        ],
+        "company": "HK_0002_AR_2020"
+    },
+    "sources": [
+        192,
+        193,
+        130,
+        265,
+        107,
+        110,
+        182,
+        124
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "data": {
+        "name": "James A. Burke",
+        "position": "President and Chief Executive Officer",
+        "start_tenure": "2018-05-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1973-07-15",
+        "nationality": "American",
+        "education_bachelor": {
+            "major": "Business Administration",
+            "university": "University of Central Florida",
+            "country": "USA"
+        },
+        "education_master": {
+            "major": "Master of Business Administration",
+            "university": "University of Florida",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Operating Officer",
+                "company": "Vistra Energy Corp.",
+                "country": "USA",
+                "start_date": "2015-01-01",
+                "end_date": "2018-04-30"
+            },
+            {
+                "position": "Senior Vice President",
+                "company": "Dynegy Inc.",
+                "country": "USA",
+                "start_date": "2013-06-01",
+                "end_date": "2015-01-01"
+            },
+            {
+                "position": "Various roles including Vice President and Director of Operations",
+                "company": "Various",
+                "country": "USA",
+                "start_date": "2001-01-01",
+                "end_date": "2013-06-01"
+            }
+        ],
+        "company": "US_VST_AR_2022"
+    },
+    "sources": [
+        3,
+        199,
+        9,
+        11,
+        206,
+        207,
+        185
+    ]
+}

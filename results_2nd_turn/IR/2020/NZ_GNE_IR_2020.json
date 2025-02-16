@@ -1,0 +1,63 @@
+{
+    "data": {
+        "name": "Marc England",
+        "position": "Chief Executive",
+        "start_tenure": "2016-05-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "null",
+        "education_bachelor": {
+            "major": "Mechanical Engineering and European Studies",
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": "MBA",
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Executive General Manager New Energy",
+                "company": "AGL Energy",
+                "country": "Australia",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Group Head of Strategy",
+                "company": "AGL Energy",
+                "country": "Australia",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Corporate Finance Roles",
+                "company": "Ford Motor Company",
+                "country": null,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Petroleum Engineer",
+                "company": "Halliburton Energy Services",
+                "country": "Middle East and United States",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "NZ_GNE_IR_2020"
+    },
+    "sources": [
+        3,
+        43,
+        20,
+        22
+    ]
+}

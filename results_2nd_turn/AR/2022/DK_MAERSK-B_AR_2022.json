@@ -1,0 +1,59 @@
+{
+    "data": {
+        "name": "Vincent Clerc",
+        "position": "Chief Executive Officer (CEO)",
+        "start_tenure": "2023-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1972-01-01",
+        "nationality": "Swiss",
+        "education_bachelor": {
+            "major": "Political Science",
+            "university": "University of Lausanne",
+            "country": "Switzerland"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "Columbia Business School",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Commercial Officer",
+                "company": "A.P. M\u00f8ller - Maersk",
+                "country": "Denmark",
+                "start_date": "2015-12-01",
+                "end_date": "2022-12-31"
+            },
+            {
+                "position": "Member of the Executive Board",
+                "company": "A.P. M\u00f8ller - Maersk",
+                "country": "Denmark",
+                "start_date": "2017-01-01",
+                "end_date": "2022-12-31"
+            },
+            {
+                "position": "Various roles",
+                "company": "A.P. M\u00f8ller - Maersk",
+                "country": "Various",
+                "start_date": "1998-01-01",
+                "end_date": null
+            }
+        ],
+        "company": "DK_MAERSK-B_AR_2022"
+    },
+    "sources": [
+        7,
+        72,
+        137,
+        74,
+        77,
+        143,
+        144
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "data": {
+        "name": "Beno\u00eet Potier",
+        "position": "Chairman and Chief Executive Officer",
+        "start_tenure": "2018-05-01",
+        "end_tenure": "2022-06-01",
+        "gender": "Male",
+        "birthdate_or_age": "1957-09-03",
+        "nationality": "French",
+        "education_bachelor": {
+            "major": "Engineering",
+            "university": "\u00c9cole Centrale de Paris",
+            "country": "France"
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Research and Development Engineer",
+                "company": "Air Liquide",
+                "country": "France",
+                "start_date": "1981-01-01",
+                "end_date": "1993-01-01"
+            },
+            {
+                "position": "Vice President of Energy Development",
+                "company": "Air Liquide",
+                "country": "France",
+                "start_date": "1993-01-01",
+                "end_date": "1994-01-01"
+            },
+            {
+                "position": "Director of Strategy & Organization",
+                "company": "Air Liquide",
+                "country": "France",
+                "start_date": "1994-01-01",
+                "end_date": "1995-01-01"
+            },
+            {
+                "position": "Executive Vice President",
+                "company": "Air Liquide",
+                "country": "France",
+                "start_date": "1995-01-01",
+                "end_date": "1997-01-01"
+            },
+            {
+                "position": "Chief Executive",
+                "company": "Air Liquide",
+                "country": "France",
+                "start_date": "1997-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Chairman and CEO",
+                "company": "L' Air Liquide S.A.",
+                "country": "France",
+                "start_date": "2006-01-01",
+                "end_date": null
+            }
+        ],
+        "company": "FR_AI_AR_2020"
+    },
+    "sources": [
+        120,
+        393,
+        182,
+        143
+    ]
+}

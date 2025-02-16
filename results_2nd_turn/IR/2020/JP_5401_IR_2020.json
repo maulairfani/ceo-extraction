@@ -1,0 +1,80 @@
+{
+    "data": {
+        "name": "Kosei Shindo",
+        "position": "Chairman",
+        "start_tenure": "2019-04-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Japanese",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Executive Vice President",
+                "company": "Nippon Steel Corporation",
+                "country": "Japan",
+                "start_date": "2009-04-01",
+                "end_date": null
+            },
+            {
+                "position": "Director and General Manager of Corporate Planning Division",
+                "company": "Nippon Steel Corporation",
+                "country": "Japan",
+                "start_date": "2005-06-01",
+                "end_date": null
+            },
+            {
+                "position": "Member of the Board",
+                "company": "Nippon Steel Corporation",
+                "country": "Japan",
+                "start_date": "2009-06-01",
+                "end_date": null
+            },
+            {
+                "position": "Managing Executive Officer",
+                "company": "Nippon Steel Corporation",
+                "country": "Japan",
+                "start_date": "2013-04-01",
+                "end_date": null
+            },
+            {
+                "position": "Representative Director and President",
+                "company": "Nippon Steel Corporation",
+                "country": "Japan",
+                "start_date": "2014-04-01",
+                "end_date": null
+            },
+            {
+                "position": "Representative Director",
+                "company": "Nippon Steel Corporation",
+                "country": "Japan",
+                "start_date": "2012-10-01",
+                "end_date": null
+            }
+        ],
+        "company": "JP_5401_IR_2020"
+    },
+    "sources": [
+        34,
+        4,
+        13,
+        46,
+        47,
+        48,
+        31
+    ]
+}

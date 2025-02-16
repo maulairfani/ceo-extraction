@@ -1,0 +1,63 @@
+{
+    "data": {
+        "name": "Jean-Pascal Tricoire",
+        "position": "Chairman & Chief Executive Officer",
+        "start_tenure": "2013-04-25",
+        "end_tenure": "2025-04-25",
+        "gender": "Male",
+        "birthdate_or_age": "1963-08-15",
+        "nationality": "French",
+        "education_bachelor": {
+            "major": "Engineering",
+            "university": "ESEO Angers",
+            "country": "France"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "EM Lyon",
+            "country": "France"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Deputy CEO",
+                "company": "Schneider Electric",
+                "country": "France",
+                "start_date": "2003-10-01",
+                "end_date": "2006-05-01"
+            },
+            {
+                "position": "Executive Vice-President of International Division",
+                "company": "Schneider Electric",
+                "country": "France",
+                "start_date": "2002-01-01",
+                "end_date": "2003-12-31"
+            },
+            {
+                "position": "Director in charge of Strategic Global Accounts",
+                "company": "Schneider Electric",
+                "country": "France",
+                "start_date": "1999-01-01",
+                "end_date": "2001-12-31"
+            },
+            {
+                "position": "Various operational roles",
+                "company": "Schneider Electric",
+                "country": "Various (Italy, China, South Africa, USA)",
+                "start_date": "1988-01-01",
+                "end_date": "2001-12-31"
+            }
+        ],
+        "company": "FR_SU_AR_2021"
+    },
+    "sources": [
+        280,
+        289,
+        274,
+        272
+    ]
+}

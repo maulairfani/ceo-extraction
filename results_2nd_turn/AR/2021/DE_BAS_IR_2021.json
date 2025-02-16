@@ -1,0 +1,65 @@
+{
+    "data": {
+        "name": "Dr. Martin Bruderm\u00fcller",
+        "position": "Chairman of the Board of Executive Directors",
+        "start_tenure": "2018-03-01",
+        "end_tenure": "2023-12-31",
+        "gender": "Male",
+        "birthdate_or_age": "1961-08-29",
+        "nationality": "German",
+        "education_bachelor": {
+            "major": "Chemistry",
+            "university": "University of Bonn",
+            "country": "Germany"
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": "Chemistry",
+            "university": "University of Bonn",
+            "country": "Germany"
+        },
+        "working_experience": [
+            {
+                "position": "Chairman of the Board of Executive Directors",
+                "company": "BASF SE",
+                "country": "Germany",
+                "start_date": "2018-03-01",
+                "end_date": "2023-12-31"
+            },
+            {
+                "position": "Vice Chairman of the Board of Executive Directors",
+                "company": "BASF SE",
+                "country": "Germany",
+                "start_date": "2006-01-01",
+                "end_date": "2018-02-28"
+            },
+            {
+                "position": "Senior Vice President",
+                "company": "BASF SE",
+                "country": "Germany",
+                "start_date": "2000-01-01",
+                "end_date": "2005-12-31"
+            },
+            {
+                "position": "Various Research and Managerial Roles",
+                "company": "BASF SE",
+                "country": "Germany",
+                "start_date": "1988-01-01",
+                "end_date": "1999-12-31"
+            }
+        ],
+        "company": "DE_BAS_IR_2021"
+    },
+    "sources": [
+        10,
+        170,
+        11,
+        174,
+        183,
+        187
+    ]
+}

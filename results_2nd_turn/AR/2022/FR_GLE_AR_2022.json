@@ -1,0 +1,59 @@
+{
+    "data": {
+        "name": "Fr\u00e9d\u00e9ric Oud\u00e9a",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2008-05-01",
+        "end_tenure": "2023-05-23",
+        "gender": "Male",
+        "birthdate_or_age": "1964-12-15",
+        "nationality": "French",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": "University of Paris",
+            "country": "France"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "HEC Paris",
+            "country": "France"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer",
+                "company": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+                "country": "France",
+                "start_date": "2008-05-01",
+                "end_date": "2023-05-23"
+            },
+            {
+                "position": "General Secretary",
+                "company": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+                "country": "France",
+                "start_date": "2005-05-01",
+                "end_date": "2008-05-01"
+            },
+            {
+                "position": "Head of Investment Banking",
+                "company": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+                "country": "France",
+                "start_date": "2003-05-01",
+                "end_date": "2005-05-01"
+            }
+        ],
+        "company": "FR_GLE_AR_2022"
+    },
+    "sources": [
+        128,
+        137,
+        138,
+        76,
+        145,
+        122,
+        155
+    ]
+}

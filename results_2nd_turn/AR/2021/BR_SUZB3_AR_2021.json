@@ -1,0 +1,50 @@
+{
+    "data": {
+        "name": "Walter Schalka",
+        "position": "CEO",
+        "start_tenure": null,
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Brazilian",
+        "education_bachelor": {
+            "major": "Business Administration",
+            "university": "Universidade de S\u00e3o Paulo (USP)",
+            "country": "Brazil"
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "Suzano",
+                "country": "Brazil",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "General Director",
+                "company": "Suzano",
+                "country": "Brazil",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "BR_SUZB3_AR_2021"
+    },
+    "sources": [
+        3,
+        4,
+        10,
+        21,
+        87
+    ]
+}

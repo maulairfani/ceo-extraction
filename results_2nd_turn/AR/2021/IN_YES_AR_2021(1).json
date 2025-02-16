@@ -1,0 +1,83 @@
+{
+    "data": {
+        "name": "Prashant Kumar",
+        "position": "Managing Director & CEO",
+        "start_tenure": "2020-03-26",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Indian",
+        "education_bachelor": {
+            "major": "Science",
+            "university": "Delhi University",
+            "country": "India"
+        },
+        "education_master": {
+            "major": "Law",
+            "university": "Delhi University",
+            "country": "India"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Probationary Officer",
+                "company": "State Bank of India",
+                "country": "India",
+                "start_date": "1983-01-01",
+                "end_date": null
+            },
+            {
+                "position": "General Manager",
+                "company": "State Bank of India",
+                "country": "India",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Chief General Manager",
+                "company": "State Bank of India, Kolkata Circle",
+                "country": "India",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Deputy Managing Director",
+                "company": "State Bank of India",
+                "country": "India",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Chief Operating Officer",
+                "company": "State Bank of India",
+                "country": "India",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Chief Financial Officer",
+                "company": "State Bank of India",
+                "country": "India",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "IN_YES_AR_2021(1)"
+    },
+    "sources": [
+        3,
+        7,
+        9,
+        52,
+        85,
+        86,
+        20,
+        27,
+        61,
+        158
+    ]
+}

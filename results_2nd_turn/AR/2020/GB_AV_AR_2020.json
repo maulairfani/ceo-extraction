@@ -1,0 +1,74 @@
+{
+    "data": {
+        "name": "Amanda Blanc",
+        "position": "CEO",
+        "start_tenure": "2020-07-06",
+        "end_tenure": null,
+        "gender": "Female",
+        "birthdate_or_age": null,
+        "nationality": "British",
+        "education_bachelor": {
+            "major": null,
+            "university": "Commercial Union",
+            "country": "UK"
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "Aviva",
+                "country": "UK",
+                "start_date": "2020-07-06",
+                "end_date": null
+            },
+            {
+                "position": "CEO",
+                "company": "AXA UK & Ireland",
+                "country": "UK",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "CEO, EMEA & Global Banking Partnerships",
+                "company": "Zurich Insurance Group",
+                "country": "UK",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Various executive roles",
+                "company": "Towergate Insurance Brokers, Groupama Insurance Company",
+                "country": "UK",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Management Consultant",
+                "company": "Ernst & Young",
+                "country": "UK",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "GB_AV_AR_2020"
+    },
+    "sources": [
+        97,
+        68,
+        69,
+        9,
+        111,
+        116,
+        57,
+        94
+    ]
+}

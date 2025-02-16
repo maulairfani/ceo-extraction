@@ -1,0 +1,84 @@
+{
+    "data": {
+        "name": "Odd Arild Grefstad",
+        "position": "Group Chief Executive Officer",
+        "start_tenure": "2016-02-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1965-01-01",
+        "nationality": "Norwegian",
+        "education_bachelor": {
+            "major": "State-Authorised Public Accountant",
+            "university": null,
+            "country": "Norway"
+        },
+        "education_master": {
+            "major": "Authorised Financial Analyst (AFA)",
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Managing Director",
+                "company": "Storebrand Life Insurance",
+                "country": "Norway",
+                "start_date": "2011-01-01",
+                "end_date": "2012-12-31"
+            },
+            {
+                "position": "Executive Vice President Finance and Legal",
+                "company": "Storebrand ASA",
+                "country": "Norway",
+                "start_date": "2008-01-01",
+                "end_date": "2011-12-31"
+            },
+            {
+                "position": "Executive Vice President Finance",
+                "company": "Storebrand ASA",
+                "country": "Norway",
+                "start_date": "2002-01-01",
+                "end_date": "2008-12-31"
+            },
+            {
+                "position": "Manager of the Group Controller Unit",
+                "company": "Storebrand ASA",
+                "country": "Norway",
+                "start_date": "1998-01-01",
+                "end_date": "2002-12-31"
+            },
+            {
+                "position": "Group Controller, Life Insurance",
+                "company": "Storebrand ASA",
+                "country": "Norway",
+                "start_date": "1997-01-01",
+                "end_date": "1998-12-31"
+            },
+            {
+                "position": "Vice President, Internal Auditing",
+                "company": "Storebrand ASA",
+                "country": "Norway",
+                "start_date": "1994-01-01",
+                "end_date": "1997-12-31"
+            },
+            {
+                "position": "External Auditor",
+                "company": "Arthur Andersen & Co",
+                "country": "Norway",
+                "start_date": "1989-01-01",
+                "end_date": "1994-12-31"
+            }
+        ],
+        "company": "NO_STB_AR_2020"
+    },
+    "sources": [
+        217,
+        211,
+        213,
+        215
+    ]
+}

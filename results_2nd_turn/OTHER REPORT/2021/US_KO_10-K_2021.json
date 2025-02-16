@@ -1,0 +1,52 @@
+{
+    "data": {
+        "name": "James Quincey",
+        "position": "Chairman of the Board of Directors and Chief Executive Officer",
+        "start_tenure": "2017-05-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": 57,
+        "nationality": "British",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "President",
+                "company": "The Coca-Cola Company",
+                "country": "USA",
+                "start_date": "2015-04-01",
+                "end_date": "2018-12-31"
+            },
+            {
+                "position": "Chief Operating Officer",
+                "company": "The Coca-Cola Company",
+                "country": "USA",
+                "start_date": "2015-08-01",
+                "end_date": "2017-04-30"
+            }
+        ],
+        "company": "US_KO_10-K_2021"
+    },
+    "sources": [
+        1,
+        166,
+        181,
+        182,
+        183,
+        31,
+        127
+    ]
+}

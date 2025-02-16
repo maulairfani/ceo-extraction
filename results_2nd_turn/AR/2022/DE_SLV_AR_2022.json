@@ -1,0 +1,46 @@
+{
+    "data": {
+        "name": "Ivan de la Sota",
+        "position": "CEO",
+        "start_tenure": "2018-04-01",
+        "end_tenure": "2022-12-31",
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "None",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Regional CEO",
+                "company": "Allianz",
+                "country": "Spain",
+                "start_date": "1990-01-01",
+                "end_date": "2022-12-31"
+            }
+        ],
+        "company": "DE_SLV_AR_2022"
+    },
+    "sources": [
+        1,
+        129,
+        132,
+        103,
+        112,
+        122,
+        124,
+        94
+    ]
+}

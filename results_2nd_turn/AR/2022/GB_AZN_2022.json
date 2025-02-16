@@ -1,0 +1,59 @@
+{
+    "data": {
+        "name": "Pascal Soriot",
+        "position": "CEO",
+        "start_tenure": "2012-10-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1959-01-01",
+        "nationality": "French",
+        "education_bachelor": {
+            "major": "Veterinary Medicine",
+            "university": "\u00c9cole Nationale V\u00e9t\u00e9rinaire d'Alfort",
+            "country": "France"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "HEC Paris",
+            "country": "France"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "COO of Pharmaceuticals",
+                "company": "Roche",
+                "country": "Switzerland",
+                "start_date": "2010-01-01",
+                "end_date": "2012-12-31"
+            },
+            {
+                "position": "CEO",
+                "company": "Genentech",
+                "country": "USA",
+                "start_date": "2009-01-01",
+                "end_date": "2010-12-31"
+            },
+            {
+                "position": "Various roles in the pharmaceutical industry",
+                "company": "Various",
+                "country": "Global",
+                "start_date": "1986-01-01",
+                "end_date": null
+            }
+        ],
+        "company": "GB_AZN_2022"
+    },
+    "sources": [
+        10,
+        81,
+        82,
+        84,
+        117,
+        120,
+        94
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "data": {
+        "name": "Ola K\u00e4llenius",
+        "position": "Chairman of the Board of Management",
+        "start_tenure": "2019-05-22",
+        "end_tenure": "2024-05-01",
+        "gender": "Male",
+        "birthdate_or_age": "1969-01-28",
+        "nationality": "Swedish",
+        "education_bachelor": {
+            "major": "Business Administration",
+            "university": "Lund University",
+            "country": "Sweden"
+        },
+        "education_master": {
+            "major": "Dr. h.c.",
+            "university": "Lund University",
+            "country": "Sweden"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Head of Mercedes-Benz Cars",
+                "company": "Daimler AG",
+                "country": "Germany",
+                "start_date": "2017-01-01",
+                "end_date": "2019-05-21"
+            },
+            {
+                "position": "Executive Vice President",
+                "company": "Daimler AG",
+                "country": "Germany",
+                "start_date": "2016-01-01",
+                "end_date": "2016-12-31"
+            },
+            {
+                "position": "Chairman of the Board of Management",
+                "company": "Daimler AG",
+                "country": "Germany",
+                "start_date": "2019-05-22",
+                "end_date": null
+            }
+        ],
+        "company": "DE_MBG_AR_2020"
+    },
+    "sources": [
+        1,
+        100,
+        103,
+        10,
+        11,
+        12,
+        13,
+        21,
+        254
+    ]
+}

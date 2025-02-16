@@ -1,0 +1,55 @@
+{
+    "data": {
+        "name": "Javier Jos\u00e9 Su\u00e1rez Esparragoza",
+        "position": "Chief Executive Officer",
+        "start_tenure": null,
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Colombian",
+        "education_bachelor": {
+            "major": "Civil Engineering",
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer",
+                "company": "Banco Davivienda S.A.",
+                "country": "Colombia",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Member of the Board",
+                "company": "Corporaci\u00f3n Financiera Davivienda S.A.",
+                "country": "Colombia",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "CO_PFDAVVNDA_AR_2023"
+    },
+    "sources": [
+        192,
+        290,
+        236,
+        237,
+        174,
+        175,
+        180,
+        182,
+        502,
+        183
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "data": {
+        "name": "Octavio de Lazari Junior",
+        "position": "President and CEO",
+        "start_tenure": "2018-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1960-03-29",
+        "nationality": "Brazilian",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": "University of S\u00e3o Paulo",
+            "country": "Brazil"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "Getulio Vargas Foundation",
+            "country": "Brazil"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Executive Director",
+                "company": "Bradesco",
+                "country": "Brazil",
+                "start_date": "2014-01-01",
+                "end_date": "2017-12-31"
+            },
+            {
+                "position": "Senior Vice President",
+                "company": "Bradesco",
+                "country": "Brazil",
+                "start_date": "2010-01-01",
+                "end_date": "2013-12-31"
+            },
+            {
+                "position": "Branch Manager",
+                "company": "Bradesco",
+                "country": "Brazil",
+                "start_date": "1998-01-01",
+                "end_date": "2009-12-31"
+            }
+        ],
+        "company": "BR_BBDC3_IR_2020"
+    },
+    "sources": [
+        134,
+        8,
+        9,
+        51,
+        52,
+        121
+    ]
+}

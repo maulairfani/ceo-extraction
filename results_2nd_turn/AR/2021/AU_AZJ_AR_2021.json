@@ -1,0 +1,51 @@
+{
+    "data": {
+        "name": "Andrew Harding",
+        "position": "Managing Director & Chief Executive Officer",
+        "start_tenure": "2016-12-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Australian",
+        "education_bachelor": {
+            "major": "Mining Engineering",
+            "university": "University of New South Wales",
+            "country": "Australia"
+        },
+        "education_master": {
+            "major": "MBA",
+            "university": "Deakin University",
+            "country": "Australia"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Global Chief Executive",
+                "company": "Rio Tinto",
+                "country": "UK",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Chief Executive Officer",
+                "company": "Aurizon Holdings Limited",
+                "country": "Australia",
+                "start_date": "2016-12-01",
+                "end_date": null
+            }
+        ],
+        "company": "AU_AZJ_AR_2021"
+    },
+    "sources": [
+        4,
+        5,
+        6,
+        8,
+        12,
+        114
+    ]
+}

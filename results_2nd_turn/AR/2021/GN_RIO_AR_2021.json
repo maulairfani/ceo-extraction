@@ -1,0 +1,59 @@
+{
+    "data": {
+        "name": "Jakob Stausholm",
+        "position": "Chief Executive",
+        "start_tenure": "2021-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1969-06-11",
+        "nationality": "Danish",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": "Copenhagen Business School",
+            "country": "Denmark"
+        },
+        "education_master": {
+            "major": "Economics",
+            "university": "Copenhagen Business School",
+            "country": "Denmark"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Financial Officer",
+                "company": "Rio Tinto",
+                "country": "United Kingdom",
+                "start_date": "2018-09-01",
+                "end_date": "2021-01-01"
+            },
+            {
+                "position": "Vice President of Corporate Finance",
+                "company": "Royal Dutch Shell",
+                "country": "Netherlands",
+                "start_date": "2015-01-01",
+                "end_date": "2018-08-31"
+            },
+            {
+                "position": "Global Head of Supply Chain and Logistics",
+                "company": "Maersk Group",
+                "country": "Denmark",
+                "start_date": "2010-01-01",
+                "end_date": "2014-12-31"
+            }
+        ],
+        "company": "GN_RIO_AR_2021"
+    },
+    "sources": [
+        136,
+        138,
+        139,
+        171,
+        15,
+        180,
+        185
+    ]
+}

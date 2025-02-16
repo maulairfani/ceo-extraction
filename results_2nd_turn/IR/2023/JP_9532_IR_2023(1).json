@@ -1,0 +1,66 @@
+{
+    "data": {
+        "name": "Masataka Fujiwara",
+        "position": "President Director",
+        "start_tenure": "2019-06-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1965-03-02",
+        "nationality": "Japanese",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": "Doshisha University",
+            "country": "Japan"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "Keio University",
+            "country": "Japan"
+        },
+        "education_doctoral": {
+            "major": "Management",
+            "university": "Tokyo University",
+            "country": "Japan"
+        },
+        "working_experience": [
+            {
+                "position": "Representative Director and Senior Executive Vice President",
+                "company": "Nippon Telegraph and Telephone West Corporation",
+                "country": "Japan",
+                "start_date": "2009-06-01",
+                "end_date": "2018-06-01"
+            },
+            {
+                "position": "Director",
+                "company": "Keihan Holdings Co., Ltd.",
+                "country": "Japan",
+                "start_date": "2019-06-01",
+                "end_date": null
+            },
+            {
+                "position": "Director",
+                "company": "Company (current)",
+                "country": "Japan",
+                "start_date": "2019-06-01",
+                "end_date": null
+            },
+            {
+                "position": "Counselor to the president",
+                "company": "Nippon Telegraph and Telephone West Corporation",
+                "country": "Japan",
+                "start_date": "2018-06-01",
+                "end_date": "2019-06-01"
+            }
+        ],
+        "company": "JP_9532_IR_2023(1)"
+    },
+    "sources": [
+        1,
+        66,
+        67,
+        7,
+        57,
+        27,
+        63
+    ]
+}

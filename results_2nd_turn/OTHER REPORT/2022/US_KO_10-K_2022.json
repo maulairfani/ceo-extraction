@@ -1,0 +1,56 @@
+{
+    "data": {
+        "name": "James Quincey",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2017-05-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1964-10-08",
+        "nationality": "British",
+        "education_bachelor": {
+            "major": "Engineering",
+            "university": "University of Manchester",
+            "country": "UK"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "University of Georgia",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "President and Chief Operating Officer",
+                "company": "The Coca-Cola Company",
+                "country": "USA",
+                "start_date": "2015-08-01",
+                "end_date": "2017-04-30"
+            },
+            {
+                "position": "President, Europe, Middle East and Africa",
+                "company": "The Coca-Cola Company",
+                "country": "USA",
+                "start_date": "2016-01-01",
+                "end_date": "2017-04-30"
+            },
+            {
+                "position": "General Manager, Mexico and Central America",
+                "company": "The Coca-Cola Company",
+                "country": "Mexico",
+                "start_date": "2010-01-01",
+                "end_date": "2014-12-31"
+            }
+        ],
+        "company": "US_KO_10-K_2022"
+    },
+    "sources": [
+        32,
+        127,
+        181,
+        31
+    ]
+}

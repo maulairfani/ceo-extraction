@@ -1,0 +1,98 @@
+{
+    "data": {
+        "name": "Markus Rauramo",
+        "position": "President and CEO",
+        "start_tenure": "2020-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1968-01-01",
+        "nationality": "Finnish",
+        "education_bachelor": {
+            "major": "Social Sciences (Economics and Political History)",
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CFO",
+                "company": "Fortum Corporation",
+                "country": "Finland",
+                "start_date": "2017-01-01",
+                "end_date": "2020-01-01"
+            },
+            {
+                "position": "CFO",
+                "company": "Fortum Corporation",
+                "country": "Finland",
+                "start_date": "2012-01-01",
+                "end_date": "2014-01-01"
+            },
+            {
+                "position": "Acting CEO",
+                "company": "Fortum Corporation",
+                "country": "Finland",
+                "start_date": "2013-01-01",
+                "end_date": "2013-12-31"
+            },
+            {
+                "position": "Executive Vice President",
+                "company": "Fortum Corporation",
+                "country": "Finland",
+                "start_date": "2014-01-01",
+                "end_date": "2017-01-01"
+            },
+            {
+                "position": "CFO",
+                "company": "Stora Enso Oyj",
+                "country": "Finland",
+                "start_date": "2008-01-01",
+                "end_date": "2012-01-01"
+            },
+            {
+                "position": "SVP, Group Treasurer",
+                "company": "Stora Enso International",
+                "country": "Finland",
+                "start_date": "2004-01-01",
+                "end_date": "2008-01-01"
+            },
+            {
+                "position": "VP, Strategy and Investments",
+                "company": "Stora Enso Oyj",
+                "country": "Finland",
+                "start_date": "2001-01-01",
+                "end_date": "2004-01-01"
+            },
+            {
+                "position": "VP, Head of Funding",
+                "company": "Stora Enso Financial Services",
+                "country": "Finland",
+                "start_date": "1999-01-01",
+                "end_date": "2001-01-01"
+            },
+            {
+                "position": "Various Financial Tasks",
+                "company": "Enso Oyj",
+                "country": "Finland",
+                "start_date": "1993-01-01",
+                "end_date": "1999-01-01"
+            }
+        ],
+        "company": "FI_FORTUM_CG_2023"
+    },
+    "sources": [
+        17,
+        18,
+        14,
+        15
+    ]
+}

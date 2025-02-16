@@ -1,0 +1,70 @@
+{
+    "data": {
+        "name": "Nicolas Hieronimus",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2021-05-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": 57,
+        "nationality": "French",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "President L'Or\u00e9al Luxe",
+                "company": "L'Or\u00e9al",
+                "country": "France",
+                "start_date": null,
+                "end_date": "2018-12-31"
+            },
+            {
+                "position": "General Manager, L'Or\u00e9al Professional Products Division",
+                "company": "L'Or\u00e9al",
+                "country": "France",
+                "start_date": "2008-01-01",
+                "end_date": null
+            },
+            {
+                "position": "General Manager, L'Or\u00e9al Mexico",
+                "company": "L'Or\u00e9al",
+                "country": "Mexico",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Marketing Director, Laboratoires Garnier",
+                "company": "L'Or\u00e9al",
+                "country": "France",
+                "start_date": "1993-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Director, Garnier Maybelline Division",
+                "company": "L'Or\u00e9al",
+                "country": "United Kingdom",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "FR_OR_AR_2021"
+    },
+    "sources": [
+        112,
+        66,
+        56,
+        128
+    ]
+}

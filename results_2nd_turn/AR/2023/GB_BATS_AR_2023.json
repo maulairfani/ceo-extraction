@@ -1,0 +1,86 @@
+{
+    "data": {
+        "name": "Tadeu Marroco",
+        "position": "Chief Executive",
+        "start_tenure": "2023-05-15",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": 57,
+        "nationality": "Brazilian",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Director, Business Development",
+                "company": "BAT",
+                "country": "Brazil",
+                "start_date": "2014-01-01",
+                "end_date": "2016-01-01"
+            },
+            {
+                "position": "Regional Director, Western Europe",
+                "company": "BAT",
+                "country": "UK",
+                "start_date": "2016-01-01",
+                "end_date": "2018-01-01"
+            },
+            {
+                "position": "Regional Director, Europe and North Africa",
+                "company": "BAT",
+                "country": "UK",
+                "start_date": "2018-01-01",
+                "end_date": "2019-01-01"
+            },
+            {
+                "position": "Director, Group Transformation",
+                "company": "BAT",
+                "country": "UK",
+                "start_date": "2019-01-01",
+                "end_date": "2019-03-01"
+            },
+            {
+                "position": "Deputy Finance Director",
+                "company": "BAT",
+                "country": "UK",
+                "start_date": "2019-03-01",
+                "end_date": "2019-08-01"
+            },
+            {
+                "position": "Finance Director",
+                "company": "BAT",
+                "country": "UK",
+                "start_date": "2019-08-01",
+                "end_date": "2023-05-15"
+            },
+            {
+                "position": "Finance and Transformation Director",
+                "company": "BAT",
+                "country": "UK",
+                "start_date": "2023-05-15",
+                "end_date": null
+            }
+        ],
+        "company": "GB_BATS_AR_2023"
+    },
+    "sources": [
+        134,
+        138,
+        139,
+        172,
+        141,
+        178
+    ]
+}

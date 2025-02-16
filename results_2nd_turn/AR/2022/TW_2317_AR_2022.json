@@ -1,0 +1,59 @@
+{
+    "data": {
+        "name": "Huang De-Cai",
+        "position": "President and Chief Executive Officer",
+        "start_tenure": "2018-06-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1965-07-15",
+        "nationality": "Republic of China",
+        "education_bachelor": {
+            "major": "Mechanical Engineering",
+            "university": "Cheng Kung University",
+            "country": "Taiwan"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "National Taiwan University",
+            "country": "Taiwan"
+        },
+        "education_doctoral": {
+            "major": "Management",
+            "university": "National Taiwan University",
+            "country": "Taiwan"
+        },
+        "working_experience": [
+            {
+                "position": "General Manager of Business Group A",
+                "company": "TW_2317_AR_2022",
+                "country": "Taiwan",
+                "start_date": "2018-06-01",
+                "end_date": null
+            },
+            {
+                "position": "Vice General Manager",
+                "company": "Hon Hai Precision Industry Co., Ltd.",
+                "country": "Taiwan",
+                "start_date": "2005-01-01",
+                "end_date": "2018-05-31"
+            },
+            {
+                "position": "Manager",
+                "company": "Sony Ericsson",
+                "country": "Taiwan",
+                "start_date": "2000-01-01",
+                "end_date": "2004-12-31"
+            }
+        ],
+        "company": "TW_2317_AR_2022"
+    },
+    "sources": [
+        32,
+        33,
+        35,
+        37,
+        40,
+        46,
+        47
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "data": {
+        "name": "John Pettigrew",
+        "position": "Chief Executive",
+        "start_tenure": "2016-04-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1968-05-15",
+        "nationality": "British",
+        "education_bachelor": {
+            "major": "Engineering",
+            "university": "University of Southampton",
+            "country": "UK"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "London Business School",
+            "country": "UK"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer",
+                "company": "National Grid",
+                "country": "UK",
+                "start_date": "2016-04-01",
+                "end_date": null
+            },
+            {
+                "position": "Various Senior Management Roles",
+                "company": "National Grid",
+                "country": "UK",
+                "start_date": "1991-01-01",
+                "end_date": "2016-04-01"
+            }
+        ],
+        "company": "GB_NG_AR_2023"
+    },
+    "sources": [
+        8,
+        106,
+        11,
+        107,
+        108,
+        79,
+        80,
+        81,
+        116
+    ]
+}

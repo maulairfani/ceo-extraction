@@ -1,0 +1,29 @@
+{
+    "data": {
+        "directors": [
+            "Torben M. Andersen (Chairman)",
+            "Jacob Holbraad (Chief Executive Officer)",
+            "Anne Broeng (Professional Board Member)",
+            "Lizette Risgaard (President)",
+            "Jan Walther Andersen (Director)",
+            "Brian Mikkelsen (Chief Executive Officer)",
+            "Peter Rahb\u00e6k Juel (Mayor)",
+            "Arne Grevsen (Vice President)",
+            "Lars Qvistgaard (President)"
+        ],
+        "commissioners": [
+            "Torben M. Andersen (Chairman of the Supervisory Board)",
+            "Jacob Holbraad (Chief Executive Officer)",
+            "Vibeke Krag (Professional Board Member)",
+            "Bente Sorgenfrey (Vice President)",
+            "Kim Simonsen (President)"
+        ],
+        "company": "DK_ATP_AR_2020"
+    },
+    "sources": [
+        1,
+        35,
+        71,
+        15
+    ]
+}

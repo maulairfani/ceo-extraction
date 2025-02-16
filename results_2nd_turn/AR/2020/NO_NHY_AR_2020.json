@@ -1,0 +1,70 @@
+{
+    "data": {
+        "name": "Hilde Merete Aasheim",
+        "position": "President and Chief Executive Officer",
+        "start_tenure": "2019-05-08",
+        "end_tenure": null,
+        "gender": "Female",
+        "birthdate_or_age": "1958-01-01",
+        "nationality": "Norwegian",
+        "education_bachelor": {
+            "major": "Economics and Business Administration",
+            "university": "Norwegian School of Economics (NHH)",
+            "country": "Norway"
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Executive Vice President Primary Metal",
+                "company": "Norsk Hydro",
+                "country": "Norway",
+                "start_date": "2008-01-01",
+                "end_date": "2019-05-07"
+            },
+            {
+                "position": "Head of Staff Functions and Corporate Services",
+                "company": "StatoilHydro",
+                "country": "Norway",
+                "start_date": "2007-01-01",
+                "end_date": "2007-12-31"
+            },
+            {
+                "position": "Head of Integration",
+                "company": "StatoilHydro",
+                "country": "Norway",
+                "start_date": "2007-01-01",
+                "end_date": "2007-12-31"
+            },
+            {
+                "position": "Head of Leadership and Culture",
+                "company": "Norsk Hydro",
+                "country": "Norway",
+                "start_date": "2005-01-01",
+                "end_date": "2006-12-31"
+            },
+            {
+                "position": "Senior Roles",
+                "company": "Elkem",
+                "country": "Norway",
+                "start_date": "1986-01-01",
+                "end_date": "2005-01-01"
+            }
+        ],
+        "company": "NO_NHY_AR_2020"
+    },
+    "sources": [
+        135,
+        138,
+        134,
+        223
+    ]
+}

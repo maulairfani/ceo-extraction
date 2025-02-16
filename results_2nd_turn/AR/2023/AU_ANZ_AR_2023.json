@@ -1,0 +1,61 @@
+{
+    "data": {
+        "name": "Shayne Elliott",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2016-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Australian",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Group Executive, Institutional",
+                "company": "Australia and New Zealand Banking Group",
+                "country": "Australia",
+                "start_date": "2015-01-01",
+                "end_date": "2016-01-01"
+            },
+            {
+                "position": "Chief Financial Officer",
+                "company": "Australia and New Zealand Banking Group",
+                "country": "Australia",
+                "start_date": "2011-01-01",
+                "end_date": "2015-01-01"
+            },
+            {
+                "position": "Various roles in Investment Banking",
+                "company": "ANZ",
+                "country": "Australia",
+                "start_date": "2003-01-01",
+                "end_date": "2011-01-01"
+            }
+        ],
+        "company": "AU_ANZ_AR_2023"
+    },
+    "sources": [
+        1,
+        34,
+        35,
+        36,
+        6,
+        8,
+        9,
+        206,
+        216
+    ]
+}

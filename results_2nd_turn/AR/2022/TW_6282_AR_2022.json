@@ -1,0 +1,60 @@
+{
+    "data": {
+        "name": "Hsu Chieh-Li",
+        "position": "CEO",
+        "start_tenure": "2018-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1973-03-21",
+        "nationality": "Republic of China",
+        "education_bachelor": {
+            "major": "Electronics Engineering",
+            "university": "National Taiwan University",
+            "country": "Taiwan"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "National Chengchi University",
+            "country": "Taiwan"
+        },
+        "education_doctoral": {
+            "major": "Electrical Engineering",
+            "university": "University of Tokyo",
+            "country": "Japan"
+        },
+        "working_experience": [
+            {
+                "position": "Vice President",
+                "company": "AcBel Polytech Inc.",
+                "country": "Taiwan",
+                "start_date": "2016-08-01",
+                "end_date": null
+            },
+            {
+                "position": "Director",
+                "company": "Coretronic Corporation",
+                "country": "Taiwan",
+                "start_date": "2014-02-01",
+                "end_date": "2016-07-31"
+            },
+            {
+                "position": "Manager",
+                "company": "Taiwan Semiconductor Manufacturing Company",
+                "country": "Taiwan",
+                "start_date": "2010-04-01",
+                "end_date": "2013-12-31"
+            }
+        ],
+        "company": "TW_6282_AR_2022"
+    },
+    "sources": [
+        97,
+        11,
+        13,
+        17,
+        50,
+        22,
+        23,
+        24
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "data": {
+        "name": "Paul Victor",
+        "position": "Interim Chief Executive Officer",
+        "start_tenure": "2023-06-06",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "South African",
+        "education_bachelor": {
+            "major": "Commerce (Hons)",
+            "university": "University of South Africa",
+            "country": "South Africa"
+        },
+        "education_master": {
+            "major": "International Tax Law (Hons)",
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Financial Officer",
+                "company": "Incitec Pivot Limited",
+                "country": "Australia",
+                "start_date": "2022-07-01",
+                "end_date": null
+            },
+            {
+                "position": "Acting Chief Financial Officer",
+                "company": "Sasol Limited",
+                "country": "South Africa",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Group Financial Controller",
+                "company": "Sasol Limited",
+                "country": "South Africa",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Chief Financial Officer of Sasol Synfuels",
+                "company": "Sasol Limited",
+                "country": "South Africa",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Financial Manager",
+                "company": "Harmony Gold Mining",
+                "country": "South Africa",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "AU_IPL_AR_2023"
+    },
+    "sources": [
+        64,
+        11,
+        54,
+        55,
+        61
+    ]
+}

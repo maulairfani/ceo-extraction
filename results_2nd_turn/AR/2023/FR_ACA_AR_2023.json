@@ -1,0 +1,85 @@
+{
+    "data": {
+        "name": "Nicolas Denis",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2024-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1967-01-01",
+        "nationality": "French",
+        "education_bachelor": {
+            "major": null,
+            "university": "ENSAE",
+            "country": "France"
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer",
+                "company": "Cr\u00e9dit Agricole Assurances",
+                "country": "France",
+                "start_date": "2024-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Deputy Chief Executive Officer",
+                "company": "Cr\u00e9dit Agricole Assurances",
+                "country": "France",
+                "start_date": "2023-04-04",
+                "end_date": null
+            },
+            {
+                "position": "Chief Executive Officer",
+                "company": "Cr\u00e9dit Agricole de Normandie-Seine",
+                "country": "France",
+                "start_date": "2016-01-01",
+                "end_date": "2023-03-01"
+            },
+            {
+                "position": "Director of Technology and Banking Services",
+                "company": "LCL",
+                "country": "France",
+                "start_date": "2013-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Deputy Chief Executive Officer",
+                "company": "Cr\u00e9dit Agricole Centre-Est",
+                "country": "France",
+                "start_date": "2008-10-01",
+                "end_date": "2013-01-01"
+            },
+            {
+                "position": "Various positions in insurance and banking",
+                "company": "Compagnie Bancaire (BNP Paribas)",
+                "country": "France",
+                "start_date": "1990-01-01",
+                "end_date": null
+            }
+        ],
+        "company": "FR_ACA_AR_2023"
+    },
+    "sources": [
+        2,
+        98,
+        102,
+        144,
+        81,
+        82,
+        84,
+        85,
+        86,
+        87,
+        345,
+        63
+    ]
+}

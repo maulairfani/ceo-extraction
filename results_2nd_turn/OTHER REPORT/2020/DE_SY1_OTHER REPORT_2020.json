@@ -1,0 +1,68 @@
+{
+    "data": {
+        "name": "Dr. Heinz-J\u00fcrgen Bertram",
+        "position": "CEO",
+        "start_tenure": "2015-02-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1961-03-25",
+        "nationality": "German",
+        "education_bachelor": {
+            "major": "Chemistry",
+            "university": "University of G\u00f6ttingen",
+            "country": "Germany"
+        },
+        "education_master": {
+            "major": "Chemistry",
+            "university": "University of G\u00f6ttingen",
+            "country": "Germany"
+        },
+        "education_doctoral": {
+            "major": "Organic Chemistry",
+            "university": "University of G\u00f6ttingen",
+            "country": "Germany"
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "Symrise",
+                "country": "Germany",
+                "start_date": "2015-02-01",
+                "end_date": null
+            },
+            {
+                "position": "Executive Board Member",
+                "company": "Symrise",
+                "country": "Germany",
+                "start_date": "2012-01-01",
+                "end_date": "2015-01-31"
+            },
+            {
+                "position": "Divisional Head",
+                "company": "Symrise",
+                "country": "Germany",
+                "start_date": "2006-01-01",
+                "end_date": "2011-12-31"
+            },
+            {
+                "position": "Various Roles",
+                "company": "Cognis",
+                "country": "Germany",
+                "start_date": "1990-01-01",
+                "end_date": "2005-12-31"
+            }
+        ],
+        "company": "DE_SY1_OTHER REPORT_2020"
+    },
+    "sources": [
+        1,
+        41,
+        14,
+        15,
+        16,
+        17,
+        47,
+        46,
+        31
+    ]
+}

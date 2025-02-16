@@ -1,0 +1,67 @@
+{
+    "data": {
+        "name": "Christel Heydemann",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2022-04-04",
+        "end_tenure": null,
+        "gender": "Female",
+        "birthdate_or_age": "1974-01-01",
+        "nationality": "French",
+        "education_bachelor": {
+            "major": "Engineering",
+            "university": "\u00c9cole Polytechnique",
+            "country": "France"
+        },
+        "education_master": {
+            "major": "Engineering",
+            "university": "\u00c9cole Nationale des Ponts et Chauss\u00e9es",
+            "country": "France"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Director of Human Resources and Transformation",
+                "company": "Alcatel",
+                "country": "France",
+                "start_date": "2011-01-01",
+                "end_date": "2014-01-01"
+            },
+            {
+                "position": "Executive Director France Operations",
+                "company": "Schneider Electric",
+                "country": "France",
+                "start_date": "2017-01-01",
+                "end_date": "2021-01-01"
+            },
+            {
+                "position": "Director Europe Operations",
+                "company": "Schneider Electric",
+                "country": "France",
+                "start_date": "2021-01-01",
+                "end_date": "2022-01-01"
+            },
+            {
+                "position": "Chief Executive Officer",
+                "company": "Orange",
+                "country": "France",
+                "start_date": "2022-04-04",
+                "end_date": null
+            }
+        ],
+        "company": "FR_ORA_AR_2023"
+    },
+    "sources": [
+        3,
+        420,
+        419,
+        446,
+        425,
+        427,
+        468,
+        414
+    ]
+}

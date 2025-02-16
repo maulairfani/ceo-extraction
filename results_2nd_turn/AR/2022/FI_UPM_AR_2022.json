@@ -1,0 +1,53 @@
+{
+    "data": {
+        "name": "Jussi Pesonen",
+        "position": "President and CEO",
+        "start_tenure": "2004-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1960-01-01",
+        "nationality": "Finnish",
+        "education_bachelor": {
+            "major": "Engineering",
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "COO of UPM Paper Divisions",
+                "company": "UPM-Kymmene Corporation",
+                "country": "Finland",
+                "start_date": "2001-01-01",
+                "end_date": "2004-12-31"
+            },
+            {
+                "position": "Various Management Positions",
+                "company": "UPM-Kymmene Corporation",
+                "country": "Finland",
+                "start_date": "1987-01-01",
+                "end_date": "2001-01-01"
+            }
+        ],
+        "company": "FI_UPM_AR_2022"
+    },
+    "sources": [
+        66,
+        9,
+        77,
+        79,
+        53,
+        57,
+        58,
+        123
+    ]
+}

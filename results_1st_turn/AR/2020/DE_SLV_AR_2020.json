@@ -1,0 +1,40 @@
+{
+    "data": {
+        "directors": [
+            "Oliver B\u00e4te",
+            "Sergio Balbinot",
+            "Jacqueline Hunt",
+            "Dr. Barbara Karuth-Zelle",
+            "Dr. Christof Mascher",
+            "Niran Peiris",
+            "Klaus-Peter R\u00f6hler",
+            "Ivan de la Sota",
+            "Giulio Terzariol",
+            "Dr. G\u00fcnther Thallinger",
+            "Dr. Axel Theis",
+            "Christopher Townsend",
+            "Renate Wagner"
+        ],
+        "commissioners": [
+            "Michael Diekmann",
+            "Jim Hagemann Snabe",
+            "Gabriele Burkhardt-Berg",
+            "Sophie Boissard",
+            "Christine Bosse",
+            "Dr. Friedrich Eichiner",
+            "Jean-Claude Le Goa\u00ebr",
+            "Martina Grundler",
+            "Herbert Hainer",
+            "Godfrey Robert Hayward",
+            "Frank Kirsch",
+            "J\u00fcrgen Lawrenz"
+        ],
+        "company": "DE_SLV_AR_2020"
+    },
+    "sources": [
+        40,
+        42,
+        11,
+        12
+    ]
+}

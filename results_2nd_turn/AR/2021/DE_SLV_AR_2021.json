@@ -1,0 +1,45 @@
+{
+    "data": {
+        "name": "Oliver B\u00e4te",
+        "position": "CEO",
+        "start_tenure": "2015-05-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "German",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chairman of the Board of Management",
+                "company": "Allianz SE",
+                "country": "Germany",
+                "start_date": "2008-01-01",
+                "end_date": null
+            }
+        ],
+        "company": "DE_SLV_AR_2021"
+    },
+    "sources": [
+        100,
+        11,
+        13,
+        119,
+        89,
+        122,
+        123
+    ]
+}

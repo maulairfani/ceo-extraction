@@ -1,0 +1,52 @@
+{
+    "data": {
+        "name": "Jeanne Johns",
+        "position": "Managing Director & CEO",
+        "start_tenure": "2017-11-15",
+        "end_tenure": null,
+        "gender": "Female",
+        "birthdate_or_age": null,
+        "nationality": "Australian",
+        "education_bachelor": {
+            "major": "Chemical Engineering",
+            "university": "University of Queensland",
+            "country": "Australia"
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Executive roles",
+                "company": "BP",
+                "country": null,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Managing Director & CEO",
+                "company": "Incitec Pivot Limited",
+                "country": "Australia",
+                "start_date": "2017-11-15",
+                "end_date": null
+            }
+        ],
+        "company": "AU_IPL_AR_2022"
+    },
+    "sources": [
+        1,
+        72,
+        51,
+        19,
+        54,
+        55,
+        56
+    ]
+}

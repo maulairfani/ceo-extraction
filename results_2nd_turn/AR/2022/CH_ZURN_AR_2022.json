@@ -1,0 +1,66 @@
+{
+    "data": {
+        "name": "Mario Greco",
+        "position": "Group Chief Executive Officer",
+        "start_tenure": "2016-03-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1959-01-01",
+        "nationality": "Italian",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": "University of Rome",
+            "country": "Italy"
+        },
+        "education_master": {
+            "major": "International Economics and Monetary Theory",
+            "university": "University of Rochester",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Managing Director",
+                "company": "RAS (Allianz Group)",
+                "country": "Italy",
+                "start_date": "1998-01-01",
+                "end_date": "2004-12-31"
+            },
+            {
+                "position": "CEO",
+                "company": "Eurizon Financial Group",
+                "country": "Italy",
+                "start_date": "2005-10-01",
+                "end_date": "2006-12-31"
+            },
+            {
+                "position": "CEO",
+                "company": "Generali",
+                "country": "Italy",
+                "start_date": "2012-01-01",
+                "end_date": "2016-02-29"
+            },
+            {
+                "position": "Group CEO",
+                "company": "Zurich Insurance Group",
+                "country": "Switzerland",
+                "start_date": "2016-03-01",
+                "end_date": null
+            }
+        ],
+        "company": "CH_ZURN_AR_2022"
+    },
+    "sources": [
+        64,
+        65,
+        42,
+        44,
+        12,
+        49,
+        62
+    ]
+}

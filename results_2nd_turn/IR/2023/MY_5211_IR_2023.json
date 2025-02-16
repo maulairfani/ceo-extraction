@@ -1,0 +1,49 @@
+{
+    "data": {
+        "name": "Tan Sri Sir Dr. Jeffrey Cheah Fook Ling",
+        "position": "Executive Chairman",
+        "start_tenure": "1998-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1938-09-29",
+        "nationality": "Malaysian",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": "University of Malaya",
+            "country": "Malaysia"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "Harvard University",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": "Honorary Doctorate in Education",
+            "university": "Various Institutions",
+            "country": "Various"
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer",
+                "company": "Sunway Group",
+                "country": "Malaysia",
+                "start_date": "1998-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Chairman",
+                "company": "Sungei Way Corporation Sdn. Bhd.",
+                "country": "Malaysia",
+                "start_date": "1994-01-01",
+                "end_date": null
+            }
+        ],
+        "company": "MY_5211_IR_2023"
+    },
+    "sources": [
+        67,
+        75,
+        92,
+        63
+    ]
+}

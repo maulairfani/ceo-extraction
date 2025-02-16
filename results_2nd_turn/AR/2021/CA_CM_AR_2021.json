@@ -1,0 +1,44 @@
+{
+    "data": {
+        "name": "Victor G. Dodig",
+        "position": "President and Chief Executive Officer",
+        "start_tenure": "2014-02-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Canadian",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "CIBC",
+                "country": "Canada",
+                "start_date": "2014-02-01",
+                "end_date": null
+            }
+        ],
+        "company": "CA_CM_AR_2021"
+    },
+    "sources": [
+        131,
+        9,
+        12,
+        13,
+        122,
+        219
+    ]
+}

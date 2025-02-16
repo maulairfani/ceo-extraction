@@ -1,0 +1,100 @@
+{
+    "data": {
+        "name": "Yuki Kusumi",
+        "position": "Group CEO",
+        "start_tenure": "2021-04-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "null",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chairperson",
+                "company": "Panasonic Corporation of China",
+                "country": "China",
+                "start_date": "2020-04-01",
+                "end_date": null
+            },
+            {
+                "position": "Group CEO",
+                "company": "Panasonic Corporation",
+                "country": "Japan",
+                "start_date": "2021-04-01",
+                "end_date": null
+            },
+            {
+                "position": "Representative Director and Executive Vice President",
+                "company": "Panasonic Corporation",
+                "country": "Japan",
+                "start_date": "2021-04-01",
+                "end_date": null
+            },
+            {
+                "position": "CEO, China & Northeast Asia Company",
+                "company": "Panasonic Corporation",
+                "country": "China",
+                "start_date": "2019-04-01",
+                "end_date": "2021-03-31"
+            },
+            {
+                "position": "Senior Managing Executive Officer",
+                "company": "Panasonic Corporation",
+                "country": "Japan",
+                "start_date": "2016-04-01",
+                "end_date": "2019-03-31"
+            },
+            {
+                "position": "Managing Director",
+                "company": "Panasonic Corporation",
+                "country": "Japan",
+                "start_date": "2015-06-01",
+                "end_date": "2016-03-31"
+            },
+            {
+                "position": "Managing Executive Officer",
+                "company": "Panasonic Corporation",
+                "country": "Japan",
+                "start_date": "2015-04-01",
+                "end_date": null
+            },
+            {
+                "position": "Executive Officer",
+                "company": "Panasonic Corporation",
+                "country": "Japan",
+                "start_date": "2013-10-01",
+                "end_date": null
+            },
+            {
+                "position": "Joined the Company",
+                "company": "Panasonic",
+                "country": "Japan",
+                "start_date": "1985-04-01",
+                "end_date": null
+            }
+        ],
+        "company": "JP_6752_IR_2022"
+    },
+    "sources": [
+        8,
+        41,
+        46,
+        47,
+        48,
+        49
+    ]
+}

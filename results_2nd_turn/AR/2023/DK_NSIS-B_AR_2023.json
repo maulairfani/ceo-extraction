@@ -1,0 +1,56 @@
+{
+    "data": {
+        "name": "Ester Baiget",
+        "position": "President and CEO",
+        "start_tenure": null,
+        "end_tenure": null,
+        "gender": "Female",
+        "birthdate_or_age": "1971",
+        "nationality": "Spanish",
+        "education_bachelor": {
+            "major": "Chemical Engineering",
+            "university": "Rovira i Virgili University",
+            "country": "Spain"
+        },
+        "education_master": {
+            "major": "MBA",
+            "university": "Rovira i Virgili University",
+            "country": "Spain"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "Novozymes A/S",
+                "country": "Denmark",
+                "start_date": "2020-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Member of the Supervisory Board",
+                "company": "AkzoNobel",
+                "country": "Netherlands",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "DK_NSIS-B_AR_2023"
+    },
+    "sources": [
+        34,
+        35,
+        36,
+        37,
+        38,
+        12,
+        78,
+        47,
+        48,
+        111,
+        154
+    ]
+}

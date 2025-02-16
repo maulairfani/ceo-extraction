@@ -1,0 +1,53 @@
+{
+    "data": {
+        "name": "Leonhard Birnbaum",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2021-04-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1967-01-01",
+        "nationality": "German",
+        "education_bachelor": {
+            "major": "Engineering",
+            "university": "Technical University of Darmstadt",
+            "country": "Germany"
+        },
+        "education_master": {
+            "major": "Management",
+            "university": "University of Mannheim",
+            "country": "Germany"
+        },
+        "education_doctoral": {
+            "major": "Engineering",
+            "university": "Technical University of Darmstadt",
+            "country": "Germany"
+        },
+        "working_experience": [
+            {
+                "position": "Chairman",
+                "company": "Georgsmarienh\u00fctte Holding GmbH",
+                "country": "Germany",
+                "start_date": "2021-04-01",
+                "end_date": null
+            },
+            {
+                "position": "Member of the Management Board",
+                "company": "E.ON SE",
+                "country": "Germany",
+                "start_date": "2013-07-01",
+                "end_date": null
+            }
+        ],
+        "company": "DE_EOAN_AR_2022"
+    },
+    "sources": [
+        320,
+        1,
+        186,
+        176,
+        18,
+        179,
+        21,
+        26
+    ]
+}

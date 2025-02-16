@@ -1,0 +1,59 @@
+{
+    "data": {
+        "name": "T. V. Narendran",
+        "position": "Chief Executive Officer & Managing Director",
+        "start_tenure": null,
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Indian",
+        "education_bachelor": {
+            "major": "Bachelor of Engineering",
+            "university": "Indian Institute of Technology (IIT), Kharagpur",
+            "country": "India"
+        },
+        "education_master": {
+            "major": "Master of Business Administration",
+            "university": "XLRI Jamshedpur",
+            "country": "India"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "General Manager",
+                "company": "Tata Steel",
+                "country": "India",
+                "start_date": "2011-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Executive Director",
+                "company": "Tata Steel",
+                "country": "India",
+                "start_date": "2013-01-01",
+                "end_date": "2015-12-31"
+            },
+            {
+                "position": "Chief Executive Officer",
+                "company": "Tata Steel",
+                "country": "India",
+                "start_date": "2015-01-01",
+                "end_date": null
+            }
+        ],
+        "company": "IN_TATA_AR_2020(1)"
+    },
+    "sources": [
+        131,
+        195,
+        132,
+        395,
+        77,
+        17,
+        155
+    ]
+}

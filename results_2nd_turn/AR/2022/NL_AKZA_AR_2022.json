@@ -1,0 +1,49 @@
+{
+    "data": {
+        "name": "Gr\u00e9goire Poux-Guillaume",
+        "position": "CEO and Chair of the Board of Management and Executive Committee",
+        "start_tenure": "2022-11-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1970-01-01",
+        "nationality": "French",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "Sulzer",
+                "country": "Switzerland",
+                "start_date": "2015-01-01",
+                "end_date": "2022-11-01"
+            },
+            {
+                "position": "CEO",
+                "company": "GE Grid Solutions",
+                "country": null,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "NL_AKZA_AR_2022"
+    },
+    "sources": [
+        72,
+        145,
+        60,
+        63
+    ]
+}

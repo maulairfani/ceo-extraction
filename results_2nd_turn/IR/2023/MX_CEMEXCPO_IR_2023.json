@@ -1,0 +1,63 @@
+{
+    "data": {
+        "name": "Fernando A. Gonz\u00e1lez",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2014-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1954-11-27",
+        "nationality": "Mexican",
+        "education_bachelor": {
+            "major": "Business Administration",
+            "university": "Instituto Tecnol\u00f3gico y de Estudios Superiores de Monterrey",
+            "country": "Mexico"
+        },
+        "education_master": {
+            "major": "MBA",
+            "university": "Instituto Tecnol\u00f3gico y de Estudios Superiores de Monterrey",
+            "country": "Mexico"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Executive Vice President of Planning and Development",
+                "company": "Cemex",
+                "country": "Mexico",
+                "start_date": "2009-05-01",
+                "end_date": "2011-12-31"
+            },
+            {
+                "position": "Chief Financial Officer",
+                "company": "Cemex",
+                "country": "Mexico",
+                "start_date": "2011-01-01",
+                "end_date": "2014-01-01"
+            },
+            {
+                "position": "Head of Strategic Planning, Business Development and Human Resources",
+                "company": "Cemex",
+                "country": "Mexico",
+                "start_date": "1989-01-01",
+                "end_date": "1998-12-31"
+            },
+            {
+                "position": "Various Regional Director Positions",
+                "company": "Cemex",
+                "country": "Various",
+                "start_date": "1998-01-01",
+                "end_date": "2009-12-31"
+            }
+        ],
+        "company": "MX_CEMEXCPO_IR_2023"
+    },
+    "sources": [
+        91,
+        98,
+        99,
+        100
+    ]
+}

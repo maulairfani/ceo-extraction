@@ -1,0 +1,29 @@
+{
+    "data": {
+        "directors": [
+            "Dr. Rolf Martin Schmitz",
+            "Dr. Markus Krebber",
+            "Zvezdana Seeger",
+            "Dr. Michael M\u00fcller"
+        ],
+        "commissioners": [
+            "Anja Dubbert",
+            "Matthias D\u00fcrbaum",
+            "Ute Gerbaulet",
+            "Prof. Dr.-Ing. Dr.-Ing. E./h. Hans-Peter Keitel",
+            "Mag. Dr. h. c. Monika Kircher",
+            "Harald Louis",
+            "Ullrich Sierau",
+            "Ralf Sikorski",
+            "Marion Weckes",
+            "Leonhard Zubrowski"
+        ],
+        "company": "DE_RWE_AR_2020"
+    },
+    "sources": [
+        232,
+        227,
+        229,
+        231
+    ]
+}

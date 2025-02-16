@@ -1,0 +1,59 @@
+{
+    "data": {
+        "name": "Robert Swaak",
+        "position": "Chief Executive Officer and Chair",
+        "start_tenure": "2020-04-22",
+        "end_tenure": "2024-04-30",
+        "gender": "Male",
+        "birthdate_or_age": "1960",
+        "nationality": "Dutch",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer and Chair of the Executive Board",
+                "company": "ABN AMRO Bank N.V.",
+                "country": "Netherlands",
+                "start_date": "2020-04-22",
+                "end_date": null
+            },
+            {
+                "position": "Member of the Supervisory Council",
+                "company": "Stichting Nationale Opera & Ballet",
+                "country": "Netherlands",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Member of the Board of Directors",
+                "company": "Nederlandsche Bank",
+                "country": "Netherlands",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "NL_ABN_AR_2022"
+    },
+    "sources": [
+        192,
+        321,
+        1,
+        236,
+        339,
+        183,
+        184
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "data": {
+        "name": "Frank Calabria",
+        "position": "Managing Director and Chief Executive Officer",
+        "start_tenure": "2016-10-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Australian",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": "Macquarie University",
+            "country": "Australia"
+        },
+        "education_master": {
+            "major": "Business Administration (Executive)",
+            "university": "Australian Graduate School of Management",
+            "country": "Australia"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Financial Officer",
+                "company": "Origin Energy",
+                "country": "Australia",
+                "start_date": "2001-11-01",
+                "end_date": null
+            },
+            {
+                "position": "Chief Executive Officer, Energy Markets",
+                "company": "Origin Energy",
+                "country": "Australia",
+                "start_date": "2009-03-01",
+                "end_date": "2016-09-30"
+            },
+            {
+                "position": "Managing Director and Chief Executive Officer",
+                "company": "Origin Energy",
+                "country": "Australia",
+                "start_date": "2016-10-01",
+                "end_date": null
+            }
+        ],
+        "company": "AU_ORG_AR_2023"
+    },
+    "sources": [
+        64,
+        16,
+        91,
+        172
+    ]
+}

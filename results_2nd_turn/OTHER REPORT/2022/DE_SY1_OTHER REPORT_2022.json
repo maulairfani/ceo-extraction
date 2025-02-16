@@ -1,0 +1,67 @@
+{
+    "data": {
+        "name": "Dr. Heinz-J\u00fcrgen Bertram",
+        "position": "CEO",
+        "start_tenure": "2014-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1962-09-13",
+        "nationality": "German",
+        "education_bachelor": {
+            "major": "Chemistry",
+            "university": "Technical University of Munich",
+            "country": "Germany"
+        },
+        "education_master": {
+            "major": "Business Management",
+            "university": "Wharton School at the University of Pennsylvania",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": "Chemical Engineering",
+            "university": "RWTH Aachen University",
+            "country": "Germany"
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "Symrise AG",
+                "country": "Germany",
+                "start_date": "2014-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Director of Business Development",
+                "company": "Symrise AG",
+                "country": "Germany",
+                "start_date": "2008-01-01",
+                "end_date": "2013-12-31"
+            },
+            {
+                "position": "Manager R&D",
+                "company": "Fragrance Division, Symrise AG",
+                "country": "Germany",
+                "start_date": "2002-01-01",
+                "end_date": "2007-12-31"
+            },
+            {
+                "position": "PhD Student",
+                "company": "RWTH Aachen University",
+                "country": "Germany",
+                "start_date": "1999-01-01",
+                "end_date": "2002-12-31"
+            }
+        ],
+        "company": "DE_SY1_OTHER REPORT_2022"
+    },
+    "sources": [
+        97,
+        132,
+        39,
+        42,
+        15,
+        17,
+        83,
+        118
+    ]
+}

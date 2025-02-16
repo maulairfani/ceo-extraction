@@ -1,0 +1,53 @@
+{
+    "data": {
+        "name": "Sanjeev Gandhi",
+        "position": "Managing Director and Chief Executive Officer",
+        "start_tenure": "2021-04-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Australian",
+        "education_bachelor": {
+            "major": "Chemical Engineering",
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": "MBA",
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Group Executive and President, Australia Pacific and Asia",
+                "company": "Orica Limited",
+                "country": "Australia",
+                "start_date": "2020-07-20",
+                "end_date": null
+            },
+            {
+                "position": "Executive Director",
+                "company": "BASF SE",
+                "country": "Germany",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "AU_ORI_AR_2021"
+    },
+    "sources": [
+        73,
+        76,
+        50,
+        85,
+        183,
+        91,
+        30,
+        31
+    ]
+}

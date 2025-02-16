@@ -1,0 +1,64 @@
+{
+    "data": {
+        "name": "Koji Matsuda",
+        "position": "President Director",
+        "start_tenure": "2021-06-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Japanese",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Sales and Marketing Executive",
+                "company": "Hokuriku Electric Power Company",
+                "country": "Japan",
+                "start_date": "1985-04-01",
+                "end_date": null
+            },
+            {
+                "position": "Executive Officer",
+                "company": "Hokuriku Electric Power Company",
+                "country": "Japan",
+                "start_date": "2016-06-01",
+                "end_date": null
+            },
+            {
+                "position": "Director & Managing Executive Officer",
+                "company": "Hokuriku Electric Power Company",
+                "country": "Japan",
+                "start_date": "2019-06-01",
+                "end_date": null
+            }
+        ],
+        "company": "JP_9505_IR_2020"
+    },
+    "sources": [
+        64,
+        3,
+        4,
+        37,
+        8,
+        9,
+        10,
+        48,
+        53,
+        54,
+        55,
+        59
+    ]
+}

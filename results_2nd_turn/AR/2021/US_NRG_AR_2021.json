@@ -1,0 +1,66 @@
+{
+    "data": {
+        "name": "Mauricio Gutierrez",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2015-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1970-07-01",
+        "nationality": "American",
+        "education_bachelor": {
+            "major": "Electrical Engineering",
+            "university": "The University of Texas at Austin",
+            "country": "USA"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "University of Houston",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Operating Officer",
+                "company": "NRG Energy, Inc.",
+                "country": "USA",
+                "start_date": "2015-01-01",
+                "end_date": "2020-12-31"
+            },
+            {
+                "position": "Vice President",
+                "company": "NRG Energy, Inc.",
+                "country": "USA",
+                "start_date": "2012-01-01",
+                "end_date": "2015-01-01"
+            },
+            {
+                "position": "Senior Vice President of Operations",
+                "company": "NRG Energy, Inc.",
+                "country": "USA",
+                "start_date": "2009-01-01",
+                "end_date": "2012-01-01"
+            },
+            {
+                "position": "Manager of Project Development",
+                "company": "NRG Energy, Inc.",
+                "country": "USA",
+                "start_date": "2006-01-01",
+                "end_date": "2009-01-01"
+            }
+        ],
+        "company": "US_NRG_AR_2021"
+    },
+    "sources": [
+        1,
+        7,
+        168,
+        167,
+        8,
+        11,
+        22
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "data": {
+        "name": "Masataka Fujiwara",
+        "position": "President",
+        "start_tenure": "2021-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Japanese",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Senior Executive Officer",
+                "company": "Osaka Gas",
+                "country": "Japan",
+                "start_date": "2015-04-01",
+                "end_date": null
+            },
+            {
+                "position": "Executive Officer",
+                "company": "Osaka Gas",
+                "country": "Japan",
+                "start_date": "2015-04-01",
+                "end_date": null
+            },
+            {
+                "position": "General Manager of Residential Energy Business Unit",
+                "company": "Osaka Gas",
+                "country": "Japan",
+                "start_date": "2015-06-01",
+                "end_date": null
+            },
+            {
+                "position": "Representative Director and President",
+                "company": "Osaka Gas Chemicals Co., Ltd.",
+                "country": "Japan",
+                "start_date": "2013-04-01",
+                "end_date": null
+            },
+            {
+                "position": "General Manager of Corporate Strategy Dept.",
+                "company": "Osaka Gas",
+                "country": "Japan",
+                "start_date": "2003-04-01",
+                "end_date": null
+            },
+            {
+                "position": "Joined Osaka Gas",
+                "company": "Osaka Gas",
+                "country": "Japan",
+                "start_date": "1985-04-01",
+                "end_date": null
+            }
+        ],
+        "company": "JP_9532_IR_2020"
+    },
+    "sources": [
+        36,
+        37,
+        4,
+        38,
+        40
+    ]
+}

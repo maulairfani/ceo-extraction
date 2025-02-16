@@ -1,0 +1,51 @@
+{
+    "data": {
+        "name": "Germ\u00e1n Larrea Mota Velasco",
+        "position": "Chief Executive Officer and Chairman of the Board of Directors",
+        "start_tenure": "1999-11-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1954-09-23",
+        "nationality": "Mexican",
+        "education_bachelor": {
+            "major": "Industrial Engineering",
+            "university": "National Autonomous University of Mexico",
+            "country": "Mexico"
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "Grupo M\u00e9xico",
+                "country": "Mexico",
+                "start_date": "1999-11-01",
+                "end_date": null
+            },
+            {
+                "position": "Chairman",
+                "company": "Southern Copper Corporation",
+                "country": "USA",
+                "start_date": "2004-01-01",
+                "end_date": null
+            }
+        ],
+        "company": "MX_GMEXICOB_AR_2021"
+    },
+    "sources": [
+        64,
+        65,
+        66,
+        67,
+        62,
+        63
+    ]
+}

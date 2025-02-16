@@ -1,0 +1,63 @@
+{
+    "data": {
+        "name": "Lee Chuan Seng",
+        "position": "Chief Executive Officer - Quarry Division",
+        "start_tenure": "2018-02-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": 53,
+        "nationality": "Malaysian",
+        "education_bachelor": {
+            "major": "Chartered Accountant",
+            "university": "N/A",
+            "country": "N/A"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "Victoria University of Technology",
+            "country": "Australia"
+        },
+        "education_doctoral": {
+            "major": "N/A",
+            "university": "N/A",
+            "country": "N/A"
+        },
+        "working_experience": [
+            {
+                "position": "Chief Operating Officer",
+                "company": "Sunway Group",
+                "country": "Malaysia",
+                "start_date": "N/A",
+                "end_date": "2018-02-01"
+            },
+            {
+                "position": "Financial Controller",
+                "company": "Setia Juta Quarry Industries Sdn Bhd",
+                "country": "Malaysia",
+                "start_date": "2001-01-01",
+                "end_date": "2005-01-01"
+            },
+            {
+                "position": "Commercial Manager",
+                "company": "Sunway-Pioneer Joint Venture",
+                "country": "Malaysia",
+                "start_date": "1999-01-01",
+                "end_date": "2001-01-01"
+            },
+            {
+                "position": "Accountant",
+                "company": "Sungei Way Quarry Industries Sdn Bhd",
+                "country": "Malaysia",
+                "start_date": "1996-01-01",
+                "end_date": "1999-01-01"
+            }
+        ],
+        "company": "MY_5211_IR_2020"
+    },
+    "sources": [
+        57,
+        60,
+        61,
+        62
+    ]
+}

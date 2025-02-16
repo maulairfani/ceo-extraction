@@ -1,0 +1,88 @@
+{
+    "data": {
+        "name": "Alexandre Ricard",
+        "position": "Chairman and CEO",
+        "start_tenure": "2015-02-11",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1972-05-30",
+        "nationality": "French",
+        "education_bachelor": {
+            "major": "Management",
+            "university": "ESCP Europe",
+            "country": "France"
+        },
+        "education_master": {
+            "major": "Finance and Entrepreneurship",
+            "university": "Wharton School of Business",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": "International Studies",
+            "university": "University of Pennsylvania",
+            "country": "USA"
+        },
+        "working_experience": [
+            {
+                "position": "Consultant",
+                "company": "Accenture",
+                "country": "France",
+                "start_date": "1996-01-01",
+                "end_date": "2003-01-01"
+            },
+            {
+                "position": "Consultant",
+                "company": "Morgan Stanley",
+                "country": "USA",
+                "start_date": "2003-01-01",
+                "end_date": "2003-12-31"
+            },
+            {
+                "position": "Chief Financial and Administration Officer",
+                "company": "Irish Distillers Group",
+                "country": "Ireland",
+                "start_date": "2004-01-01",
+                "end_date": "2006-09-01"
+            },
+            {
+                "position": "CEO",
+                "company": "Pernod Ricard Asia Duty Free",
+                "country": "Asia",
+                "start_date": "2006-09-01",
+                "end_date": "2008-07-01"
+            },
+            {
+                "position": "Chairman and CEO",
+                "company": "Irish Distillers Group",
+                "country": "Ireland",
+                "start_date": "2008-07-01",
+                "end_date": "2015-02-11"
+            },
+            {
+                "position": "Deputy Chief Executive Officer & Chief Operating Officer",
+                "company": "Pernod Ricard",
+                "country": "France",
+                "start_date": "2012-08-29",
+                "end_date": "2015-02-11"
+            },
+            {
+                "position": "Chairman and CEO",
+                "company": "Pernod Ricard",
+                "country": "France",
+                "start_date": "2015-02-11",
+                "end_date": null
+            }
+        ],
+        "company": "FR_RI_AR_2020"
+    },
+    "sources": [
+        68,
+        36,
+        39,
+        41,
+        77,
+        280,
+        24,
+        25
+    ]
+}

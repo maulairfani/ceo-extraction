@@ -1,0 +1,48 @@
+{
+    "data": {
+        "name": "Dr. Martin Bruderm\u00fcller",
+        "position": "Chairman of the Board of Executive Directors",
+        "start_tenure": "2006-01-01",
+        "end_tenure": "2024-04-25",
+        "gender": "Male",
+        "birthdate_or_age": 62,
+        "nationality": "German",
+        "education_bachelor": {
+            "major": "Chemistry",
+            "university": null,
+            "country": "Germany"
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chairman of the Board of Executive Directors",
+                "company": "BASF SE",
+                "country": "Germany",
+                "start_date": "2006-01-01",
+                "end_date": "2024-04-25"
+            },
+            {
+                "position": "Various roles in Corporate Legal, Compliance & Insurance; Corporate Development; Corporate Communications & Government Relations; Corporate Human Resources",
+                "company": "BASF SE",
+                "country": "Germany",
+                "start_date": null,
+                "end_date": "2024-04-25"
+            }
+        ],
+        "company": "DE_BAS_IR_2023"
+    },
+    "sources": [
+        13,
+        205,
+        206
+    ]
+}

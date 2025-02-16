@@ -1,0 +1,59 @@
+{
+    "data": {
+        "name": "Eric Rondolat",
+        "position": "CEO",
+        "start_tenure": "2018-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1970-07-15",
+        "nationality": "French",
+        "education_bachelor": {
+            "major": "Electrical Engineering",
+            "university": "Ecole Sup\u00e9rieure d'Electricit\u00e9 (Sup\u00e9lec)",
+            "country": "France"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "INSEAD",
+            "country": "France"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "Signify",
+                "country": "Netherlands",
+                "start_date": "2018-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Senior Vice President",
+                "company": "Philips Lighting",
+                "country": "Netherlands",
+                "start_date": "2011-05-01",
+                "end_date": "2017-12-31"
+            },
+            {
+                "position": "General Manager",
+                "company": "Philips Lighting China",
+                "country": "China",
+                "start_date": "2007-01-01",
+                "end_date": "2011-04-30"
+            }
+        ],
+        "company": "NL_LIGHT_AR_2023"
+    },
+    "sources": [
+        2,
+        70,
+        7,
+        168,
+        9,
+        208,
+        63
+    ]
+}

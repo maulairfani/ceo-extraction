@@ -1,0 +1,63 @@
+{
+    "data": {
+        "name": "Brian T. Moynihan",
+        "position": "Chair of the Board and Chief Executive Officer",
+        "start_tenure": "2010-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1959-10-29",
+        "nationality": "American",
+        "education_bachelor": {
+            "major": "Business Administration",
+            "university": "University of Notre Dame",
+            "country": "USA"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "Harvard Business School",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chair of the Board and Chief Executive Officer",
+                "company": "Bank of America",
+                "country": "USA",
+                "start_date": "2010-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Executive Vice President",
+                "company": "Bank of America",
+                "country": "USA",
+                "start_date": "2009-01-01",
+                "end_date": "2009-12-31"
+            },
+            {
+                "position": "President of Bank of America",
+                "company": "Bank of America",
+                "country": "USA",
+                "start_date": "2005-01-01",
+                "end_date": "2009-01-01"
+            },
+            {
+                "position": "Head of Consumer Banking",
+                "company": "Bank of America",
+                "country": "USA",
+                "start_date": "2004-01-01",
+                "end_date": "2005-01-01"
+            }
+        ],
+        "company": "US_BAC_AR_2021"
+    },
+    "sources": [
+        216,
+        217,
+        14,
+        15
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "data": {
+        "name": "Prashant Kumar",
+        "position": "Managing Director & Chief Executive Officer",
+        "start_tenure": "2020-03-26",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Indian",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Managing Director & Chief Executive Officer",
+                "company": "YES BANK Limited",
+                "country": "India",
+                "start_date": "2020-03-26",
+                "end_date": null
+            }
+        ],
+        "company": "IN_YES_IR_2023"
+    },
+    "sources": [
+        328,
+        100,
+        326,
+        255
+    ]
+}

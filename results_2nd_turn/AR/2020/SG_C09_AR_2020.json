@@ -1,0 +1,42 @@
+{
+    "data": {
+        "name": "Sherman Kwek",
+        "position": "Group Chief Executive Officer",
+        "start_tenure": "2018-05-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Singaporean",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Group Chief Executive Officer",
+                "company": "CDL Group",
+                "country": "Singapore",
+                "start_date": "2018-05-01",
+                "end_date": null
+            }
+        ],
+        "company": "SG_C09_AR_2020"
+    },
+    "sources": [
+        16,
+        10,
+        147,
+        55
+    ]
+}

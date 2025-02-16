@@ -1,0 +1,44 @@
+{
+    "data": {
+        "name": "Prashant Kumar",
+        "position": "Managing Director & Chief Executive Officer",
+        "start_tenure": "2020-03-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Indian",
+        "education_bachelor": {
+            "major": "Science",
+            "university": "Delhi University",
+            "country": "India"
+        },
+        "education_master": {
+            "major": "Law",
+            "university": "Delhi University",
+            "country": "India"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Deputy Managing Director & CFO",
+                "company": "State Bank of India",
+                "country": "India",
+                "start_date": "1983-01-01",
+                "end_date": "2017-12-31"
+            }
+        ],
+        "company": "IN_YES_IR_2023(1)"
+    },
+    "sources": [
+        100,
+        326,
+        328,
+        19,
+        279,
+        255
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "data": {
+        "name": "Robert C. Frenzel",
+        "position": "President and Chief Executive Officer",
+        "start_tenure": "2021-08-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": 53,
+        "nationality": "American",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer",
+                "company": "NSP-Minnesota, NSP-Wisconsin, PSCo, and SPS",
+                "country": "USA",
+                "start_date": "2021-08-01",
+                "end_date": null
+            },
+            {
+                "position": "President and Chief Operating Officer",
+                "company": "Xcel Energy Inc.",
+                "country": "USA",
+                "start_date": "2020-03-01",
+                "end_date": "2021-08-01"
+            },
+            {
+                "position": "Executive Vice President, Chief Financial Officer",
+                "company": "Xcel Energy Inc.",
+                "country": "USA",
+                "start_date": "2016-05-01",
+                "end_date": "2020-03-01"
+            },
+            {
+                "position": "Senior Vice President and Chief Financial Officer",
+                "company": "Luminant, a subsidiary of Energy Future Holdings Corp.",
+                "country": "USA",
+                "start_date": "2012-02-01",
+                "end_date": "2016-04-30"
+            }
+        ],
+        "company": "US_XEL_AR_2023"
+    },
+    "sources": [
+        3,
+        5,
+        104,
+        105,
+        15,
+        58,
+        29
+    ]
+}

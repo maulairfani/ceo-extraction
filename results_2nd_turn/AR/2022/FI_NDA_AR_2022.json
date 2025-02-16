@@ -1,0 +1,63 @@
+{
+    "data": {
+        "name": "Frank Vang-Jensen",
+        "position": "President and Group CEO",
+        "start_tenure": "2018-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1967-01-01",
+        "nationality": "Danish",
+        "education_bachelor": {
+            "major": "Finance & Credit",
+            "university": "Copenhagen Business School",
+            "country": "Denmark"
+        },
+        "education_master": {
+            "major": "Management Programme",
+            "university": "INSEAD",
+            "country": "France/Singapore"
+        },
+        "education_doctoral": {
+            "major": "Executive Programme",
+            "university": "Harvard Business School",
+            "country": "USA"
+        },
+        "working_experience": [
+            {
+                "position": "Head of Personal Banking",
+                "company": "Nordea Bank Abp",
+                "country": "Denmark",
+                "start_date": "2018-01-01",
+                "end_date": "2019-12-31"
+            },
+            {
+                "position": "President and Group CEO",
+                "company": "Svenska Handelsbanken AB",
+                "country": "Sweden",
+                "start_date": "2015-01-01",
+                "end_date": "2016-12-31"
+            },
+            {
+                "position": "CEO",
+                "company": "Stadshypotek AB",
+                "country": "Sweden",
+                "start_date": "2005-01-01",
+                "end_date": "2007-12-31"
+            },
+            {
+                "position": "Regional Area Manager",
+                "company": "Handelsbanken Denmark",
+                "country": "Denmark",
+                "start_date": "2001-01-01",
+                "end_date": "2005-12-31"
+            }
+        ],
+        "company": "FI_NDA_AR_2022"
+    },
+    "sources": [
+        73,
+        74,
+        68,
+        69
+    ]
+}

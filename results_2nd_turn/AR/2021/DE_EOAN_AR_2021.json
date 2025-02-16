@@ -1,0 +1,59 @@
+{
+    "data": {
+        "name": "Leonhard Birnbaum",
+        "position": "CEO",
+        "start_tenure": "2021-04-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1967-09-21",
+        "nationality": "German",
+        "education_bachelor": {
+            "major": "Engineering",
+            "university": "University of Mannheim",
+            "country": "Germany"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "University of Mannheim",
+            "country": "Germany"
+        },
+        "education_doctoral": {
+            "major": "Industrial Engineering",
+            "university": "Technical University of Munich",
+            "country": "Germany"
+        },
+        "working_experience": [
+            {
+                "position": "Chief Operating Officer",
+                "company": "E.ON",
+                "country": "Germany",
+                "start_date": "2018-10-01",
+                "end_date": "2021-03-31"
+            },
+            {
+                "position": "Chairman",
+                "company": "innogy SE",
+                "country": "Germany",
+                "start_date": "2017-01-01",
+                "end_date": "2020-10-31"
+            },
+            {
+                "position": "Member of the Management Board",
+                "company": "PreussenElektra",
+                "country": "Germany",
+                "start_date": "2015-01-01",
+                "end_date": "2018-09-30"
+            }
+        ],
+        "company": "DE_EOAN_AR_2021"
+    },
+    "sources": [
+        128,
+        292,
+        293,
+        19,
+        22,
+        26,
+        28
+    ]
+}

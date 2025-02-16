@@ -1,0 +1,67 @@
+{
+    "data": {
+        "name": "Meg O'Neill",
+        "position": "CEO and Managing Director",
+        "start_tenure": "2021-08-01",
+        "end_tenure": null,
+        "gender": "Female",
+        "birthdate_or_age": null,
+        "nationality": "Australian",
+        "education_bachelor": {
+            "major": "Ocean Engineering",
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": "Ocean Systems Management",
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Acting Chief Executive Officer",
+                "company": "Woodside",
+                "country": "Australia",
+                "start_date": "2021-04-01",
+                "end_date": "2021-08-01"
+            },
+            {
+                "position": "Chief Operations Officer",
+                "company": "Woodside",
+                "country": "Australia",
+                "start_date": "2018-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Executive Vice President Development",
+                "company": "Woodside",
+                "country": "Australia",
+                "start_date": "2018-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Senior Leadership Roles",
+                "company": "ExxonMobil",
+                "country": "Various",
+                "start_date": "1995-01-01",
+                "end_date": "2018-01-01"
+            }
+        ],
+        "company": "AU_WDS_AR_2022"
+    },
+    "sources": [
+        77,
+        52,
+        53,
+        86,
+        55,
+        54,
+        62,
+        63
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "data": {
+        "name": "Dr. Markus Krebber",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2021-05-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1973-01-01",
+        "nationality": "German",
+        "education_bachelor": {
+            "major": "Business Administration",
+            "university": null,
+            "country": "Germany"
+        },
+        "education_master": {
+            "major": "Economics",
+            "university": null,
+            "country": "Germany"
+        },
+        "education_doctoral": {
+            "major": "Economics",
+            "university": null,
+            "country": "Germany"
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer",
+                "company": "RWE AG",
+                "country": "Germany",
+                "start_date": "2021-05-01",
+                "end_date": null
+            },
+            {
+                "position": "Chief Financial Officer",
+                "company": "RWE AG",
+                "country": "Germany",
+                "start_date": "2016-10-01",
+                "end_date": "2021-04-30"
+            },
+            {
+                "position": "CEO",
+                "company": "RWE Supply & Trading GmbH",
+                "country": "Germany",
+                "start_date": "2015-03-01",
+                "end_date": null
+            },
+            {
+                "position": "Various managerial roles",
+                "company": "Commerzbank AG",
+                "country": "Germany",
+                "start_date": "2000-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Consultant",
+                "company": "McKinsey & Company",
+                "country": "Germany",
+                "start_date": "2000-01-01",
+                "end_date": "2005-01-01"
+            }
+        ],
+        "company": "DE_RWE_AR_2021"
+    },
+    "sources": [
+        226,
+        227,
+        8,
+        220,
+        222,
+        223
+    ]
+}

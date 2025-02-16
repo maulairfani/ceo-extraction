@@ -1,0 +1,66 @@
+{
+    "data": {
+        "name": "Margherita Della Valle",
+        "position": "Group Chief Executive",
+        "start_tenure": "2023-04-27",
+        "end_tenure": null,
+        "gender": "Female",
+        "birthdate_or_age": null,
+        "nationality": "",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Financial Officer",
+                "company": "Vodafone Group",
+                "country": "UK",
+                "start_date": "2018-01-01",
+                "end_date": "2023-04-26"
+            },
+            {
+                "position": "Deputy Chief Financial Officer",
+                "company": "Vodafone Group",
+                "country": "UK",
+                "start_date": "2015-01-01",
+                "end_date": "2018-01-01"
+            },
+            {
+                "position": "Chief Financial Officer",
+                "company": "Vodafone Italy",
+                "country": "Italy",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Chief Financial Officer Europe",
+                "company": "Vodafone Group",
+                "country": "UK",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "GB_VOD_AR_2022"
+    },
+    "sources": [
+        1,
+        99,
+        67,
+        100,
+        72,
+        8,
+        74
+    ]
+}

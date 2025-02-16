@@ -1,0 +1,34 @@
+{
+    "data": {
+        "name": "Mika Vehvil\u00e4inen",
+        "position": "CEO",
+        "start_tenure": null,
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1961-01-01",
+        "nationality": "Finnish",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": "Economics",
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [],
+        "company": "FI_CGCBV_AR_2022"
+    },
+    "sources": [
+        41,
+        187,
+        36,
+        78
+    ]
+}

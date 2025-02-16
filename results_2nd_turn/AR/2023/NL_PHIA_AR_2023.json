@@ -1,0 +1,89 @@
+{
+    "data": {
+        "name": "Roy Jakobs",
+        "position": "Chief Executive Officer (CEO)",
+        "start_tenure": "2022-10-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1974-01-01",
+        "nationality": "Dutch and German",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Marketing & Strategy Officer",
+                "company": "Philips Lighting",
+                "country": null,
+                "start_date": "2010-01-01",
+                "end_date": "2012-12-31"
+            },
+            {
+                "position": "Market Leader for Philips Middle East & Turkey",
+                "company": "Philips",
+                "country": "Dubai",
+                "start_date": "2012-01-01",
+                "end_date": "2015-12-31"
+            },
+            {
+                "position": "Business Leader of Domestic Appliances",
+                "company": "Philips",
+                "country": "Shanghai",
+                "start_date": "2015-01-01",
+                "end_date": "2018-12-31"
+            },
+            {
+                "position": "Chief Business Leader of Personal Health",
+                "company": "Philips",
+                "country": null,
+                "start_date": "2018-01-01",
+                "end_date": "2020-12-31"
+            },
+            {
+                "position": "Chief Business Leader of Connected Care",
+                "company": "Philips",
+                "country": null,
+                "start_date": "2020-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Various management positions",
+                "company": "Royal Dutch Shell",
+                "country": null,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Various management positions",
+                "company": "Reed Elsevier",
+                "country": null,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "NL_PHIA_AR_2023"
+    },
+    "sources": [
+        257,
+        4,
+        5,
+        7,
+        8,
+        301,
+        207,
+        81,
+        61
+    ]
+}

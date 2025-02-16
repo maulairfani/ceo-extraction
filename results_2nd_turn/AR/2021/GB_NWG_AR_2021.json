@@ -1,0 +1,67 @@
+{
+    "data": {
+        "name": "Alison Rose",
+        "position": "Group Chief Executive Officer",
+        "start_tenure": "2019-11-01",
+        "end_tenure": null,
+        "gender": "Female",
+        "birthdate_or_age": null,
+        "nationality": "Unknown",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Deputy CEO",
+                "company": "NatWest Holdings",
+                "country": "UK",
+                "start_date": "2019-11-01",
+                "end_date": null
+            },
+            {
+                "position": "Chief Executive of Commercial & Private Banking",
+                "company": "NatWest Group",
+                "country": "UK",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Head of Europe, Middle East and Africa, Markets & International Banking",
+                "company": "NatWest Group",
+                "country": "UK",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Global Head of International Banking Capital and Balance Sheet",
+                "company": "NatWest Group",
+                "country": "UK",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "GB_NWG_AR_2021"
+    },
+    "sources": [
+        5,
+        7,
+        42,
+        76,
+        51,
+        56,
+        59,
+        95
+    ]
+}

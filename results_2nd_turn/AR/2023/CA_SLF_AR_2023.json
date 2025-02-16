@@ -1,0 +1,50 @@
+{
+    "data": {
+        "name": "Kevin D. Strain",
+        "position": "President and Chief Executive Officer",
+        "start_tenure": "2023-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Canadian",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Executive Vice-President, Chief Financial Officer",
+                "company": "Sun Life",
+                "country": "Canada",
+                "start_date": "2020-01-01",
+                "end_date": "2022-12-31"
+            },
+            {
+                "position": "President, Sun Life Canada",
+                "company": "Sun Life",
+                "country": "Canada",
+                "start_date": "2018-01-01",
+                "end_date": "2019-12-31"
+            }
+        ],
+        "company": "CA_SLF_AR_2023"
+    },
+    "sources": [
+        1,
+        10,
+        253,
+        126,
+        127
+    ]
+}

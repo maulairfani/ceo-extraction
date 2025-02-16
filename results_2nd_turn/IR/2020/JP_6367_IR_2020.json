@@ -1,0 +1,56 @@
+{
+    "data": {
+        "name": "Masanori Togawa",
+        "position": "Representative Director, President and CEO",
+        "start_tenure": "2014-06-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1953-01-18",
+        "nationality": "Japanese",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Senior Managing Executive Officer",
+                "company": "Daikin Industries, Ltd.",
+                "country": "Japan",
+                "start_date": "2002-06-01",
+                "end_date": null
+            },
+            {
+                "position": "Representative Director, President and COO",
+                "company": "Daikin Industries, Ltd.",
+                "country": "Japan",
+                "start_date": "2011-06-01",
+                "end_date": null
+            },
+            {
+                "position": "Representative Director, President and CEO",
+                "company": "Daikin Industries, Ltd.",
+                "country": "Japan",
+                "start_date": "2014-06-01",
+                "end_date": null
+            }
+        ],
+        "company": "JP_6367_IR_2020"
+    },
+    "sources": [
+        48,
+        49,
+        50,
+        52
+    ]
+}

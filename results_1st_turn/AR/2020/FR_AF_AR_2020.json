@@ -1,0 +1,36 @@
+{
+    "data": {
+        "directors": [
+            "Anne-Marie Couderc",
+            "Benjamin Smith",
+            "Maryse Aulagnon",
+            "L\u00e9ni M.T. Boeren",
+            "Isabelle Bouillot",
+            "George Mattson (represented Delta Air Lines, Inc.)",
+            "Cees 't Hart",
+            "Dirk Jan van den Berg",
+            "Anne-Marie Idrac",
+            "Isabelle Parize",
+            "Jian Wang",
+            "Alexander R. Wynaendts",
+            "Jean-Dominique Comolli",
+            "Astrid Panosyan",
+            "Fran\u00e7ois Robardet",
+            "Paul Farges",
+            "Martin Vial",
+            "Karim Belabbas",
+            "Mathi Bouts"
+        ],
+        "commissioners": [
+            "Martin Vial - Commissioner of State Shareholdings",
+            "Jean-Dominique Comolli - Honorary Civil Service Administrator"
+        ],
+        "company": "FR_AF_AR_2020"
+    },
+    "sources": [
+        51,
+        52,
+        78,
+        383
+    ]
+}

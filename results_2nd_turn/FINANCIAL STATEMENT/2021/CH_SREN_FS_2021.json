@@ -1,0 +1,84 @@
+{
+    "data": {
+        "name": "Christian Mumenthaler",
+        "position": "Group Chief Executive Officer",
+        "start_tenure": "2016-07-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Swiss",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": "Physics",
+            "university": "Swiss Federal Institute of Technology (ETH)",
+            "country": "Switzerland"
+        },
+        "working_experience": [
+            {
+                "position": "Associate",
+                "company": "Boston Consulting Group",
+                "country": "USA",
+                "start_date": "1997-01-01",
+                "end_date": "1998-12-31"
+            },
+            {
+                "position": "Various roles including Group Retro and Syndication unit lead",
+                "company": "Swiss Re",
+                "country": "Switzerland",
+                "start_date": "1999-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Group Chief Risk Officer",
+                "company": "Swiss Re",
+                "country": "Switzerland",
+                "start_date": "2005-01-01",
+                "end_date": "2007-12-31"
+            },
+            {
+                "position": "Head of Life & Health",
+                "company": "Swiss Re",
+                "country": "Switzerland",
+                "start_date": "2007-01-01",
+                "end_date": "2010-12-31"
+            },
+            {
+                "position": "Chief Marketing Officer Reinsurance",
+                "company": "Swiss Re",
+                "country": "Switzerland",
+                "start_date": "2011-01-01",
+                "end_date": "2016-06-30"
+            },
+            {
+                "position": "Chief Executive Officer Reinsurance",
+                "company": "Swiss Re",
+                "country": "Switzerland",
+                "start_date": "2011-10-01",
+                "end_date": "2016-06-30"
+            },
+            {
+                "position": "Group Chief Executive Officer",
+                "company": "Swiss Re",
+                "country": "Switzerland",
+                "start_date": "2016-07-01",
+                "end_date": null
+            }
+        ],
+        "company": "CH_SREN_FS_2021"
+    },
+    "sources": [
+        81,
+        107,
+        86,
+        105
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "data": {
+        "name": "Dr. Frank Mastiaux",
+        "position": "CEO",
+        "start_tenure": "2012-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1958-01-01",
+        "nationality": "German",
+        "education_bachelor": {
+            "major": "Electrical Engineering",
+            "university": "University of Karlsruhe",
+            "country": "Germany"
+        },
+        "education_master": {
+            "major": "Management",
+            "university": "University of Mannheim",
+            "country": "Germany"
+        },
+        "education_doctoral": {
+            "major": "Business Administration",
+            "university": "University of Mannheim",
+            "country": "Germany"
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "EnBW AG",
+                "country": "Germany",
+                "start_date": "2012-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Chairman of the Board",
+                "company": "Alstom S.A.",
+                "country": "France",
+                "start_date": "2020-07-08",
+                "end_date": null
+            },
+            {
+                "position": "Managing Director",
+                "company": "RWE AG",
+                "country": "Germany",
+                "start_date": "2006-01-01",
+                "end_date": "2011-12-31"
+            }
+        ],
+        "company": "DE_EBK_IR_2020"
+    },
+    "sources": [
+        138,
+        139,
+        46,
+        21,
+        118,
+        119
+    ]
+}

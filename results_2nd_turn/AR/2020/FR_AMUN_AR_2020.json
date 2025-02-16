@@ -1,0 +1,47 @@
+{
+    "data": {
+        "name": "Val\u00e9rie Baudson",
+        "position": "CEO",
+        "start_tenure": "2021-05-11",
+        "end_tenure": null,
+        "gender": "Female",
+        "birthdate_or_age": null,
+        "nationality": "French",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Key Player in Business Development",
+                "company": "Amundi",
+                "country": "France",
+                "start_date": "2007-01-01",
+                "end_date": null
+            }
+        ],
+        "company": "FR_AMUN_AR_2020"
+    },
+    "sources": [
+        6,
+        41,
+        110,
+        48,
+        49,
+        50,
+        307,
+        113,
+        61
+    ]
+}

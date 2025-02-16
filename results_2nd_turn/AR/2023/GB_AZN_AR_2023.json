@@ -1,0 +1,65 @@
+{
+    "data": {
+        "name": "Pascal Soriot",
+        "position": "CEO",
+        "start_tenure": "2012-10-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1964-12-05",
+        "nationality": "French",
+        "education_bachelor": {
+            "major": "Veterinary Medicine",
+            "university": "University of Lyon",
+            "country": "France"
+        },
+        "education_master": {
+            "major": "MBA",
+            "university": "HEC Paris",
+            "country": "France"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "AstraZeneca",
+                "country": "UK",
+                "start_date": "2012-10-01",
+                "end_date": null
+            },
+            {
+                "position": "COO",
+                "company": "Roche Pharmaceuticals",
+                "country": "Switzerland",
+                "start_date": "2009-01-01",
+                "end_date": "2012-09-30"
+            },
+            {
+                "position": "CEO",
+                "company": "Genentech",
+                "country": "USA",
+                "start_date": "2009-01-01",
+                "end_date": "2009-12-31"
+            },
+            {
+                "position": "Various senior management roles",
+                "company": "Abbott and other companies",
+                "country": "Various",
+                "start_date": "1997-01-01",
+                "end_date": "2008-12-31"
+            }
+        ],
+        "company": "GB_AZN_AR_2023"
+    },
+    "sources": [
+        6,
+        80,
+        82,
+        114,
+        92,
+        93
+    ]
+}

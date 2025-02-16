@@ -1,0 +1,42 @@
+{
+    "data": {
+        "name": "Slawomir Krupa",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2023-05-23",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": 49,
+        "nationality": "Polish",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Director",
+                "company": "Societe Generale",
+                "country": "France",
+                "start_date": "2023-05-23",
+                "end_date": null
+            }
+        ],
+        "company": "FR_GLE_AR_2023"
+    },
+    "sources": [
+        81,
+        137,
+        110,
+        143
+    ]
+}

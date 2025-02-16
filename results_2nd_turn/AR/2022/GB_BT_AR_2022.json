@@ -1,0 +1,80 @@
+{
+    "data": {
+        "name": "Philip Jansen",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2019-02-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": 56,
+        "nationality": "British",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "Worldpay",
+                "country": "UK",
+                "start_date": "2013-04-01",
+                "end_date": "2018-12-31"
+            },
+            {
+                "position": "CEO and Chairman",
+                "company": "Brakes Group",
+                "country": "UK",
+                "start_date": "2010-01-01",
+                "end_date": "2015-12-31"
+            },
+            {
+                "position": "Chief Operating Officer",
+                "company": "Sodexo",
+                "country": "Various (Europe, South Africa, India)",
+                "start_date": "2004-01-01",
+                "end_date": "2010-01-01"
+            },
+            {
+                "position": "Chief Operating Officer",
+                "company": "MyTravel Group",
+                "country": "UK",
+                "start_date": "2002-01-01",
+                "end_date": "2004-01-01"
+            },
+            {
+                "position": "Managing Director",
+                "company": "Telewest Communications (now Virgin Media O2)",
+                "country": "UK",
+                "start_date": "2000-01-01",
+                "end_date": "2002-01-01"
+            },
+            {
+                "position": "Not specified",
+                "company": "Procter & Gamble",
+                "country": "UK",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "GB_BT_AR_2022"
+    },
+    "sources": [
+        226,
+        10,
+        138,
+        11,
+        88,
+        89,
+        126
+    ]
+}

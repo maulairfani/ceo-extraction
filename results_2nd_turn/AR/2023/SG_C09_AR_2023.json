@@ -1,0 +1,73 @@
+{
+    "data": {
+        "name": "Sherman Kwek Eik Tse",
+        "position": "Group Chief Executive Officer",
+        "start_tenure": "2018-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": 47,
+        "nationality": "Singaporean",
+        "education_bachelor": {
+            "major": "Business Administration",
+            "university": "Boston University",
+            "country": "USA"
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "City e-Solutions Limited",
+                "country": "Hong Kong",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Deputy CEO",
+                "company": "City Developments Limited (CDL)",
+                "country": "Singapore",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Chief Investment Officer",
+                "company": "City Developments Limited (CDL)",
+                "country": "Singapore",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Chief Operating Officer",
+                "company": "Thakral Corporation Ltd.",
+                "country": "Singapore",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Various roles in investment banking",
+                "company": "Millennium & Copthorne Hotels Limited",
+                "country": "USA, Hong Kong, Shanghai, Singapore",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "SG_C09_AR_2023"
+    },
+    "sources": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        147,
+        146
+    ]
+}

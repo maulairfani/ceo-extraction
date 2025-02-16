@@ -1,0 +1,65 @@
+{
+    "data": {
+        "name": "Thierry Delaporte",
+        "position": "Chief Executive Officer and Managing Director",
+        "start_tenure": "2020-07-06",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1968-07-09",
+        "nationality": "French",
+        "education_bachelor": {
+            "major": "Bachelor in Computer Science",
+            "university": "University of Lyon",
+            "country": "France"
+        },
+        "education_master": {
+            "major": "MBA",
+            "university": "INSEAD",
+            "country": "France"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Operating Officer",
+                "company": "Wipro Limited",
+                "country": "India",
+                "start_date": "2020-07-06",
+                "end_date": null
+            },
+            {
+                "position": "CEO",
+                "company": "Capgemini",
+                "country": "France",
+                "start_date": "2015-07-01",
+                "end_date": "2020-06-30"
+            },
+            {
+                "position": "Senior Vice President",
+                "company": "Capgemini",
+                "country": "France",
+                "start_date": "2013-01-01",
+                "end_date": "2015-06-30"
+            },
+            {
+                "position": "Vice President",
+                "company": "Capgemini",
+                "country": "France",
+                "start_date": "2011-05-01",
+                "end_date": "2012-12-31"
+            }
+        ],
+        "company": "IN_WPRO_IR_2023"
+    },
+    "sources": [
+        107,
+        108,
+        110,
+        111,
+        144,
+        341
+    ]
+}

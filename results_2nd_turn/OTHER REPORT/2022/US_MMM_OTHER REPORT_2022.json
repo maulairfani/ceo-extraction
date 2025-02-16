@@ -1,0 +1,64 @@
+{
+    "data": {
+        "name": "Michael F. Roman",
+        "position": "Chairman of the Board and Chief Executive Officer",
+        "start_tenure": "2018-07-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1968-12-15",
+        "nationality": "American",
+        "education_bachelor": {
+            "major": "Chemical Engineering",
+            "university": "University of Minnesota",
+            "country": "USA"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "University of Minnesota",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Senior Vice President",
+                "company": "3M",
+                "country": "USA",
+                "start_date": "2011-10-01",
+                "end_date": "2018-06-30"
+            },
+            {
+                "position": "Group President",
+                "company": "3M",
+                "country": "USA",
+                "start_date": "2006-01-01",
+                "end_date": "2011-09-30"
+            },
+            {
+                "position": "Vice President of Marketing",
+                "company": "3M",
+                "country": "USA",
+                "start_date": "2005-01-01",
+                "end_date": "2006-12-31"
+            }
+        ],
+        "company": "US_MMM_OTHER REPORT_2022"
+    },
+    "sources": [
+        101,
+        5,
+        8,
+        108,
+        15,
+        48,
+        23,
+        88,
+        25,
+        56,
+        27,
+        60
+    ]
+}

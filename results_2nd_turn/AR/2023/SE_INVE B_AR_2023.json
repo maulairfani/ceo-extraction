@@ -1,0 +1,84 @@
+{
+    "data": {
+        "name": "Johan Forssell",
+        "position": "President and CEO",
+        "start_tenure": "2015-01-01",
+        "end_tenure": "2024-05-07",
+        "gender": "Male",
+        "birthdate_or_age": "1971-01-01",
+        "nationality": "Swedish",
+        "education_bachelor": {
+            "major": "Economics and Business Administration",
+            "university": "Stockholm School of Economics",
+            "country": "Sweden"
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Director",
+                "company": "Saab",
+                "country": "Sweden",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Project Director",
+                "company": "Aleris",
+                "country": "Sweden",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Head of Core Investments",
+                "company": "Investor",
+                "country": "Sweden",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Head of Research",
+                "company": "Investor",
+                "country": "Sweden",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Head of Capital Goods and Healthcare sector",
+                "company": "Investor",
+                "country": "Sweden",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Head of Capital Goods sector",
+                "company": "Investor",
+                "country": "Sweden",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Analyst Core Holdings",
+                "company": "Investor",
+                "country": "Sweden",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "SE_INVE B_AR_2023"
+    },
+    "sources": [
+        65,
+        66,
+        158,
+        167
+    ]
+}

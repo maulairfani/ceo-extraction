@@ -1,0 +1,72 @@
+{
+    "data": {
+        "name": "Jakob Stausholm",
+        "position": "Chief Executive",
+        "start_tenure": "2021-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": 55,
+        "nationality": "Danish",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": "Copenhagen Business School",
+            "country": "Denmark"
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Financial Officer",
+                "company": "Rio Tinto",
+                "country": "UK",
+                "start_date": "2018-09-01",
+                "end_date": "2021-01-01"
+            },
+            {
+                "position": "Various Senior Finance Roles",
+                "company": "Maersk Group",
+                "country": "Denmark",
+                "start_date": null,
+                "end_date": "2018-08-31"
+            },
+            {
+                "position": "Various Senior Finance Roles",
+                "company": "Royal Dutch Shell plc",
+                "country": "UK",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Non-Executive Director",
+                "company": "Woodside Petroleum",
+                "country": "Australia",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Non-Executive Director",
+                "company": "Statoil (now Equinor)",
+                "country": "Norway",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "GB_RIO_AR_2023"
+    },
+    "sources": [
+        96,
+        97,
+        261,
+        9,
+        91,
+        94
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "data": {
+        "name": "Sugimori Tsutomu",
+        "position": "Representative Director, Chairman of the Board, Group CEO",
+        "start_tenure": "2020-06-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "null",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Executive Officer",
+                "company": "Nippon Oil Corporation",
+                "country": "Japan",
+                "start_date": "2008-04-01",
+                "end_date": null
+            },
+            {
+                "position": "Director, Senior Vice President",
+                "company": "JX Nippon Oil & Energy Corporation",
+                "country": "Japan",
+                "start_date": "2010-07-01",
+                "end_date": null
+            },
+            {
+                "position": "Representative Director, President",
+                "company": "JX Nippon Oil & Energy Corporation",
+                "country": "Japan",
+                "start_date": "2018-06-01",
+                "end_date": "2020-06-01"
+            }
+        ],
+        "company": "JP_5020_IR_2020"
+    },
+    "sources": [
+        64,
+        70,
+        71,
+        72,
+        73,
+        29
+    ]
+}

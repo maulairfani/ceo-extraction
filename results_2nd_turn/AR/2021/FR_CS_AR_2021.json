@@ -1,0 +1,63 @@
+{
+    "data": {
+        "name": "Thomas Buberl",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2016-09-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1973-05-12",
+        "nationality": "French, German and Swiss",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": "University of Mannheim",
+            "country": "Germany"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "University of Mannheim",
+            "country": "Germany"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO of AXA",
+                "company": "AXA",
+                "country": "France",
+                "start_date": "2016-09-01",
+                "end_date": null
+            },
+            {
+                "position": "CEO of AXA Germany",
+                "company": "AXA",
+                "country": "Germany",
+                "start_date": "2012-05-01",
+                "end_date": "2016-08-31"
+            },
+            {
+                "position": "Chief Executive Officer",
+                "company": "AXA Life",
+                "country": "Germany",
+                "start_date": "2011-04-01",
+                "end_date": "2012-04-30"
+            },
+            {
+                "position": "Deputy Chief Executive Officer",
+                "company": "AXA Germany",
+                "country": "Germany",
+                "start_date": "2008-01-01",
+                "end_date": "2011-03-31"
+            }
+        ],
+        "company": "FR_CS_AR_2021"
+    },
+    "sources": [
+        152,
+        105,
+        106,
+        113
+    ]
+}

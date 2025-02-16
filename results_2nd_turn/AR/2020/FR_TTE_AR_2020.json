@@ -1,0 +1,90 @@
+{
+    "data": {
+        "name": "Patrick Pouyann\u00e9",
+        "position": "Chairman and Chief Executive Officer",
+        "start_tenure": "2014-10-22",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1963-06-24",
+        "nationality": "French",
+        "education_bachelor": {
+            "major": "Engineering",
+            "university": "\u00c9cole Polytechnique",
+            "country": "France"
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Administrative Officer",
+                "company": "TOTAL SE",
+                "country": "Angola",
+                "start_date": "1997-01-01",
+                "end_date": "1999-01-01"
+            },
+            {
+                "position": "Group Representative",
+                "company": "TOTAL SE",
+                "country": "Qatar",
+                "start_date": "1999-01-01",
+                "end_date": null
+            },
+            {
+                "position": "President, Finance, Economy and IT",
+                "company": "TOTAL SE",
+                "country": null,
+                "start_date": "2002-08-01",
+                "end_date": "2006-01-01"
+            },
+            {
+                "position": "Senior Vice President, Strategy, Business Development and R&D",
+                "company": "TOTAL SE",
+                "country": null,
+                "start_date": "2006-01-01",
+                "end_date": "2011-03-01"
+            },
+            {
+                "position": "Deputy General Manager, Chemicals",
+                "company": "TOTAL SE",
+                "country": null,
+                "start_date": "2011-03-01",
+                "end_date": "2012-01-01"
+            },
+            {
+                "position": "President, Refining & Chemicals",
+                "company": "TOTAL SE",
+                "country": null,
+                "start_date": "2012-01-01",
+                "end_date": "2014-10-22"
+            },
+            {
+                "position": "Chairman and Chief Executive Officer",
+                "company": "TOTAL SE",
+                "country": null,
+                "start_date": "2014-10-22",
+                "end_date": null
+            }
+        ],
+        "company": "FR_TTE_AR_2020"
+    },
+    "sources": [
+        3,
+        493,
+        141,
+        142,
+        176,
+        177,
+        178,
+        180,
+        185,
+        154
+    ]
+}

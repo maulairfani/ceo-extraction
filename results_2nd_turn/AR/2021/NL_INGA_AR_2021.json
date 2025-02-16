@@ -1,0 +1,52 @@
+{
+    "data": {
+        "name": "Steven van Rijswijk",
+        "position": "CEO",
+        "start_tenure": "2020-07-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1970-00-00",
+        "nationality": "Dutch",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": "University of Amsterdam",
+            "country": "Netherlands"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "EADA Business School Barcelona",
+            "country": "Spain"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Risk Officer",
+                "company": "ING",
+                "country": "Netherlands",
+                "start_date": "2017-05-08",
+                "end_date": "2020-06-30"
+            },
+            {
+                "position": "Member of the Executive Board",
+                "company": "ING",
+                "country": "Netherlands",
+                "start_date": "2017-05-08",
+                "end_date": null
+            }
+        ],
+        "company": "NL_INGA_AR_2021"
+    },
+    "sources": [
+        1,
+        164,
+        165,
+        167,
+        169,
+        170,
+        171
+    ]
+}

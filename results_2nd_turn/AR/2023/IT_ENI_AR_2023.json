@@ -1,0 +1,50 @@
+{
+    "data": {
+        "name": "Giuseppe Zafarana",
+        "position": "CEO",
+        "start_tenure": "2023-05-11",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Italian",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer",
+                "company": "Eni",
+                "country": "Italy",
+                "start_date": "2023-05-11",
+                "end_date": null
+            }
+        ],
+        "company": "IT_ENI_AR_2023"
+    },
+    "sources": [
+        66,
+        3,
+        2,
+        6,
+        40,
+        41,
+        42,
+        43,
+        236,
+        443,
+        381,
+        382
+    ]
+}

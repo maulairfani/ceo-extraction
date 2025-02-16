@@ -1,0 +1,63 @@
+{
+    "data": {
+        "name": "Francesco Starace",
+        "position": "Chief Executive Officer and General Manager",
+        "start_tenure": "2014-05-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Italian",
+        "education_bachelor": {
+            "major": "Economics and Trade",
+            "university": "University of Rome, La Sapienza",
+            "country": "Italy"
+        },
+        "education_master": {
+            "major": "Technical Management",
+            "university": "University of Rome, La Sapienza",
+            "country": "Italy"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "Enel Group",
+                "country": "Italy",
+                "start_date": "2014-05-01",
+                "end_date": null
+            },
+            {
+                "position": "General Manager",
+                "company": "Enel Energy Europe",
+                "country": "Italy",
+                "start_date": "2012-05-01",
+                "end_date": "2014-05-01"
+            },
+            {
+                "position": "Head of Global Procurement",
+                "company": "Enel",
+                "country": "Italy",
+                "start_date": "2009-01-01",
+                "end_date": "2012-05-01"
+            },
+            {
+                "position": "Chief Commercial Officer",
+                "company": "Enel",
+                "country": "Italy",
+                "start_date": "2005-01-01",
+                "end_date": "2009-01-01"
+            }
+        ],
+        "company": "IT_ENEL_AR_2021"
+    },
+    "sources": [
+        42,
+        51,
+        437,
+        6
+    ]
+}

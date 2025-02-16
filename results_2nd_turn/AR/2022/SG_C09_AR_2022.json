@@ -1,0 +1,49 @@
+{
+    "data": {
+        "name": "Philip Yeo Liat Kok",
+        "position": "Executive Chairman",
+        "start_tenure": "2009-05-11",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1946-01-01",
+        "nationality": "Singaporean",
+        "education_bachelor": {
+            "major": "Applied Science (Industrial Engineering)",
+            "university": null,
+            "country": "Singapore"
+        },
+        "education_master": {
+            "major": "Science (Systems Engineering)",
+            "university": "University of Singapore",
+            "country": "Singapore"
+        },
+        "education_doctoral": {
+            "major": "Doctor of Science",
+            "university": "Imperial College, London",
+            "country": "UK"
+        },
+        "working_experience": [
+            {
+                "position": "Executive Chairman",
+                "company": "Economic Development Innovations Singapore Pte Ltd",
+                "country": "Singapore",
+                "start_date": "2013-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Executive Chairman",
+                "company": "Accuron Technologies Limited",
+                "country": "Singapore",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "SG_C09_AR_2022"
+    },
+    "sources": [
+        16,
+        145,
+        146,
+        147
+    ]
+}

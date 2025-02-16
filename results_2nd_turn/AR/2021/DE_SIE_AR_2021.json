@@ -1,0 +1,49 @@
+{
+    "data": {
+        "name": "Dr. Roland Busch",
+        "position": "President and Chief Executive Officer",
+        "start_tenure": "2021-02-03",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1964-11-22",
+        "nationality": "German",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Deputy CEO",
+                "company": "Siemens AG",
+                "country": "Germany",
+                "start_date": "2020-01-01",
+                "end_date": "2021-02-02"
+            },
+            {
+                "position": "Other executive roles",
+                "company": "Siemens AG",
+                "country": "Germany",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "DE_SIE_AR_2021"
+    },
+    "sources": [
+        209,
+        129,
+        188,
+        199
+    ]
+}

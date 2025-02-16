@@ -1,0 +1,58 @@
+{
+    "data": {
+        "name": "Bharat B. Masrani",
+        "position": "Group President and Chief Executive Officer",
+        "start_tenure": "2014-11-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1963-10-18",
+        "nationality": "Canadian",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": "University of Toronto",
+            "country": "Canada"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "University of Chicago Booth School of Business",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Operating Officer",
+                "company": "The Toronto-Dominion Bank",
+                "country": "Canada",
+                "start_date": "2013-01-01",
+                "end_date": "2014-10-31"
+            },
+            {
+                "position": "Group Head, North American Personal Banking",
+                "company": "The Toronto-Dominion Bank",
+                "country": "Canada",
+                "start_date": "2009-01-01",
+                "end_date": "2012-12-31"
+            },
+            {
+                "position": "Group Head of U.S. Personal Banking",
+                "company": "The Toronto-Dominion Bank",
+                "country": "USA",
+                "start_date": "2008-01-01",
+                "end_date": "2009-12-31"
+            }
+        ],
+        "company": "CA_TD_AR_2021"
+    },
+    "sources": [
+        130,
+        4,
+        5,
+        6,
+        136,
+        222
+    ]
+}

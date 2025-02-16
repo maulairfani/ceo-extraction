@@ -1,0 +1,52 @@
+{
+    "data": {
+        "name": "Anil Wadhwani",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2023-02-25",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": 54,
+        "nationality": "Indian",
+        "education_bachelor": {
+            "major": "Commerce",
+            "university": "Narsee Monjee College of Commerce and Economics",
+            "country": "India"
+        },
+        "education_master": {
+            "major": "Management Studies",
+            "university": "Somaiya Institute of Management Studies",
+            "country": "India"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer",
+                "company": "Manulife's Asia region",
+                "country": "Various (Asia)",
+                "start_date": "2019-01-01",
+                "end_date": "2023-02-24"
+            },
+            {
+                "position": "Various roles in Consumer Financial Services",
+                "company": "Citi",
+                "country": "Various (Asia Pacific, EMEA, US)",
+                "start_date": "1995-01-01",
+                "end_date": "2020-12-31"
+            }
+        ],
+        "company": "GB_PRU_AR_2022"
+    },
+    "sources": [
+        258,
+        207,
+        210,
+        180,
+        182,
+        183,
+        191
+    ]
+}

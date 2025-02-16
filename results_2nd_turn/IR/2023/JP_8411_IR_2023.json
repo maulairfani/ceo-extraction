@@ -1,0 +1,45 @@
+{
+    "data": {
+        "name": "Yoshiro Hamamoto",
+        "position": "President & CEO (Representative Director)",
+        "start_tenure": null,
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "None",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Member of the Board of Directors",
+                "company": "Mizuho Securities",
+                "country": "Japan",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "JP_8411_IR_2023"
+    },
+    "sources": [
+        133,
+        134,
+        6,
+        80,
+        20,
+        21,
+        93
+    ]
+}

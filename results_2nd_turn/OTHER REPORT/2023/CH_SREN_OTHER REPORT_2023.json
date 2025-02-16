@@ -1,0 +1,63 @@
+{
+    "data": {
+        "name": "Christian Mumenthaler",
+        "position": "Group Chief Executive Officer",
+        "start_tenure": "2016-07-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1970-03-05",
+        "nationality": "Swiss",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": "University of Zurich",
+            "country": "Switzerland"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "University of St. Gallen",
+            "country": "Switzerland"
+        },
+        "education_doctoral": {
+            "major": "Doctorate in Management",
+            "university": "University of St. Gallen",
+            "country": "Switzerland"
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer Reinsurance",
+                "company": "Swiss Re",
+                "country": "Switzerland",
+                "start_date": "2011-01-01",
+                "end_date": "2016-06-30"
+            },
+            {
+                "position": "Head of Life & Health",
+                "company": "Swiss Re",
+                "country": "Switzerland",
+                "start_date": "2009-01-01",
+                "end_date": "2011-12-31"
+            },
+            {
+                "position": "Group Chief Risk Officer",
+                "company": "Swiss Re",
+                "country": "Switzerland",
+                "start_date": "2011-01-01",
+                "end_date": "2015-12-31"
+            }
+        ],
+        "company": "CH_SREN_OTHER REPORT_2023"
+    },
+    "sources": [
+        1,
+        2,
+        9,
+        44,
+        78,
+        82,
+        84,
+        85,
+        89,
+        90,
+        62
+    ]
+}

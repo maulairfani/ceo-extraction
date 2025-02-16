@@ -1,0 +1,69 @@
+{
+    "data": {
+        "name": "Dr. Roland Busch",
+        "position": "CEO",
+        "start_tenure": "2021-04-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1964-11-13",
+        "nationality": "German",
+        "education_bachelor": {
+            "major": "Physics",
+            "university": "Technical University of Munich",
+            "country": "Germany"
+        },
+        "education_master": {
+            "major": "Physics",
+            "university": "Technical University of Munich",
+            "country": "Germany"
+        },
+        "education_doctoral": {
+            "major": "Physics",
+            "university": "Technical University of Munich",
+            "country": "Germany"
+        },
+        "working_experience": [
+            {
+                "position": "Member of the Managing Board",
+                "company": "Siemens AG",
+                "country": "Germany",
+                "start_date": "2021-04-01",
+                "end_date": null
+            },
+            {
+                "position": "Deputy CEO",
+                "company": "Siemens AG",
+                "country": "Germany",
+                "start_date": "2019-10-01",
+                "end_date": "2021-04-01"
+            },
+            {
+                "position": "CEO of Siemens Digital Industries",
+                "company": "Siemens AG",
+                "country": "Germany",
+                "start_date": "2017-01-01",
+                "end_date": "2019-10-01"
+            },
+            {
+                "position": "Vice President of Siemens AG",
+                "company": "Siemens AG",
+                "country": "Germany",
+                "start_date": "2014-01-01",
+                "end_date": "2017-01-01"
+            }
+        ],
+        "company": "DE_SIE_AR_2020"
+    },
+    "sources": [
+        198,
+        168,
+        201,
+        10,
+        72,
+        178,
+        185,
+        187,
+        188,
+        190
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "data": {
+        "name": "Luis Gallego Mart\u00edn",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2020-09-08",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Spanish",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chairman and Chief Executive Officer",
+                "company": "Iberia",
+                "country": "Spain",
+                "start_date": "2013-00-00",
+                "end_date": "2020-00-00"
+            },
+            {
+                "position": "Chief Executive Officer",
+                "company": "Iberia Express",
+                "country": "Spain",
+                "start_date": "2012-00-00",
+                "end_date": "2013-00-00"
+            },
+            {
+                "position": "Chief Operating Officer",
+                "company": "Vueling",
+                "country": "Spain",
+                "start_date": "2009-00-00",
+                "end_date": "2012-00-00"
+            },
+            {
+                "position": "Founder",
+                "company": "Clickair",
+                "country": "Spain",
+                "start_date": "2006-00-00",
+                "end_date": "2009-00-00"
+            }
+        ],
+        "company": "GB_IAG_AR_2021"
+    },
+    "sources": [
+        128,
+        131,
+        171,
+        16,
+        17,
+        275,
+        52
+    ]
+}

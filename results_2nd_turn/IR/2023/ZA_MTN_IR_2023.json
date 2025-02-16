@@ -1,0 +1,59 @@
+{
+    "data": {
+        "name": "Ralph Mupita",
+        "position": "Group President and CEO",
+        "start_tenure": "2020-09-30",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1972-01-01",
+        "nationality": "South African",
+        "education_bachelor": {
+            "major": "Engineering",
+            "university": "University of the Witwatersrand",
+            "country": "South Africa"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "University of Cape Town",
+            "country": "South Africa"
+        },
+        "education_doctoral": {
+            "major": "General Management",
+            "university": "Harvard Business School",
+            "country": "USA"
+        },
+        "working_experience": [
+            {
+                "position": "Chief Financial Officer",
+                "company": "MTN Group",
+                "country": "South Africa",
+                "start_date": "2013-01-01",
+                "end_date": "2018-07-01"
+            },
+            {
+                "position": "Chief Executive Officer",
+                "company": "MTN South Africa",
+                "country": "South Africa",
+                "start_date": "2018-07-01",
+                "end_date": "2020-09-30"
+            },
+            {
+                "position": "Group President and CEO",
+                "company": "MTN Group",
+                "country": "South Africa",
+                "start_date": "2020-09-30",
+                "end_date": null
+            }
+        ],
+        "company": "ZA_MTN_IR_2023"
+    },
+    "sources": [
+        133,
+        102,
+        103,
+        15,
+        150,
+        124,
+        95
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+        "name": "Ergun L\u00fcmali",
+        "position": "CEO",
+        "start_tenure": "2018-05-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1962-01-01",
+        "nationality": "German",
+        "education_bachelor": {
+            "major": "Construction mechanics",
+            "university": null,
+            "country": "Germany"
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": "Germany"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Executive Director",
+                "company": "Mercedes-Benz Group AG",
+                "country": "Germany",
+                "start_date": "2014-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Manager",
+                "company": "Mercedes-Benz",
+                "country": "Germany",
+                "start_date": "2012-01-01",
+                "end_date": "2018-04-30"
+            }
+        ],
+        "company": "DE_MBG_AR_2022"
+    },
+    "sources": [
+        161,
+        21,
+        23,
+        187,
+        188,
+        189,
+        190
+    ]
+}

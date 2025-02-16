@@ -1,0 +1,72 @@
+{
+    "data": {
+        "name": "Wesley W. Powell",
+        "position": "President and Chief Executive Officer",
+        "start_tenure": "2020-12-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1979-06-01",
+        "nationality": "American",
+        "education_bachelor": {
+            "major": "Environmental Design",
+            "university": "University of Colorado School of Architecture and Urban Planning",
+            "country": "USA"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "Northwestern's Kellogg School of Management",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "President and Chief Executive Officer",
+                "company": "Aimco",
+                "country": "USA",
+                "start_date": "2020-12-01",
+                "end_date": null
+            },
+            {
+                "position": "Executive Vice President, Redevelopment and Acquisitions",
+                "company": "Aimco",
+                "country": "USA",
+                "start_date": "2018-01-01",
+                "end_date": "2020-12-01"
+            },
+            {
+                "position": "Senior Vice President, Redevelopment",
+                "company": "Aimco",
+                "country": "USA",
+                "start_date": "2013-01-01",
+                "end_date": "2018-01-01"
+            },
+            {
+                "position": "Various positions including Asset Manager, Director, Vice President of Redevelopment",
+                "company": "Aimco",
+                "country": "USA",
+                "start_date": "2004-01-01",
+                "end_date": "2013-01-01"
+            },
+            {
+                "position": "Staff Architect",
+                "company": "Ai Architecture (now Perkins & Will)",
+                "country": "USA",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "CA_AIV_10-K_2022"
+    },
+    "sources": [
+        45,
+        46,
+        83,
+        150,
+        152,
+        154
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "data": {
+        "name": "Ant\u00f3nio Sim\u00f5es",
+        "position": "Group Chief Executive Officer",
+        "start_tenure": "2024-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Portuguese",
+        "education_bachelor": {
+            "major": "Business Administration",
+            "university": "Universidade de Lisboa",
+            "country": "Portugal"
+        },
+        "education_master": {
+            "major": "MBA",
+            "university": "Harvard Business School",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "Santander",
+                "country": "Spain",
+                "start_date": "2019-01-01",
+                "end_date": "2023-06-30"
+            },
+            {
+                "position": "Regional CEO for Europe and the UK",
+                "company": "Santander Group",
+                "country": "Spain",
+                "start_date": "2015-01-01",
+                "end_date": "2019-12-31"
+            },
+            {
+                "position": "Country CEO",
+                "company": "Santander Portugal",
+                "country": "Portugal",
+                "start_date": "2012-01-01",
+                "end_date": "2014-12-31"
+            }
+        ],
+        "company": "GB_LGEN_AR_2023"
+    },
+    "sources": [
+        64,
+        97,
+        68,
+        69,
+        8,
+        73,
+        9,
+        105
+    ]
+}

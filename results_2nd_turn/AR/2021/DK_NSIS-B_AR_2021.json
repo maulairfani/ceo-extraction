@@ -1,0 +1,44 @@
+{
+    "data": {
+        "name": "Ester Baiget",
+        "position": "President and CEO",
+        "start_tenure": "2021-01-01",
+        "end_tenure": null,
+        "gender": "Female",
+        "birthdate_or_age": "1971-01-01",
+        "nationality": "Spanish",
+        "education_bachelor": {
+            "major": "Chemical Engineering",
+            "university": "Rovira i Virgili University",
+            "country": "Spain"
+        },
+        "education_master": {
+            "major": "MBA",
+            "university": "Rovira i Virgili University",
+            "country": "Spain"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Various leadership roles",
+                "company": "Multiple organizations over 25 years",
+                "country": "Various",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "DK_NSIS-B_AR_2021"
+    },
+    "sources": [
+        39,
+        40,
+        42,
+        43,
+        44,
+        143
+    ]
+}

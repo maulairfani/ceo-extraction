@@ -1,0 +1,72 @@
+{
+    "data": {
+        "name": "Michael F. Roman",
+        "position": "Chairman of the Board, President and Chief Executive Officer",
+        "start_tenure": "2019-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1959-02-20",
+        "nationality": "American",
+        "education_bachelor": {
+            "major": "Chemical Engineering",
+            "university": "University of Minnesota",
+            "country": "USA"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "University of Minnesota",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer",
+                "company": "3M Company",
+                "country": "USA",
+                "start_date": "2018-07-01",
+                "end_date": null
+            },
+            {
+                "position": "Chief Operating Officer and Executive Vice President",
+                "company": "3M Company",
+                "country": "USA",
+                "start_date": "2017-01-01",
+                "end_date": "2018-06-30"
+            },
+            {
+                "position": "Executive Vice President, Industrial Business Group",
+                "company": "3M Company",
+                "country": "USA",
+                "start_date": "2014-01-01",
+                "end_date": "2016-12-31"
+            },
+            {
+                "position": "Vice President, 3M Corporate Research",
+                "company": "3M Company",
+                "country": "USA",
+                "start_date": "2012-01-01",
+                "end_date": "2013-12-31"
+            },
+            {
+                "position": "Various Engineering roles",
+                "company": "3M Company",
+                "country": "USA",
+                "start_date": "1988-01-01",
+                "end_date": "2011-12-31"
+            }
+        ],
+        "company": "US_MMM_AR_2020"
+    },
+    "sources": [
+        2,
+        6,
+        13,
+        20,
+        21,
+        157
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "data": {
+        "name": "Edmond Scanlon",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2017-10-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": 48,
+        "nationality": "Irish",
+        "education_bachelor": {
+            "major": "Food Science",
+            "university": "University College Dublin",
+            "country": "Ireland"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "University of Chicago Booth School of Business",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer",
+                "company": "Kerry Group",
+                "country": "Ireland",
+                "start_date": "2017-10-01",
+                "end_date": null
+            },
+            {
+                "position": "Senior Vice President",
+                "company": "Kerry Group",
+                "country": "China",
+                "start_date": "2014-01-01",
+                "end_date": "2017-09-30"
+            },
+            {
+                "position": "Director of Flavours",
+                "company": "Kerry Group",
+                "country": "Ireland",
+                "start_date": "2008-01-01",
+                "end_date": "2013-12-31"
+            }
+        ],
+        "company": "IE_KRZ_AR_2021"
+    },
+    "sources": [
+        99,
+        107,
+        12,
+        139,
+        15,
+        150,
+        89,
+        92
+    ]
+}

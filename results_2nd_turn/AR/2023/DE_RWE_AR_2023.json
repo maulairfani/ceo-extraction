@@ -1,0 +1,73 @@
+{
+    "data": {
+        "name": "Dr. Markus Krebber",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2021-05-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1973-01-01",
+        "nationality": "German",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": "unknown",
+            "country": "Germany"
+        },
+        "education_master": {
+            "major": "unknown",
+            "university": "Humboldt University of Berlin",
+            "country": "Germany"
+        },
+        "education_doctoral": {
+            "major": "unknown",
+            "university": "Humboldt University of Berlin",
+            "country": "Germany"
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer",
+                "company": "RWE AG",
+                "country": "Germany",
+                "start_date": "2021-05-01",
+                "end_date": null
+            },
+            {
+                "position": "CEO",
+                "company": "RWE Supply & Trading GmbH",
+                "country": "Germany",
+                "start_date": "2015-01-01",
+                "end_date": "2017-01-01"
+            },
+            {
+                "position": "Various Management Positions",
+                "company": "Commerzbank",
+                "country": "Germany",
+                "start_date": null,
+                "end_date": "2012-01-01"
+            },
+            {
+                "position": "Business Consultant",
+                "company": "McKinsey & Company",
+                "country": "Germany",
+                "start_date": "2000-01-01",
+                "end_date": "2005-01-01"
+            },
+            {
+                "position": "Member of the Executive Board",
+                "company": "RWE AG",
+                "country": "Germany",
+                "start_date": "2016-10-01",
+                "end_date": null
+            }
+        ],
+        "company": "DE_RWE_AR_2023"
+    },
+    "sources": [
+        293,
+        294,
+        295,
+        8,
+        299,
+        300,
+        15
+    ]
+}

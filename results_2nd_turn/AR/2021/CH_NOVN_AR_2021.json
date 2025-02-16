@@ -1,0 +1,63 @@
+{
+    "data": {
+        "name": "Vasant Narasimhan",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2018-02-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1975-01-01",
+        "nationality": "Indian",
+        "education_bachelor": {
+            "major": "Biological Sciences",
+            "university": "University of Chicago",
+            "country": "USA"
+        },
+        "education_master": {
+            "major": "Doctor of Medicine",
+            "university": "Stanford University",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": "PhD in Clinical Investigation",
+            "university": "Stanford University",
+            "country": "USA"
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer",
+                "company": "Novartis AG",
+                "country": "Switzerland",
+                "start_date": "2018-02-01",
+                "end_date": null
+            },
+            {
+                "position": "Global Head of Drug Development",
+                "company": "Novartis AG",
+                "country": "Switzerland",
+                "start_date": "2016-01-01",
+                "end_date": "2018-01-31"
+            },
+            {
+                "position": "Chief Medical Officer",
+                "company": "Novartis AG",
+                "country": "Switzerland",
+                "start_date": "2013-01-01",
+                "end_date": "2015-12-31"
+            },
+            {
+                "position": "Global Head of Development and Medical Affairs",
+                "company": "Novartis AG",
+                "country": "Switzerland",
+                "start_date": "2010-01-01",
+                "end_date": "2012-12-31"
+            }
+        ],
+        "company": "CH_NOVN_AR_2021"
+    },
+    "sources": [
+        153,
+        132,
+        5,
+        149
+    ]
+}

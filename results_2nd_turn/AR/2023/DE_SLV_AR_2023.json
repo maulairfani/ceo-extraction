@@ -1,0 +1,59 @@
+{
+    "data": {
+        "name": "Oliver B\u00e4te",
+        "position": "CEO",
+        "start_tenure": "2015-05-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1962-05-03",
+        "nationality": "German",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": "University of Mannheim",
+            "country": "Germany"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "WHU \u2013 Otto Beisheim School of Management",
+            "country": "Germany"
+        },
+        "education_doctoral": {
+            "major": "Doctorate in Business Administration",
+            "university": "University of Mannheim",
+            "country": "Germany"
+        },
+        "working_experience": [
+            {
+                "position": "Chairman of the Management Board",
+                "company": "Allianz SE",
+                "country": "Germany",
+                "start_date": "2008-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Executive Board Member",
+                "company": "Allianz SE",
+                "country": "Germany",
+                "start_date": "2008-01-01",
+                "end_date": "2015-05-01"
+            },
+            {
+                "position": "Managing Director",
+                "company": "Allianz Lebensversicherungs-AG",
+                "country": "Germany",
+                "start_date": "2006-01-01",
+                "end_date": "2008-01-01"
+            }
+        ],
+        "company": "DE_SLV_AR_2023"
+    },
+    "sources": [
+        163,
+        166,
+        38,
+        10,
+        138,
+        11,
+        157
+    ]
+}

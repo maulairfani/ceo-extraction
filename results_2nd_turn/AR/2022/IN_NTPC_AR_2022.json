@@ -1,0 +1,47 @@
+{
+    "data": {
+        "name": "Gurdeep Singh",
+        "position": "Chairman & Managing Director",
+        "start_tenure": "2016-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Indian",
+        "education_bachelor": {
+            "major": null,
+            "university": "NIT Kurukshetra",
+            "country": "India"
+        },
+        "education_master": {
+            "major": null,
+            "university": "IIM Ahmedabad",
+            "country": "India"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": "Harvard and Oxford business schools (management and leadership training)",
+            "country": "USA"
+        },
+        "working_experience": [
+            {
+                "position": "Leadership positions",
+                "company": "PowerGen, CESC, AES, IDFC, GSECL, NEEPCO, DVC",
+                "country": "India and abroad",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "IN_NTPC_AR_2022"
+    },
+    "sources": [
+        578,
+        579,
+        581,
+        197,
+        9,
+        14,
+        17,
+        404,
+        95
+    ]
+}

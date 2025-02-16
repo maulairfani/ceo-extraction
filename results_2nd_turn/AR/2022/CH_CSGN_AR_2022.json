@@ -1,0 +1,91 @@
+{
+    "data": {
+        "name": "Ulrich K\u00f6rner",
+        "position": "CEO",
+        "start_tenure": "2022-08-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1962-01-01",
+        "nationality": "German and Swiss",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": "University of St. Gallen",
+            "country": "Switzerland"
+        },
+        "education_master": {
+            "major": "Economics",
+            "university": "University of St. Gallen",
+            "country": "Switzerland"
+        },
+        "education_doctoral": {
+            "major": "Economics",
+            "university": "University of St. Gallen",
+            "country": "Switzerland"
+        },
+        "working_experience": [
+            {
+                "position": "CEO Asset Management",
+                "company": "Credit Suisse",
+                "country": "Switzerland",
+                "start_date": "2021-01-01",
+                "end_date": "2022-08-01"
+            },
+            {
+                "position": "Member of the Group Executive Board",
+                "company": "UBS",
+                "country": "Switzerland",
+                "start_date": "2009-01-01",
+                "end_date": "2019-12-31"
+            },
+            {
+                "position": "CEO of UBS Asset Management",
+                "company": "UBS",
+                "country": "Switzerland",
+                "start_date": "2014-01-01",
+                "end_date": "2019-12-31"
+            },
+            {
+                "position": "CEO of UBS Europe, Middle East & Africa",
+                "company": "UBS",
+                "country": "Switzerland",
+                "start_date": "2011-01-01",
+                "end_date": "2019-12-31"
+            },
+            {
+                "position": "Group Chief Operating Officer",
+                "company": "UBS",
+                "country": "Switzerland",
+                "start_date": "2009-01-01",
+                "end_date": "2013-12-31"
+            },
+            {
+                "position": "CFO & COO",
+                "company": "Credit Suisse",
+                "country": "Switzerland",
+                "start_date": "1998-01-01",
+                "end_date": "2009-12-31"
+            },
+            {
+                "position": "Senior Engagement Manager",
+                "company": "McKinsey & Company",
+                "country": "Switzerland",
+                "start_date": null,
+                "end_date": "1997-01-01"
+            }
+        ],
+        "company": "CH_CSGN_AR_2022"
+    },
+    "sources": [
+        224,
+        3,
+        7,
+        202,
+        172,
+        236,
+        204,
+        211,
+        212,
+        213,
+        185
+    ]
+}

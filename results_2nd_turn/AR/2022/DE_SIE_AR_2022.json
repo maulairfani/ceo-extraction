@@ -1,0 +1,59 @@
+{
+    "data": {
+        "name": "Roland Busch",
+        "position": "President and Chief Executive Officer",
+        "start_tenure": "2017-04-01",
+        "end_tenure": "2025-03-31",
+        "gender": "Male",
+        "birthdate_or_age": "1964-11-22",
+        "nationality": "German",
+        "education_bachelor": {
+            "major": "Physics",
+            "university": "Technical University of Munich",
+            "country": "Germany"
+        },
+        "education_master": {
+            "major": "Natural Sciences",
+            "university": "Technical University of Munich",
+            "country": "Germany"
+        },
+        "education_doctoral": {
+            "major": "Physics",
+            "university": "Technical University of Munich",
+            "country": "Germany"
+        },
+        "working_experience": [
+            {
+                "position": "Senior Vice President",
+                "company": "Siemens AG",
+                "country": "Germany",
+                "start_date": "2011-04-01",
+                "end_date": null
+            },
+            {
+                "position": "Chief Operating Officer",
+                "company": "Siemens AG",
+                "country": "Germany",
+                "start_date": "2014-01-01",
+                "end_date": "2017-04-01"
+            },
+            {
+                "position": "Various roles in Siemens",
+                "company": "Siemens AG",
+                "country": "Germany",
+                "start_date": "2000-01-01",
+                "end_date": "2011-04-01"
+            }
+        ],
+        "company": "DE_SIE_AR_2022"
+    },
+    "sources": [
+        1,
+        100,
+        134,
+        210,
+        182,
+        155,
+        127
+    ]
+}

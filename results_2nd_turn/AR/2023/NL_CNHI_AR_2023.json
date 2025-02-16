@@ -1,0 +1,74 @@
+{
+    "data": {
+        "name": "Scott W. Wine",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2021-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1967-01-01",
+        "nationality": "American",
+        "education_bachelor": {
+            "major": "General Studies",
+            "university": "United States Naval Academy",
+            "country": "USA"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "University of Maryland",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chairman and CEO",
+                "company": "Polaris Inc.",
+                "country": "USA",
+                "start_date": "2008-01-01",
+                "end_date": "2021-01-01"
+            },
+            {
+                "position": "President",
+                "company": "UTC Fire & Security",
+                "country": "USA",
+                "start_date": "2007-01-01",
+                "end_date": "2008-01-01"
+            },
+            {
+                "position": "President",
+                "company": "Jacobs Vehicle Systems",
+                "country": "USA",
+                "start_date": "2003-01-01",
+                "end_date": "2006-01-01"
+            },
+            {
+                "position": "Managing Director",
+                "company": "Honeywell Aerospace GmbH",
+                "country": "Germany",
+                "start_date": "2001-01-01",
+                "end_date": "2003-01-01"
+            },
+            {
+                "position": "Supply Officer",
+                "company": "United States Navy",
+                "country": "USA",
+                "start_date": "1989-01-01",
+                "end_date": "1996-01-01"
+            }
+        ],
+        "company": "NL_CNHI_AR_2023"
+    },
+    "sources": [
+        248,
+        3,
+        4,
+        102,
+        233,
+        206,
+        88,
+        57
+    ]
+}

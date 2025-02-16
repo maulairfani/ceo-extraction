@@ -1,0 +1,72 @@
+{
+    "data": {
+        "name": "Alfred Stern",
+        "position": "Chairman of the Executive Board and Chief Executive Officer",
+        "start_tenure": "2021-04-01",
+        "end_tenure": "2024-08-31",
+        "gender": "Male",
+        "birthdate_or_age": "1965-01-01",
+        "nationality": "Austrian",
+        "education_bachelor": {
+            "major": "Polymer Engineering and Science",
+            "university": "Montanuniversit\u00e4t in Leoben",
+            "country": "Austria"
+        },
+        "education_master": {
+            "major": "Materials Science",
+            "university": "Montanuniversit\u00e4t in Leoben",
+            "country": "Austria"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer",
+                "company": "Borealis",
+                "country": "Austria",
+                "start_date": "2018-07-01",
+                "end_date": "2021-04-30"
+            },
+            {
+                "position": "Executive Board Member for Chemicals & Materials",
+                "company": "OMV Aktiengesellschaft",
+                "country": "Austria",
+                "start_date": "2021-04-01",
+                "end_date": "2021-08-31"
+            },
+            {
+                "position": "Chairman of the Executive Board",
+                "company": "OMV Aktiengesellschaft",
+                "country": "Austria",
+                "start_date": "2021-09-01",
+                "end_date": null
+            },
+            {
+                "position": "Senior Vice President Innovation & Technology",
+                "company": "Borealis",
+                "country": "Austria",
+                "start_date": "2008-01-01",
+                "end_date": "2018-06-30"
+            },
+            {
+                "position": "Various Management Positions",
+                "company": "DuPont de Nemours",
+                "country": "Various (Switzerland, Germany, USA)",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "AT_OMV_AR_2022"
+    },
+    "sources": [
+        12,
+        238,
+        246,
+        91,
+        252,
+        94
+    ]
+}

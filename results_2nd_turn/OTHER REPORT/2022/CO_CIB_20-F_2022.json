@@ -1,0 +1,66 @@
+{
+    "data": {
+        "name": "Juan Carlos Mora Uribe",
+        "position": "CEO",
+        "start_tenure": "2016-05-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1965-01-01",
+        "nationality": "Colombian",
+        "education_bachelor": {
+            "major": "Business Administration",
+            "university": "Universidad Eafit",
+            "country": "Colombia"
+        },
+        "education_master": {
+            "major": "Master of Business Administration (MBA)",
+            "university": "Babson College",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Vice President of Corporate Innovation and Digital Transformation",
+                "company": "Bancolombia",
+                "country": "Colombia",
+                "start_date": "2015-01-01",
+                "end_date": "2016-05-01"
+            },
+            {
+                "position": "Vice President of Operations",
+                "company": "Corporaci\u00f3n Financiera Nacional and Suramericana S.A.",
+                "country": "Colombia",
+                "start_date": "2004-01-01",
+                "end_date": "2005-01-01"
+            },
+            {
+                "position": "Vice President of Risk",
+                "company": "Bancolombia",
+                "country": "Colombia",
+                "start_date": "2005-01-01",
+                "end_date": "2008-12-31"
+            },
+            {
+                "position": "Chief Corporate Services Officer",
+                "company": "Bancolombia",
+                "country": "Colombia",
+                "start_date": "2008-01-01",
+                "end_date": "2015-01-01"
+            }
+        ],
+        "company": "CO_CIB_20-F_2022"
+    },
+    "sources": [
+        1,
+        395,
+        397,
+        398,
+        113,
+        114,
+        115
+    ]
+}

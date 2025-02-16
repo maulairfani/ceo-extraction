@@ -1,0 +1,58 @@
+{
+    "data": {
+        "name": "Bob Johnston",
+        "position": "Chief Executive Officer and Managing Director",
+        "start_tenure": "2015-09-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "null",
+        "education_bachelor": {
+            "major": "Electrical and Electronic Engineering (Hons)",
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Managing Director",
+                "company": "Australand Property Group (now Frasers Australand)",
+                "country": "Australia",
+                "start_date": "2014-09-01",
+                "end_date": null
+            },
+            {
+                "position": "Various Senior Positions",
+                "company": "Lendlease",
+                "country": null,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Chief Executive Officer and Managing Director",
+                "company": "GPT Group",
+                "country": "Australia",
+                "start_date": "2015-09-01",
+                "end_date": null
+            }
+        ],
+        "company": "AU_GPT_AR_2023"
+    },
+    "sources": [
+        70,
+        167,
+        74,
+        75,
+        76,
+        81
+    ]
+}

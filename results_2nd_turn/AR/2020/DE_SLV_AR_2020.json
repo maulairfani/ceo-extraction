@@ -1,0 +1,51 @@
+{
+    "data": {
+        "name": "Dr. Klaus-Peter R\u00f6hler",
+        "position": "CEO",
+        "start_tenure": "2020-04-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "German",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Member of the Board of Management",
+                "company": "Allianz SE",
+                "country": "Germany",
+                "start_date": "2020-04-01",
+                "end_date": null
+            },
+            {
+                "position": "Group Executive Board Member",
+                "company": "Allianz",
+                "country": "Germany",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "DE_SLV_AR_2020"
+    },
+    "sources": [
+        10,
+        11,
+        42,
+        12,
+        55,
+        90
+    ]
+}

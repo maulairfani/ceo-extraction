@@ -1,0 +1,56 @@
+{
+    "data": {
+        "name": "Mika Vehvil\u00e4inen",
+        "position": "CEO",
+        "start_tenure": "2015-09-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1961-01-01",
+        "nationality": "Finnish",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": "University of Helsinki",
+            "country": "Finland"
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "Cargotec",
+                "country": "Finland",
+                "start_date": "2015-09-01",
+                "end_date": null
+            },
+            {
+                "position": "Director of Technology",
+                "company": "Cargotec",
+                "country": "Finland",
+                "start_date": "2013-01-01",
+                "end_date": "2015-08-31"
+            },
+            {
+                "position": "CEO",
+                "company": "Elisa Oyj",
+                "country": "Finland",
+                "start_date": "2007-01-01",
+                "end_date": "2013-01-01"
+            }
+        ],
+        "company": "FI_CGCBV_AR_2020"
+    },
+    "sources": [
+        27,
+        28,
+        29,
+        166
+    ]
+}

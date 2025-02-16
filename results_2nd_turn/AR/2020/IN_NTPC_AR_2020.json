@@ -1,0 +1,49 @@
+{
+    "data": {
+        "name": "Gurdeep Singh",
+        "position": "Chairman & Managing Director",
+        "start_tenure": "2016-02-04",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": 56,
+        "nationality": "Indian",
+        "education_bachelor": {
+            "major": "Mechanical Engineering",
+            "university": "NIT Kurukshetra",
+            "country": "India"
+        },
+        "education_master": {
+            "major": "Management Education",
+            "university": "IIM Ahmedabad",
+            "country": "India"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Managing Director",
+                "company": "Gujarat State Electricity Company Limited",
+                "country": "India",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Engineer Trainee",
+                "company": "NTPC",
+                "country": "India",
+                "start_date": "1987-01-01",
+                "end_date": null
+            }
+        ],
+        "company": "IN_NTPC_AR_2020"
+    },
+    "sources": [
+        130,
+        76,
+        134,
+        31
+    ]
+}

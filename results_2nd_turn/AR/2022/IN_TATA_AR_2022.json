@@ -1,0 +1,53 @@
+{
+    "data": {
+        "name": "K. C. Jhanwar",
+        "position": "Managing Director",
+        "start_tenure": "2018-10-19",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": 66,
+        "nationality": "Indian",
+        "education_bachelor": {
+            "major": "Chartered Accountant",
+            "university": "Institute of Chartered Accountants of India",
+            "country": "India"
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Managing Director",
+                "company": "UltraTech Cement Limited",
+                "country": "India",
+                "start_date": "2018-10-19",
+                "end_date": null
+            },
+            {
+                "position": "Various roles in finance, operations, and general management",
+                "company": "Aditya Birla Group",
+                "country": "India",
+                "start_date": "1980-01-01",
+                "end_date": null
+            }
+        ],
+        "company": "IN_TATA_AR_2022"
+    },
+    "sources": [
+        75,
+        203,
+        44,
+        43,
+        181,
+        22,
+        186,
+        31
+    ]
+}

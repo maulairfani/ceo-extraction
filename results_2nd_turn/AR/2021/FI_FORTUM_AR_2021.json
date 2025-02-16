@@ -1,0 +1,59 @@
+{
+    "data": {
+        "name": "Markus Rauramo",
+        "position": "President and CEO",
+        "start_tenure": "2021-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Finnish",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": "Helsinki School of Economics",
+            "country": "Finland"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "Helsinki School of Economics",
+            "country": "Finland"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Executive Vice President",
+                "company": "Fortum",
+                "country": "Finland",
+                "start_date": "2016-01-01",
+                "end_date": "2020-12-31"
+            },
+            {
+                "position": "Director, Industry Sector",
+                "company": "Fortum",
+                "country": "Finland",
+                "start_date": "2011-01-01",
+                "end_date": "2015-12-31"
+            },
+            {
+                "position": "Various positions",
+                "company": "Fortum",
+                "country": "Finland",
+                "start_date": "1997-01-01",
+                "end_date": "2010-12-31"
+            }
+        ],
+        "company": "FI_FORTUM_AR_2021"
+    },
+    "sources": [
+        1,
+        2,
+        4,
+        12,
+        14,
+        15,
+        16
+    ]
+}

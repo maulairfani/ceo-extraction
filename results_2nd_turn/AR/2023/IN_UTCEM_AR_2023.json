@@ -1,0 +1,47 @@
+{
+    "data": {
+        "name": "K. C. Jhanwar",
+        "position": "Managing Director",
+        "start_tenure": "2018-10-19",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Indian",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Managing Director",
+                "company": "UltraTech Cement",
+                "country": "India",
+                "start_date": "2018-10-19",
+                "end_date": null
+            }
+        ],
+        "company": "IN_UTCEM_AR_2023"
+    },
+    "sources": [
+        102,
+        7,
+        8,
+        43,
+        83,
+        54,
+        87,
+        90,
+        91
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "data": {
+        "name": "Ralph A.J.G. Hamers",
+        "position": "Group Chief Executive Officer",
+        "start_tenure": "2020-11-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1966-01-01",
+        "nationality": "Dutch",
+        "education_bachelor": {
+            "major": "Business Econometrics",
+            "university": "Tilburg University",
+            "country": "Netherlands"
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO and Chairman of the Executive Board",
+                "company": "ING Group",
+                "country": "Netherlands",
+                "start_date": "2013-01-01",
+                "end_date": "2020-10-31"
+            },
+            {
+                "position": "CEO of ING Belgium and Luxembourg",
+                "company": "ING",
+                "country": "Belgium",
+                "start_date": "2011-01-01",
+                "end_date": "2013-12-31"
+            },
+            {
+                "position": "Head of Network Management for Retail Banking Direct & International",
+                "company": "ING",
+                "country": "Netherlands",
+                "start_date": "2010-01-01",
+                "end_date": "2011-12-31"
+            },
+            {
+                "position": "Global Head of the Commercial Banking network",
+                "company": "ING",
+                "country": "Netherlands",
+                "start_date": "2007-01-01",
+                "end_date": "2010-12-31"
+            },
+            {
+                "position": "CEO of ING Bank Netherlands",
+                "company": "ING",
+                "country": "Netherlands",
+                "start_date": "2005-01-01",
+                "end_date": "2007-12-31"
+            },
+            {
+                "position": "General Manager of the ING Bank branch network",
+                "company": "ING",
+                "country": "Romania",
+                "start_date": "2002-01-01",
+                "end_date": "2005-12-31"
+            },
+            {
+                "position": "Credit Risk Management",
+                "company": "Deutsche Bank",
+                "country": "Germany",
+                "start_date": "1999-01-01",
+                "end_date": "2000-12-31"
+            }
+        ],
+        "company": "CH_UBSG_AR_2021"
+    },
+    "sources": [
+        1,
+        18,
+        217,
+        12
+    ]
+}

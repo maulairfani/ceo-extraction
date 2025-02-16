@@ -1,0 +1,51 @@
+{
+    "data": {
+        "name": "Arthur R. Tan",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2002-04-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1959-04-01",
+        "nationality": "Filipino",
+        "education_bachelor": {
+            "major": "Electronics Communications Engineering",
+            "university": "Mapua Institute of Technology",
+            "country": "Philippines"
+        },
+        "education_master": {
+            "major": "Management",
+            "university": "Harvard Business School",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Northeast Area Sales Manager and Acting Design Center Manager",
+                "company": "American Microsystems Inc.",
+                "country": "USA",
+                "start_date": "1994-01-01",
+                "end_date": "1998-12-31"
+            },
+            {
+                "position": "Managing Director for Asia Pacific Region/Japan",
+                "company": "American Microsystems Inc.",
+                "country": "USA",
+                "start_date": "1998-01-01",
+                "end_date": "2001-12-31"
+            }
+        ],
+        "company": "PH_IMI_IR_2023"
+    },
+    "sources": [
+        9,
+        16,
+        17,
+        18,
+        19,
+        25
+    ]
+}

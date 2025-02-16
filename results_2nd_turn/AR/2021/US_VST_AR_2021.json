@@ -1,0 +1,51 @@
+{
+    "data": {
+        "name": "Curtis A. Morgan",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2017-05-01",
+        "end_tenure": "2022-03-21",
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "American",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer",
+                "company": "Vistra Corp.",
+                "country": "USA",
+                "start_date": "2017-05-01",
+                "end_date": "2022-03-21"
+            },
+            {
+                "position": "President",
+                "company": "Vistra Corp.",
+                "country": "USA",
+                "start_date": "2016-01-01",
+                "end_date": "2017-04-30"
+            }
+        ],
+        "company": "US_VST_AR_2021"
+    },
+    "sources": [
+        195,
+        9,
+        202,
+        11,
+        203,
+        182
+    ]
+}

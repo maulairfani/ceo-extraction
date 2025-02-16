@@ -1,0 +1,67 @@
+{
+    "data": {
+        "name": "James Wang",
+        "position": "CEO",
+        "start_tenure": "2019-07-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1978-01-31",
+        "nationality": "Republic of China",
+        "education_bachelor": {
+            "major": "Mechanical Engineering",
+            "university": "University of Illinois Urbana-Champaign",
+            "country": "USA"
+        },
+        "education_master": {
+            "major": "Electrical Engineering",
+            "university": "Southern California Institute of Technology",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": "Computer Engineering",
+            "university": "University of Chicago",
+            "country": "USA"
+        },
+        "working_experience": [
+            {
+                "position": "Director",
+                "company": "Hon Hai Precision Industry Co., Ltd.",
+                "country": "Taiwan",
+                "start_date": "2015-01-01",
+                "end_date": null
+            },
+            {
+                "position": "General Manager",
+                "company": "Foxtron Vehicle Technologies",
+                "country": "Taiwan",
+                "start_date": "2020-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Chairman",
+                "company": "Foxsemicon Integrated Technology",
+                "country": "Taiwan",
+                "start_date": "2021-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Executive Director",
+                "company": "Foxconn Technology Group",
+                "country": "Taiwan",
+                "start_date": "2012-01-01",
+                "end_date": "2015-12-31"
+            }
+        ],
+        "company": "TW_2317_AR_2020"
+    },
+    "sources": [
+        32,
+        34,
+        39,
+        40,
+        42,
+        27,
+        29,
+        31
+    ]
+}

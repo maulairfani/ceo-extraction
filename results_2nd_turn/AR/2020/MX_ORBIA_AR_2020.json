@@ -1,0 +1,62 @@
+{
+    "data": {
+        "name": "Sameer S. Bharadwaj",
+        "position": "CEO",
+        "start_tenure": "2016-08-15",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "null",
+        "education_bachelor": {
+            "major": "Chemical Engineering",
+            "university": "University of Bombay",
+            "country": "India"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "Harvard Business School",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": "Chemical Engineering",
+            "university": "University of Minnesota",
+            "country": "USA"
+        },
+        "working_experience": [
+            {
+                "position": "Various executive leadership roles",
+                "company": "Cabot Corporation",
+                "country": null,
+                "start_date": "2005-01-01",
+                "end_date": "2016-01-01"
+            },
+            {
+                "position": "Senior Research Engineer",
+                "company": "The Dow Chemical Company",
+                "country": null,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Strategy Consultant",
+                "company": "The Boston Consulting Group",
+                "country": null,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "MX_ORBIA_AR_2020"
+    },
+    "sources": [
+        192,
+        193,
+        2,
+        194,
+        3,
+        204,
+        174,
+        209,
+        150,
+        183
+    ]
+}

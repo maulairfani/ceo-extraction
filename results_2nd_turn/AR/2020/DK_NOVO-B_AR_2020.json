@@ -1,0 +1,49 @@
+{
+    "data": {
+        "name": "Lars Fruergaard J\u00f8rgensen",
+        "position": "President and Chief Executive Officer (CEO)",
+        "start_tenure": null,
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1966-11-01",
+        "nationality": "Danish",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Vice Chair of Supervisory Board, member of Audit Committee and Nomination Committee",
+                "company": "Carlsberg A/S",
+                "country": "Denmark",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Vice President Elect",
+                "company": "European Federation of Pharmaceutical Industries and Associations (EFPIA)",
+                "country": null,
+                "start_date": "2021-01-01",
+                "end_date": null
+            }
+        ],
+        "company": "DK_NOVO-B_AR_2020"
+    },
+    "sources": [
+        88,
+        42,
+        45,
+        38
+    ]
+}

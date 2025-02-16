@@ -1,0 +1,70 @@
+{
+    "data": {
+        "name": "Vladimir Kiriukhin",
+        "position": "CEO",
+        "start_tenure": "2018-11-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Russian",
+        "education_bachelor": {
+            "major": "Mathematics",
+            "university": "Higher Naval School of Radio Electronics",
+            "country": "Russia"
+        },
+        "education_master": {
+            "major": "Engineering",
+            "university": "All-Union Institute of Interindustrial Information",
+            "country": "Russia"
+        },
+        "education_doctoral": {
+            "major": "PhD in Engineering",
+            "university": "All-Union Institute of Interindustrial Information",
+            "country": "Russia"
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "EuroSibEnergo",
+                "country": "Russia",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Chairman of the Board",
+                "company": "Irkutskenergo",
+                "country": "Russia",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Chairman of the Board",
+                "company": "Krasnoyarsk HPP",
+                "country": "Russia",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Board Member",
+                "company": "RUSAL",
+                "country": "Russia",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Various senior positions",
+                "company": "Russian Aluminium",
+                "country": "Russia",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "RU_ENPG_IR_2020"
+    },
+    "sources": [
+        122,
+        123,
+        109,
+        130
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "data": {
+        "name": "Bill Winters",
+        "position": "Group Chief Executive",
+        "start_tenure": "2015-06-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": 60,
+        "nationality": "British",
+        "education_bachelor": {
+            "major": "Philosophy, Politics and Economics",
+            "university": "Oxford University",
+            "country": "UK"
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Co-CEO",
+                "company": "JP Morgan",
+                "country": "USA",
+                "start_date": "2004-01-01",
+                "end_date": "2009-12-31"
+            },
+            {
+                "position": "Senior Independent Director",
+                "company": "Marks and Spencer Group plc",
+                "country": "UK",
+                "start_date": "2013-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Chairman",
+                "company": "Renshaw Bay",
+                "country": "UK",
+                "start_date": "2011-01-01",
+                "end_date": "2015-06-01"
+            }
+        ],
+        "company": "GB_STAN_AR_2021"
+    },
+    "sources": [
+        96,
+        97,
+        98,
+        99,
+        2,
+        92,
+        93
+    ]
+}

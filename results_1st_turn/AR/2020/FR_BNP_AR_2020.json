@@ -1,0 +1,43 @@
+{
+    "data": {
+        "directors": [
+            "Jean LEMIERRE (Chairman)",
+            "Jean-Laurent BONNAF\u00c9 (Chief Executive Officer and Director)",
+            "Jacques ASCHENBROICH",
+            "Pierre-Andr\u00e9 de CHALENDAR",
+            "Monique COHEN",
+            "Wouter DE PLOEY",
+            "Hugues EPAILLARD (director elected by employees)",
+            "Rajna GIBSON-BRANDON",
+            "Marion GUILLOU",
+            "Denis KESSLER",
+            "Daniela SCHWARZER",
+            "Michel TILMANT",
+            "Sandrine VERRIER (director elected by employees)",
+            "Fields WICKER-MIURIN"
+        ],
+        "commissioners": [
+            "Jean LEMIERRE (Chairman)",
+            "Jean-Laurent BONNAF\u00c9 (Chief Executive Officer and Director)",
+            "Jacques ASCHENBROICH",
+            "Pierre-Andr\u00e9 de CHALENDAR",
+            "Monique COHEN",
+            "Wouter DE PLOEY",
+            "Hugues EPAILLARD (director elected by employees)",
+            "Rajna GIBSON-BRANDON",
+            "Marion GUILLOU",
+            "Denis KESSLER",
+            "Daniela SCHWARZER",
+            "Michel TILMANT",
+            "Sandrine VERRIER (director elected by employees)",
+            "Fields WICKER-MIURIN"
+        ],
+        "company": "FR_BNP_AR_2020"
+    },
+    "sources": [
+        104,
+        45,
+        53,
+        46
+    ]
+}

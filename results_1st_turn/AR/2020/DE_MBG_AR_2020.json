@@ -1,0 +1,44 @@
+{
+    "data": {
+        "directors": [
+            "Ola K\u00e4llenius",
+            "Martin Daum",
+            "Renata Jungo Br\u00fcngger",
+            "Wilfried Porth",
+            "Markus Sch\u00e4fer",
+            "Britta Seeger",
+            "Hubertus Troska",
+            "Harald Wilhelm"
+        ],
+        "commissioners": [
+            "Dr. Manfred Bischoff",
+            "Michael Brecht",
+            "Dr. Paul Achleitner",
+            "Bader M. Al Saad",
+            "Sari Baldauf",
+            "Michael Bettag",
+            "Dr. Clemens B\u00f6rsig",
+            "Raymond Curry",
+            "Dr. J\u00fcrgen Hambrecht",
+            "Michael H\u00e4berle",
+            "Petraea Heynike",
+            "Timotheus H\u00f6ttges",
+            "Joe Kaeser",
+            "Ergun L\u00fcmali",
+            "Dr. Bernd Pischetsrieder",
+            "Elke T\u00f6njes-Werner",
+            "Sibylle Wankel",
+            "Dr. Frank Weber",
+            "Marie Wieck",
+            "Dr. Sabine Zimmer",
+            "Roman Zitzelsberger"
+        ],
+        "company": "DE_MBG_AR_2020"
+    },
+    "sources": [
+        1,
+        21,
+        13,
+        22
+    ]
+}

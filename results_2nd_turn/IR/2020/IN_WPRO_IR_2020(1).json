@@ -1,0 +1,46 @@
+{
+    "data": {
+        "name": "Thierry Delaporte",
+        "position": "Chief Executive Officer and Managing Director",
+        "start_tenure": "2020-07-06",
+        "end_tenure": "2025-07-05",
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "None",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer and Managing Director",
+                "company": "Wipro Limited",
+                "country": "India",
+                "start_date": "2020-07-06",
+                "end_date": "2025-07-05"
+            }
+        ],
+        "company": "IN_WPRO_IR_2020(1)"
+    },
+    "sources": [
+        385,
+        14,
+        15,
+        16,
+        17,
+        111,
+        115,
+        91
+    ]
+}

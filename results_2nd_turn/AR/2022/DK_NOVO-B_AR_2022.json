@@ -1,0 +1,64 @@
+{
+    "data": {
+        "name": "Lars Fruergaard J\u00f8rgensen",
+        "position": "President and Chief Executive Officer (CEO)",
+        "start_tenure": "2016-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1966-11-01",
+        "nationality": "Danish",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": "University of Copenhagen",
+            "country": "Denmark"
+        },
+        "education_master": {
+            "major": "Master\u2019s in Business Administration",
+            "university": "Copenhagen Business School",
+            "country": "Denmark"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "Novo Nordisk A/S",
+                "country": "Denmark",
+                "start_date": "2016-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Executive Vice President and Chief Operating Officer",
+                "company": "Novo Nordisk A/S",
+                "country": "Denmark",
+                "start_date": "2014-01-01",
+                "end_date": "2016-01-01"
+            },
+            {
+                "position": "Senior Vice President",
+                "company": "Novo Nordisk A/S",
+                "country": "Denmark",
+                "start_date": "2010-01-01",
+                "end_date": "2014-01-01"
+            },
+            {
+                "position": "Corporate Vice President",
+                "company": "Novo Nordisk A/S",
+                "country": "Denmark",
+                "start_date": "2005-01-01",
+                "end_date": "2010-01-01"
+            }
+        ],
+        "company": "DK_NOVO-B_AR_2022"
+    },
+    "sources": [
+        1,
+        98,
+        48,
+        49,
+        51
+    ]
+}

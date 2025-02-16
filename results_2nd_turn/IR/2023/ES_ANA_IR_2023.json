@@ -1,0 +1,68 @@
+{
+    "data": {
+        "name": "Jos\u00e9 Manuel Entrecanales",
+        "position": "CEO and Chairman",
+        "start_tenure": "2005-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1966-07-24",
+        "nationality": "Spanish",
+        "education_bachelor": {
+            "major": "Business Administration",
+            "university": "Universidad Complutense de Madrid",
+            "country": "Spain"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "Harvard University",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "ACCIONA",
+                "country": "Spain",
+                "start_date": "2005-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Chairman",
+                "company": "ACCIONA",
+                "country": "Spain",
+                "start_date": "2005-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Director of Strategy and Development",
+                "company": "ACCIONA",
+                "country": "Spain",
+                "start_date": "2000-01-01",
+                "end_date": "2004-12-31"
+            },
+            {
+                "position": "Investment Banker",
+                "company": "Citibank",
+                "country": "USA",
+                "start_date": "1995-01-01",
+                "end_date": "1999-12-31"
+            }
+        ],
+        "company": "ES_ANA_IR_2023"
+    },
+    "sources": [
+        3,
+        35,
+        5,
+        7,
+        39,
+        9,
+        10,
+        45,
+        59
+    ]
+}

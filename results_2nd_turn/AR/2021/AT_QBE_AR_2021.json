@@ -1,0 +1,70 @@
+{
+    "data": {
+        "name": "Andrew Horton",
+        "position": "Group Chief Executive Officer",
+        "start_tenure": "2021-09-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Unknown",
+        "education_bachelor": {
+            "major": "Natural Sciences",
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "Beazley Group",
+                "country": "United Kingdom",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Finance Director",
+                "company": "Beazley Group",
+                "country": "United Kingdom",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Various Senior Finance Roles",
+                "company": "ING",
+                "country": null,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Various Senior Finance Roles",
+                "company": "NatWest",
+                "country": null,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Various Senior Finance Roles",
+                "company": "Lloyds Bank",
+                "country": null,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "AT_QBE_AR_2021"
+    },
+    "sources": [
+        40,
+        41,
+        42,
+        43
+    ]
+}

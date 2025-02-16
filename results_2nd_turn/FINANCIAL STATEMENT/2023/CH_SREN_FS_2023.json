@@ -1,0 +1,72 @@
+{
+    "data": {
+        "name": "Christian Mumenthaler",
+        "position": "Group Chief Executive Officer",
+        "start_tenure": "2016-07-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Swiss",
+        "education_bachelor": {
+            "major": "Physics",
+            "university": "Swiss Federal Institute of Technology (ETH)",
+            "country": "Switzerland"
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": "Physics",
+            "university": "Swiss Federal Institute of Technology (ETH)",
+            "country": "Switzerland"
+        },
+        "working_experience": [
+            {
+                "position": "Associate",
+                "company": "Boston Consulting Group",
+                "country": "USA",
+                "start_date": "1997-01-01",
+                "end_date": "1998-01-01"
+            },
+            {
+                "position": "Various roles including Group Chief Risk Officer and Head of Life & Health",
+                "company": "Swiss Re",
+                "country": "Switzerland",
+                "start_date": "1999-01-01",
+                "end_date": "2016-07-01"
+            },
+            {
+                "position": "Chief Marketing Officer Reinsurance",
+                "company": "Swiss Re",
+                "country": "Switzerland",
+                "start_date": "2011-01-01",
+                "end_date": "2011-10-01"
+            },
+            {
+                "position": "Chief Executive Officer Reinsurance",
+                "company": "Swiss Re",
+                "country": "Switzerland",
+                "start_date": "2011-10-01",
+                "end_date": "2016-07-01"
+            },
+            {
+                "position": "Chairman of the Swiss Re Strategic Council",
+                "company": "Swiss Re",
+                "country": "Switzerland",
+                "start_date": "2023-01-01",
+                "end_date": null
+            }
+        ],
+        "company": "CH_SREN_FS_2023"
+    },
+    "sources": [
+        97,
+        73,
+        78,
+        115,
+        93,
+        94
+    ]
+}

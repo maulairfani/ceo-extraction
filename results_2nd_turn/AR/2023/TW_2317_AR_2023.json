@@ -1,0 +1,91 @@
+{
+    "data": {
+        "name": "Liu, Young-Way",
+        "position": "CEO and President",
+        "start_tenure": "2019-07-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Republic of China",
+        "education_bachelor": {
+            "major": "Electrophysics",
+            "university": "National Chiao Tung University",
+            "country": "Republic of China"
+        },
+        "education_master": {
+            "major": "Electrical Engineering and Computer Science",
+            "university": "University of Southern California",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "Hon Hai Precision Industry Co., Ltd.",
+                "country": "Republic of China",
+                "start_date": "2019-07-01",
+                "end_date": null
+            },
+            {
+                "position": "Chairman",
+                "company": "Foxtron Vehicle Technologies Co., Ltd.",
+                "country": "Republic of China",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Chairman",
+                "company": "Foxsemicon Integrated Technology Inc.",
+                "country": "Republic of China",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Chairman",
+                "company": "PowerX Semiconductor Corporation",
+                "country": "Republic of China",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Chairman",
+                "company": "MIH Consortium",
+                "country": "Republic of China",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Director",
+                "company": "Fu Tai International Investment Limited",
+                "country": "Republic of China",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Director",
+                "company": "Silicon Auto B.V.",
+                "country": "Netherlands",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Director",
+                "company": "Ceer National Automotive Company",
+                "country": "Republic of China",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "TW_2317_AR_2023"
+    },
+    "sources": [
+        24,
+        32,
+        30,
+        22
+    ]
+}

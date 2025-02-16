@@ -1,0 +1,54 @@
+{
+    "data": {
+        "name": "Scott W. Wine",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2021-01-04",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO",
+                "company": "CNH Industrial",
+                "country": null,
+                "start_date": "2021-01-04",
+                "end_date": null
+            },
+            {
+                "position": "Previous CEO",
+                "company": "Former Employer",
+                "country": null,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "NL_CNHI_AR_2022"
+    },
+    "sources": [
+        256,
+        97,
+        2,
+        3,
+        227,
+        101,
+        134,
+        114,
+        82
+    ]
+}

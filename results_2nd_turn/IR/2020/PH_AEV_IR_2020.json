@@ -1,0 +1,63 @@
+{
+    "data": {
+        "name": "Luis Miguel Aboitiz",
+        "position": "President and Chief Executive Officer",
+        "start_tenure": "2020-03-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Filipino",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Senior Vice President",
+                "company": "Aboitiz Power Corporation",
+                "country": "Philippines",
+                "start_date": "1989-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Vice President",
+                "company": "Aboitiz Power Corporation",
+                "country": "Philippines",
+                "start_date": "1998-01-01",
+                "end_date": "2001-12-31"
+            },
+            {
+                "position": "President",
+                "company": "Aboitiz Power Corporation",
+                "country": "Philippines",
+                "start_date": "2001-01-01",
+                "end_date": "2008-12-31"
+            }
+        ],
+        "company": "PH_AEV_IR_2020"
+    },
+    "sources": [
+        3,
+        101,
+        102,
+        6,
+        103,
+        105,
+        107,
+        111,
+        18,
+        19,
+        120
+    ]
+}

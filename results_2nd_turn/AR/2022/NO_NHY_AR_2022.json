@@ -1,0 +1,88 @@
+{
+    "data": {
+        "name": "Hilde Merete Aasheim",
+        "position": "President and Chief Executive Officer",
+        "start_tenure": "2019-01-01",
+        "end_tenure": null,
+        "gender": "Female",
+        "birthdate_or_age": "1958-01-01",
+        "nationality": "Norwegian",
+        "education_bachelor": {
+            "major": "Economics and Business Administration",
+            "university": "Norwegian School of Economics (NHH)",
+            "country": "Norway"
+        },
+        "education_master": {
+            "major": "Master of Business Administration",
+            "university": "University of San Francisco",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": "Economics and Finance",
+            "university": "Heriot-Watt University",
+            "country": "UK"
+        },
+        "working_experience": [
+            {
+                "position": "Executive Vice President Hydro Primary Metal",
+                "company": "Norsk Hydro ASA",
+                "country": "Norway",
+                "start_date": "2008-01-01",
+                "end_date": "2019-01-01"
+            },
+            {
+                "position": "Head of Staff Functions and Corporate Services",
+                "company": "StatoilHydro",
+                "country": "Norway",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Head of Integration",
+                "company": "StatoilHydro",
+                "country": "Norway",
+                "start_date": "2007-01-01",
+                "end_date": "2007-12-31"
+            },
+            {
+                "position": "Head of Leadership and Culture",
+                "company": "Norsk Hydro ASA",
+                "country": "Norway",
+                "start_date": "2005-01-01",
+                "end_date": "2005-12-31"
+            },
+            {
+                "position": "Head of the Silicon Division",
+                "company": "Elkem",
+                "country": "Norway",
+                "start_date": "2002-01-01",
+                "end_date": "2005-12-31"
+            },
+            {
+                "position": "Various senior positions",
+                "company": "Elkem",
+                "country": "Norway",
+                "start_date": "1986-01-01",
+                "end_date": "2005-12-31"
+            },
+            {
+                "position": "Consultant",
+                "company": "Arthur Andersen & Co.",
+                "country": "Norway",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "NO_NHY_AR_2022"
+    },
+    "sources": [
+        64,
+        65,
+        66,
+        67,
+        68,
+        70,
+        185,
+        63
+    ]
+}

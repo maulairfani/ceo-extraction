@@ -1,0 +1,59 @@
+{
+    "data": {
+        "name": "Charlie Nunn",
+        "position": "Group Chief Executive",
+        "start_tenure": "2021-08-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Global Chief Executive, Wealth and Personal Banking",
+                "company": "HSBC",
+                "country": null,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Group Head of Wealth Management and Digital",
+                "company": "HSBC",
+                "country": null,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Global Chief Operating Officer, Retail Banking and Wealth Management",
+                "company": "HSBC",
+                "country": null,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "GB_LLOY_AR_2023"
+    },
+    "sources": [
+        1,
+        5,
+        6,
+        137,
+        140,
+        78,
+        79
+    ]
+}

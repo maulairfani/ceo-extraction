@@ -1,0 +1,77 @@
+{
+    "data": {
+        "name": "Thomas Gottstein",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2020-02-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1965-11-07",
+        "nationality": "Swiss",
+        "education_bachelor": {
+            "major": "Business Administration",
+            "university": "University of Zurich",
+            "country": "Switzerland"
+        },
+        "education_master": {
+            "major": "Master of Business Administration",
+            "university": "University of Virginia Darden School of Business",
+            "country": "USA"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer",
+                "company": "Credit Suisse Group AG",
+                "country": "Switzerland",
+                "start_date": "2020-02-01",
+                "end_date": null
+            },
+            {
+                "position": "CEO, Asia Pacific",
+                "company": "Credit Suisse",
+                "country": "Singapore",
+                "start_date": "2015-01-01",
+                "end_date": "2021-01-31"
+            },
+            {
+                "position": "Regional CEO APAC",
+                "company": "Credit Suisse",
+                "country": "Singapore",
+                "start_date": "2014-01-01",
+                "end_date": "2015-01-01"
+            },
+            {
+                "position": "Head of Investment Banking Asia Pacific",
+                "company": "Credit Suisse",
+                "country": "Singapore",
+                "start_date": "2012-01-01",
+                "end_date": "2015-01-01"
+            },
+            {
+                "position": "Country CEO, Indonesia",
+                "company": "Credit Suisse",
+                "country": "Indonesia",
+                "start_date": "2010-01-01",
+                "end_date": "2015-01-01"
+            },
+            {
+                "position": "Various Roles",
+                "company": "Credit Suisse",
+                "country": "Switzerland",
+                "start_date": "1999-01-01",
+                "end_date": "2010-01-01"
+            }
+        ],
+        "company": "CH_CSGN_AR_2021"
+    },
+    "sources": [
+        232,
+        9,
+        250,
+        3
+    ]
+}

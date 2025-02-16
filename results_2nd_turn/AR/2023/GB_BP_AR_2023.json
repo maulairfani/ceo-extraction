@@ -1,0 +1,74 @@
+{
+    "data": {
+        "name": "Murray Auchincloss",
+        "position": "CEO",
+        "start_tenure": "2024-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Canadian",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Interim CEO",
+                "company": "BP plc",
+                "country": "UK",
+                "start_date": "2023-09-12",
+                "end_date": "2024-01-01"
+            },
+            {
+                "position": "Chief Financial Officer",
+                "company": "BP plc",
+                "country": "UK",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Chief of Staff to CEO",
+                "company": "BP plc",
+                "country": "UK",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Senior roles in finance and management",
+                "company": "BP plc",
+                "country": "UK",
+                "start_date": "1998-08-01",
+                "end_date": null
+            },
+            {
+                "position": "Joined Amoco",
+                "company": "Amoco",
+                "country": "USA",
+                "start_date": "1992-01-01",
+                "end_date": "1998-07-31"
+            }
+        ],
+        "company": "GB_BP_AR_2023"
+    },
+    "sources": [
+        129,
+        387,
+        6,
+        7,
+        8,
+        85,
+        87,
+        89
+    ]
+}

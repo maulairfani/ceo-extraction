@@ -1,0 +1,77 @@
+{
+    "data": {
+        "name": "Tufan Erginbilgic",
+        "position": "Chief Executive",
+        "start_tenure": "2023-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Turkish",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "CEO of BP's downstream business",
+                "company": "BP",
+                "country": null,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "NED (Non-Executive Director)",
+                "company": "Iveco Group NC",
+                "country": null,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Senior Adviser",
+                "company": "Global Infrastructure Partners (GIP)",
+                "country": null,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Partner",
+                "company": "GIP",
+                "country": null,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Various executive roles",
+                "company": "DCC plc",
+                "country": null,
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "NED",
+                "company": "Turkiye Petrol Rafinerileri A.S.",
+                "country": null,
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "GB_RR._AR_2022"
+    },
+    "sources": [
+        65,
+        1,
+        74,
+        64
+    ]
+}

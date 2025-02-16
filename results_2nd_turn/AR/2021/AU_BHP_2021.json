@@ -1,0 +1,78 @@
+{
+    "data": {
+        "name": "Mike Henry",
+        "position": "CEO",
+        "start_tenure": "2020-01-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "null",
+        "education_bachelor": {
+            "major": "Chemistry",
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer",
+                "company": "BHP",
+                "country": "Australia",
+                "start_date": "2020-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Chief Marketing Officer",
+                "company": "BHP",
+                "country": "Australia",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "President HSE, Marketing and Technology",
+                "company": "BHP",
+                "country": "Australia",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "President Coal",
+                "company": "BHP",
+                "country": "Australia",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "President Operations Minerals Australia",
+                "company": "BHP",
+                "country": "Australia",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Various roles in business development, marketing, and trading",
+                "company": "BHP",
+                "country": "The Hague",
+                "start_date": "2003-01-01",
+                "end_date": null
+            }
+        ],
+        "company": "AU_BHP_2021"
+    },
+    "sources": [
+        71,
+        7,
+        74,
+        75,
+        76
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "data": {
+        "name": "Bharat B. Masrani",
+        "position": "Group President and Chief Executive Officer",
+        "start_tenure": "2014-12-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": "1962-10-23",
+        "nationality": "Canadian",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": "University of Western Ontario",
+            "country": "Canada"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "University of Toronto - Rotman School of Management",
+            "country": "Canada"
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "Senior Executive Vice President and Chief Financial Officer",
+                "company": "The Toronto-Dominion Bank",
+                "country": "Canada",
+                "start_date": "2009-01-01",
+                "end_date": "2014-12-01"
+            },
+            {
+                "position": "Executive Vice President, Risk Management",
+                "company": "The Toronto-Dominion Bank",
+                "country": "Canada",
+                "start_date": "2009-01-01",
+                "end_date": "2009-12-31"
+            },
+            {
+                "position": "Senior Vice President, Commercial Banking",
+                "company": "The Toronto-Dominion Bank",
+                "country": "Canada",
+                "start_date": "2003-01-01",
+                "end_date": "2008-12-31"
+            }
+        ],
+        "company": "CA_TD_AR_2022"
+    },
+    "sources": [
+        2,
+        4,
+        5,
+        134,
+        6,
+        15,
+        18
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "data": {
+        "name": "Sergio P. Ermotti",
+        "position": "President of the Executive Board",
+        "start_tenure": "2023-04-05",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Swiss",
+        "education_bachelor": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "President of the Executive Board",
+                "company": "UBS AG",
+                "country": "Switzerland",
+                "start_date": "2023-04-05",
+                "end_date": null
+            },
+            {
+                "position": "Chief Operational Officer",
+                "company": "UBS AG",
+                "country": "Switzerland",
+                "start_date": "2011-01-01",
+                "end_date": "2020-01-01"
+            },
+            {
+                "position": "Chief Executive Officer",
+                "company": "UBS AG",
+                "country": "Switzerland",
+                "start_date": "2020-01-01",
+                "end_date": "2023-04-04"
+            }
+        ],
+        "company": "CH_UBSG_AR_2023"
+    },
+    "sources": [
+        1,
+        134,
+        275,
+        119,
+        121,
+        122
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "data": {
+        "directors": [
+            "Andreas Schierenbeck",
+            "Sascha Bibert",
+            "David Bryson",
+            "Niek den Hollander",
+            "Eckhardt R\u00fcmmler",
+            "Keith Martin"
+        ],
+        "commissioners": [
+            "Prof. Dr. Klaus-Dieter Maubach",
+            "Markus Rauramo",
+            "Harald Seegatz",
+            "Dr. Bernhard Reutersberg",
+            "Ingrid Marie \u00c5sander",
+            "Oliver Biniek",
+            "Prof. Dr. Werner Brinker",
+            "Jean-Fran\u00e7ois Cirelli",
+            "David Charles Davies",
+            "Dr. Bernhard G\u00fcnther",
+            "Dr. Marion Helmes",
+            "Barbara Jagodzinski",
+            "Andr\u00e9 Muilwijk",
+            "Rebecca Ranich",
+            "Immo Schlepper",
+            "Tiina Tuomela"
+        ],
+        "company": "DE_UNPRF_AR_2020"
+    },
+    "sources": [
+        81,
+        97,
+        246,
+        247
+    ]
+}

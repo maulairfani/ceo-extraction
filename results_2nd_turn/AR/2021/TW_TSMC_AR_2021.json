@@ -1,0 +1,70 @@
+{
+    "data": {
+        "name": "C.C. Wei",
+        "position": "Chief Executive Officer",
+        "start_tenure": "1998-02-01",
+        "end_tenure": null,
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "R.O.C.",
+        "education_bachelor": {
+            "major": "Electrical Engineering",
+            "university": "Yale University",
+            "country": "U.S."
+        },
+        "education_master": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "education_doctoral": {
+            "major": null,
+            "university": null,
+            "country": null
+        },
+        "working_experience": [
+            {
+                "position": "President and Co-Chief Executive Officer",
+                "company": "TSMC",
+                "country": "R.O.C.",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Executive Vice President and Co-Chief Operating Officer",
+                "company": "TSMC",
+                "country": "R.O.C.",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Senior Vice President, Business Development",
+                "company": "TSMC",
+                "country": "R.O.C.",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Senior Vice President, Mainstream Technology Business",
+                "company": "TSMC",
+                "country": "R.O.C.",
+                "start_date": null,
+                "end_date": null
+            },
+            {
+                "position": "Senior Vice President, Chartered Semiconductor Manufacturing Ltd.",
+                "company": "Chartered Semiconductor",
+                "country": "R.O.C.",
+                "start_date": null,
+                "end_date": null
+            }
+        ],
+        "company": "TW_TSMC_AR_2021"
+    },
+    "sources": [
+        16,
+        17,
+        6,
+        14
+    ]
+}

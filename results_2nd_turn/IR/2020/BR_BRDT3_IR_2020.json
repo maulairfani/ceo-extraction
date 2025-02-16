@@ -1,0 +1,61 @@
+{
+    "data": {
+        "name": "Roberto da Cunha Castello Branco",
+        "position": "Chief Executive Officer",
+        "start_tenure": "2020-07-01",
+        "end_tenure": "2021-03-19",
+        "gender": "Male",
+        "birthdate_or_age": null,
+        "nationality": "Brazilian",
+        "education_bachelor": {
+            "major": "Economics",
+            "university": "University of S\u00e3o Paulo",
+            "country": "Brazil"
+        },
+        "education_master": {
+            "major": "Business Administration",
+            "university": "Get\u00falio Vargas Foundation",
+            "country": "Brazil"
+        },
+        "education_doctoral": {
+            "major": "Economics",
+            "university": "University of S\u00e3o Paulo",
+            "country": "Brazil"
+        },
+        "working_experience": [
+            {
+                "position": "Chief Executive Officer",
+                "company": "Petr\u00f3leo Brasileiro S.A. - Petrobras",
+                "country": "Brazil",
+                "start_date": "2020-07-01",
+                "end_date": "2021-03-19"
+            },
+            {
+                "position": "Economics Professor",
+                "company": "University of S\u00e3o Paulo",
+                "country": "Brazil",
+                "start_date": "2001-01-01",
+                "end_date": null
+            },
+            {
+                "position": "Chief Economist",
+                "company": "Banco Central do Brasil",
+                "country": "Brazil",
+                "start_date": "2003-01-01",
+                "end_date": "2005-12-31"
+            }
+        ],
+        "company": "BR_BRDT3_IR_2020"
+    },
+    "sources": [
+        2,
+        197,
+        359,
+        10,
+        19,
+        372,
+        246,
+        26,
+        255
+    ]
+}
