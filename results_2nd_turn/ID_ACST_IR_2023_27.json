@@ -1,0 +1,112 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Mechanical Engineering",
+            "university": "National Technic Academy (Sekolah Tinggi Teknik Nasional)",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Manager",
+                "company": "PT United Tractors Tbk",
+                "country": "Indonesia",
+                "start_year": 1973,
+                "end_year": 1986
+            },
+            {
+                "position": "Finance Director",
+                "company": "PT Komatsu Indonesia",
+                "country": "Indonesia",
+                "start_year": 1986,
+                "end_year": 1991
+            },
+            {
+                "position": "Managing Director",
+                "company": "PT Tractor Nusantara",
+                "country": "Indonesia",
+                "start_year": 1991,
+                "end_year": 1993
+            },
+            {
+                "position": "Managing Director",
+                "company": "PT Swadaya Harapan Nusantara",
+                "country": "Indonesia",
+                "start_year": 1991,
+                "end_year": 1993
+            },
+            {
+                "position": "Director of Finance and Administration",
+                "company": "PT Astra Daihatsu Motor",
+                "country": "Indonesia",
+                "start_year": 1993,
+                "end_year": 2008
+            },
+            {
+                "position": "Independent Commissioner and Chairman of the Audit Committee",
+                "company": "PT Astra Sedaya Finance",
+                "country": "Indonesia",
+                "start_year": 2008,
+                "end_year": 2012
+            },
+            {
+                "position": "Independent Commissioner and Chairman of the Audit Committee",
+                "company": "PT Federal International Finance",
+                "country": "Indonesia",
+                "start_year": 2012,
+                "end_year": 2016
+            },
+            {
+                "position": "Member of the Audit Committee",
+                "company": "PT United Tractors Tbk",
+                "country": "Indonesia",
+                "start_year": 2012,
+                "end_year": 2017
+            },
+            {
+                "position": "Member of the Risk Monitoring Committee and Audit Committee",
+                "company": "PT Asuransi Astra Buana",
+                "country": "Indonesia",
+                "start_year": 2013,
+                "end_year": 2018
+            },
+            {
+                "position": "Independent Director",
+                "company": "ACSET",
+                "country": "Indonesia",
+                "start_year": 2015,
+                "end_year": 2017
+            },
+            {
+                "position": "Independent Commissioner",
+                "company": "PT Toyota Astra Financial Services",
+                "country": "Indonesia",
+                "start_year": 2016,
+                "end_year": 2020
+            },
+            {
+                "position": "Member of the Audit Committee",
+                "company": "ACSET",
+                "country": "Indonesia",
+                "start_year": 2019,
+                "end_year": 2023
+            }
+        ],
+        "name": "Wiltarsa Halim",
+        "position": "Independent Commissioner",
+        "company": "ID_ACST_IR_2023"
+    },
+    "sources": [
+        103,
+        81,
+        82,
+        83,
+        86,
+        87,
+        22
+    ]
+}

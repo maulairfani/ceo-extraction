@@ -1,0 +1,39 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Criminal Law",
+            "university": "Universitas Pasundan",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Tax Consultant Manager, Partner",
+                "company": null,
+                "country": "Indonesia",
+                "start_year": 2013,
+                "end_year": 2015
+            },
+            {
+                "position": "Attorney",
+                "company": "Cahya Irwandy Law Firm",
+                "country": "Indonesia",
+                "start_year": 2015,
+                "end_year": 2022
+            }
+        ],
+        "name": "Cahya Wulandari, S.H.",
+        "position": "Director",
+        "company": "ID_ACRO_IR_2023"
+    },
+    "sources": [
+        50,
+        53,
+        54,
+        55
+    ]
+}

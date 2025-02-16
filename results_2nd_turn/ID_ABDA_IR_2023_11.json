@@ -1,0 +1,81 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Accounting",
+            "university": "Tarumanagara University",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Independent Commissioner",
+                "company": "PT Asuransi Bina Dana Arta, Tbk",
+                "country": "Indonesia",
+                "start_year": 2022,
+                "end_year": null
+            },
+            {
+                "position": "Member of Risk Monitoring Committee",
+                "company": "PT Maybank Indonesia Finance",
+                "country": "Indonesia",
+                "start_year": 2021,
+                "end_year": null
+            },
+            {
+                "position": "Member of Audit Committee and Risk Monitoring Committee",
+                "company": "PT Caterpillar Finance Indonesia",
+                "country": "Indonesia",
+                "start_year": 2021,
+                "end_year": null
+            },
+            {
+                "position": "Independent Commissioner & Chairman Audit Committee",
+                "company": "PT Hewlett Packard Finance Indonesia",
+                "country": "Indonesia",
+                "start_year": 2016,
+                "end_year": 2022
+            },
+            {
+                "position": "Member of Risk Monitoring Committee",
+                "company": "Lembaga Pembiayaan Ekspor Indonesia",
+                "country": "Indonesia",
+                "start_year": 2020,
+                "end_year": 2021
+            },
+            {
+                "position": "Member of Audit Committee",
+                "company": "PT Maybank Indonesia Finance",
+                "country": "Indonesia",
+                "start_year": 2015,
+                "end_year": 2021
+            },
+            {
+                "position": "Director and Chief Financial Officer",
+                "company": "PT Rio Tinto Indonesia",
+                "country": "Indonesia",
+                "start_year": 2005,
+                "end_year": 2019
+            },
+            {
+                "position": "Associate to Senior Manager",
+                "company": "PwC Indonesia and the Netherlands",
+                "country": "Indonesia/Netherlands",
+                "start_year": 1995,
+                "end_year": 2005
+            }
+        ],
+        "name": "Herwan Ng",
+        "position": "Independent Commissioner",
+        "company": "ID_ABDA_IR_2023"
+    },
+    "sources": [
+        169,
+        178,
+        179,
+        190
+    ]
+}

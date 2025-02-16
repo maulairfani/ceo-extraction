@@ -1,0 +1,107 @@
+{
+    "data": {
+        "nationality": "Indian",
+        "edu_s1": {
+            "major": "Economics (Hons.)",
+            "university": "SRCC, Delhi University",
+            "country": "India"
+        },
+        "edu_s2": {
+            "major": "Strategy, Marketing",
+            "university": "Indian Institute of Management, Calcutta",
+            "country": "India"
+        },
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "President Commissioner",
+                "company": "PT Asuransi Bina Dana Arta, Tbk",
+                "country": "Indonesia",
+                "start_year": 2022,
+                "end_year": null
+            },
+            {
+                "position": "Director",
+                "company": "Oona Insurance Pte. Ltd.",
+                "country": "Singapore",
+                "start_year": 2022,
+                "end_year": null
+            },
+            {
+                "position": "Group Chief Officer - New Business Models",
+                "company": "FWD Insurance",
+                "country": "Singapore",
+                "start_year": 2018,
+                "end_year": 2020
+            },
+            {
+                "position": "CEO",
+                "company": "FWD Singapore",
+                "country": "Singapore",
+                "start_year": 2015,
+                "end_year": 2020
+            },
+            {
+                "position": "CEO",
+                "company": "Prudential Poland",
+                "country": "Poland",
+                "start_year": 2012,
+                "end_year": 2015
+            },
+            {
+                "position": "Asia Regional Director, Insurance Management",
+                "company": "Prudential",
+                "country": "Malaysia",
+                "start_year": 2009,
+                "end_year": 2012
+            },
+            {
+                "position": "Chief Officer, General Insurance & Partnership Distribution",
+                "company": "Prudential Assurance Malaysia Berhad",
+                "country": "Malaysia",
+                "start_year": 2008,
+                "end_year": 2009
+            },
+            {
+                "position": "Chief Officer - Private & Institutional Asset Management",
+                "company": "Eastspring Investments",
+                "country": "Malaysia",
+                "start_year": 2006,
+                "end_year": 2008
+            },
+            {
+                "position": "Director - Marketing, Brand & Communication",
+                "company": "Prudential Assurance Malaysia Berhad",
+                "country": "Malaysia",
+                "start_year": 2004,
+                "end_year": 2006
+            },
+            {
+                "position": "Head - Marketing",
+                "company": "ICICI Prudential Life Insurance",
+                "country": "India",
+                "start_year": 2000,
+                "end_year": 2004
+            },
+            {
+                "position": "Brand Manager",
+                "company": "Glaxo SmithKline",
+                "country": "India",
+                "start_year": 1998,
+                "end_year": 2000
+            }
+        ],
+        "name": "Abhishek Bhatia",
+        "position": "President Commissioner",
+        "company": "ID_ABDA_IR_2023"
+    },
+    "sources": [
+        7,
+        167,
+        169,
+        170,
+        190
+    ]
+}

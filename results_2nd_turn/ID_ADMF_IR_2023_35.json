@@ -1,0 +1,74 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Agribusiness",
+            "university": "Bogor Agricultural Institute (IPB)",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "President Commissioner",
+                "company": "PT Jaminan Kredit Indonesia",
+                "country": "Indonesia",
+                "start_year": 2023,
+                "end_year": null
+            },
+            {
+                "position": "President Commissioner",
+                "company": "PT Perusahaan Pengelola Aset",
+                "country": "Indonesia",
+                "start_year": 2020,
+                "end_year": null
+            },
+            {
+                "position": "President Commissioner",
+                "company": "PT Danareksa",
+                "country": "Indonesia",
+                "start_year": 2019,
+                "end_year": 2020
+            },
+            {
+                "position": "Independent Commissioner",
+                "company": "Company (ID_ADMF_IR_2023)",
+                "country": "Indonesia",
+                "start_year": 2016,
+                "end_year": null
+            },
+            {
+                "position": "Independent Commissioner",
+                "company": "PT Mahaka Radio Integra Tbk",
+                "country": "Indonesia",
+                "start_year": 2017,
+                "end_year": 2019
+            },
+            {
+                "position": "Independent Commissioner, Chair of the Company's Audit Committee",
+                "company": "Company (ID_ADMF_IR_2023)",
+                "country": "Indonesia",
+                "start_year": 2016,
+                "end_year": 2021
+            },
+            {
+                "position": "Independent Commissioner of PT Brilian Indah Gemilang",
+                "company": "PT Brilian Indah Gemilang",
+                "country": "Indonesia",
+                "start_year": 2019,
+                "end_year": null
+            }
+        ],
+        "name": "Krisna Wijaya",
+        "position": "Independent Commissioner",
+        "company": "ID_ADMF_IR_2023"
+    },
+    "sources": [
+        49,
+        101,
+        95,
+        87
+    ]
+}

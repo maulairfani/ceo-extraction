@@ -1,0 +1,68 @@
+{
+    "data": {
+        "nationality": "South Korean",
+        "edu_s1": {
+            "major": "Economics",
+            "university": "Seoul National University",
+            "country": "South Korea"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Deputy General Manager",
+                "company": "IBK Korea",
+                "country": "South Korea",
+                "start_year": 2006,
+                "end_year": 2010
+            },
+            {
+                "position": "Chief Deputy General Manager",
+                "company": "IBK London Branch",
+                "country": "United Kingdom",
+                "start_year": 2010,
+                "end_year": 2013
+            },
+            {
+                "position": "Head of Global Expansion Team",
+                "company": "IBK Korea",
+                "country": "South Korea",
+                "start_year": 2013,
+                "end_year": 2017
+            },
+            {
+                "position": "Head of Indonesia Bank M&A TFT",
+                "company": "IBK Korea",
+                "country": "South Korea",
+                "start_year": 2017,
+                "end_year": 2019
+            },
+            {
+                "position": "Head of Global Strategy Team",
+                "company": "IBK Korea",
+                "country": "South Korea",
+                "start_year": 2019,
+                "end_year": 2021
+            },
+            {
+                "position": "Credit Director",
+                "company": "PT Bank IBK Indonesia Tbk",
+                "country": "Indonesia",
+                "start_year": 2021,
+                "end_year": null
+            }
+        ],
+        "name": "Lee Dae Sung",
+        "position": "Director",
+        "company": "ID_AGRS_IR_2023"
+    },
+    "sources": [
+        64,
+        197,
+        140,
+        59,
+        60
+    ]
+}

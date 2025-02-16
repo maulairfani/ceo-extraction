@@ -1,0 +1,54 @@
+{
+    "data": {
+        "nationality": "Japanese",
+        "edu_s1": {
+            "major": "Bachelor of Economy",
+            "university": "University of Tokyo",
+            "country": "Japan"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "President Commissioner of the Company",
+                "company": "PT Adira Dinamika Multi Finance Tbk",
+                "country": "Indonesia",
+                "start_year": 2023,
+                "end_year": null
+            },
+            {
+                "position": "President Director",
+                "company": "PT Bank Danamon Indonesia Tbk",
+                "country": "Indonesia",
+                "start_year": 2023,
+                "end_year": null
+            },
+            {
+                "position": "Regional Executive",
+                "company": "MUFG Bank, Ltd",
+                "country": "Singapore",
+                "start_year": 2022,
+                "end_year": 2023
+            },
+            {
+                "position": "Vice Chairman, Non-Executive Director & Member of the Nomination and Remuneration Committee",
+                "company": "Bank of Ayudhya PCL (Krungsri)",
+                "country": "Thailand",
+                "start_year": 2022,
+                "end_year": 2023
+            }
+        ],
+        "name": "Daisuke Ejima",
+        "position": "President Commissioner",
+        "company": "ID_ADMF_IR_2023"
+    },
+    "sources": [
+        40,
+        107,
+        142,
+        47,
+        86
+    ]
+}

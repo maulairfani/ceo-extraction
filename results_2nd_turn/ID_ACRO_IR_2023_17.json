@@ -1,0 +1,53 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Administration",
+            "university": "Universitas Subang",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Purchasing Supervisor",
+                "company": "PT Dong Joe Indonesia",
+                "country": "Indonesia",
+                "start_year": 2000,
+                "end_year": 2008
+            },
+            {
+                "position": "Purchasing Manager",
+                "company": "PT Alaska Inti Cemerlang",
+                "country": "Indonesia",
+                "start_year": 2009,
+                "end_year": 2013
+            },
+            {
+                "position": "Purchasing Manager",
+                "company": "PT Shin Woon Chemical Co. Ltd",
+                "country": "Indonesia",
+                "start_year": 2013,
+                "end_year": 2014
+            },
+            {
+                "position": "Marketing Manager",
+                "company": "PT Samcro Hyosung Adilestari Tbk",
+                "country": "Indonesia",
+                "start_year": 2014,
+                "end_year": 2022
+            }
+        ],
+        "name": "Suwardi",
+        "position": "Director",
+        "company": "ID_ACRO_IR_2023"
+    },
+    "sources": [
+        49,
+        53,
+        54,
+        55
+    ]
+}

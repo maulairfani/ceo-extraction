@@ -1,0 +1,54 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "International Relations",
+            "university": "University of Indonesia, Depok",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Head of Bank Operations",
+                "company": "Bank of America NA",
+                "country": "Indonesia",
+                "start_year": 1997,
+                "end_year": 2003
+            },
+            {
+                "position": "Compliance Director",
+                "company": "Bank of America NA Jakarta",
+                "country": "Indonesia",
+                "start_year": 2003,
+                "end_year": 2009
+            },
+            {
+                "position": "Managing Director / Compliance Director",
+                "company": "Bank MUFG Jakarta",
+                "country": "Indonesia",
+                "start_year": 2010,
+                "end_year": 2021
+            },
+            {
+                "position": "Audit Committee and Risk Monitoring Committee Member",
+                "company": "PT Bank IBK Indonesia",
+                "country": "Indonesia",
+                "start_year": 2021,
+                "end_year": 2022
+            }
+        ],
+        "name": "Damal Bayu Utama",
+        "position": "Independent Commissioner",
+        "company": "ID_AGRS_IR_2023"
+    },
+    "sources": [
+        66,
+        69,
+        200,
+        169,
+        176
+    ]
+}

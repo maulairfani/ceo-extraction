@@ -1,0 +1,74 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Accounting Economics",
+            "university": "Gadjah Mada University",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Head of Sub-Branch",
+                "company": "PT Bank Central Asia Tbk",
+                "country": "Indonesia",
+                "start_year": 2001,
+                "end_year": 2001
+            },
+            {
+                "position": "Deputy Head of Main Branch Office",
+                "company": "PT Bank Central Asia Tbk",
+                "country": "Indonesia",
+                "start_year": 2002,
+                "end_year": 2005
+            },
+            {
+                "position": "Head of Operations",
+                "company": "BCA Sudirman Jakarta Corporate Branch",
+                "country": "Indonesia",
+                "start_year": 2005,
+                "end_year": 2007
+            },
+            {
+                "position": "Personal Banking Advisor",
+                "company": "PT Bank Central Asia Tbk",
+                "country": "Indonesia",
+                "start_year": 2007,
+                "end_year": 2009
+            },
+            {
+                "position": "Director of Operations",
+                "company": "PT Dyviacom Intrabumi, Tbk",
+                "country": "Indonesia",
+                "start_year": 2009,
+                "end_year": 2012
+            },
+            {
+                "position": "Head of Business and Product Development Division",
+                "company": "PT Bank Agris Tbk",
+                "country": "Indonesia",
+                "start_year": 2013,
+                "end_year": 2013
+            },
+            {
+                "position": "Director of Business Development and Operations",
+                "company": "PT Bank Agris Tbk",
+                "country": "Indonesia",
+                "start_year": 2013,
+                "end_year": 2019
+            }
+        ],
+        "name": "Maria Cortilia Vera Afianti",
+        "position": "Director",
+        "company": "ID_AGRS_IR_2023"
+    },
+    "sources": [
+        197,
+        77,
+        61,
+        176
+    ]
+}

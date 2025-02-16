@@ -1,0 +1,89 @@
+{
+    "data": {
+        "nationality": "Unknown",
+        "edu_s1": {
+            "major": "Mechanical Engineering",
+            "university": "University of Missouri at Rolla (Missouri School of Mines)",
+            "country": "USA"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Independent Commissioner",
+                "company": "PT Asuransi Bina Dana Arta Tbk",
+                "country": "Indonesia",
+                "start_year": 2017,
+                "end_year": null
+            },
+            {
+                "position": "Board Member",
+                "company": "Mapfre Insular Philippines",
+                "country": null,
+                "start_year": 2018,
+                "end_year": null
+            },
+            {
+                "position": "Consultant",
+                "company": "Cement, Infrastructure, Oil & Gas Ind.",
+                "country": null,
+                "start_year": 2006,
+                "end_year": null
+            },
+            {
+                "position": "Director & Consultant",
+                "company": "Red White Communications (Founder & Advising Partner)",
+                "country": null,
+                "start_year": 2007,
+                "end_year": 2013
+            },
+            {
+                "position": "Board Member and Shareholder",
+                "company": "Silso Corporation (Oil & Gas)",
+                "country": null,
+                "start_year": 2008,
+                "end_year": 2015
+            },
+            {
+                "position": "Managing Director / Consultant",
+                "company": "The Jakarta Consulting Group JAG",
+                "country": null,
+                "start_year": 2012,
+                "end_year": null
+            },
+            {
+                "position": "International Expansion Team Leader",
+                "company": "PT Semen Indonesia (Persero) Tbk.",
+                "country": null,
+                "start_year": 2012,
+                "end_year": 2015
+            },
+            {
+                "position": "President Director",
+                "company": "PT Cemex Indonesia",
+                "country": null,
+                "start_year": 1999,
+                "end_year": 2017
+            },
+            {
+                "position": "Vice President Commercial",
+                "company": "Cemex Venezuela",
+                "country": null,
+                "start_year": 1994,
+                "end_year": 1999
+            }
+        ],
+        "name": "Francisco Noriega Malave",
+        "position": "Independent Commissioner",
+        "company": "ID_ABDA_IR_2023"
+    },
+    "sources": [
+        168,
+        172,
+        179,
+        182,
+        190
+    ]
+}

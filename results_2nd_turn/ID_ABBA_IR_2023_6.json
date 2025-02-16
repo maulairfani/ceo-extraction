@@ -1,0 +1,48 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": null,
+            "university": "Loyola Marymount University",
+            "country": "United States"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "President Commissioner",
+                "company": "PT Mahaka Media Tbk",
+                "country": "Indonesia",
+                "start_year": 2022,
+                "end_year": null
+            },
+            {
+                "position": "Investment Analyst",
+                "company": "PT Northstar Group",
+                "country": "Indonesia",
+                "start_year": null,
+                "end_year": null
+            },
+            {
+                "position": "Board Member",
+                "company": "PT Persis Solo Saestu",
+                "country": "Indonesia",
+                "start_year": null,
+                "end_year": null
+            }
+        ],
+        "name": "Mahendra Agakhan T",
+        "position": "Commissioner",
+        "company": "ID_ABBA_IR_2023"
+    },
+    "sources": [
+        34,
+        35,
+        38,
+        39,
+        51,
+        53
+    ]
+}

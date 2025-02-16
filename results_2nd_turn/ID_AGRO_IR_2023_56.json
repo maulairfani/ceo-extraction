@@ -1,0 +1,47 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Master of Agribusiness",
+            "university": "Universitas Gadjah Mada",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "President Director",
+                "company": "PT Bank Raya Indonesia Tbk",
+                "country": "Indonesia",
+                "start_year": 2022,
+                "end_year": null
+            },
+            {
+                "position": "Regional CEO",
+                "company": "PT Bank Rakyat Indonesia (Persero) Tbk",
+                "country": "Indonesia",
+                "start_year": 2021,
+                "end_year": 2022
+            },
+            {
+                "position": "Regional CEO Denpasar",
+                "company": "PT Bank Rakyat Indonesia (Persero) Tbk",
+                "country": "Indonesia",
+                "start_year": 2019,
+                "end_year": 2021
+            }
+        ],
+        "name": "Ida Bagus Ketut Subagia",
+        "position": "President Director",
+        "company": "ID_AGRO_IR_2023"
+    },
+    "sources": [
+        321,
+        353,
+        395,
+        119,
+        122
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Business Administration",
+            "university": "Bloomsburg University of Pennsylvania",
+            "country": "USA"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "VP Head of Middle Office Trade Service",
+                "company": "Bank HSBC",
+                "country": "Indonesia",
+                "start_year": 2005,
+                "end_year": 2007
+            },
+            {
+                "position": "SVP Head of Transaction Banking Product Management & Trade FI",
+                "company": "PT Bank Danamon Indonesia Tbk",
+                "country": "Indonesia",
+                "start_year": 2007,
+                "end_year": 2009
+            },
+            {
+                "position": "SVP Head of Trade",
+                "company": "PT Bank Barclays Indonesia",
+                "country": "Indonesia",
+                "start_year": 2009,
+                "end_year": 2010
+            },
+            {
+                "position": "SVP Head of Global Transaction Banking",
+                "company": "PT Bank Ekonomi Raharja (HSBC Group)",
+                "country": "Indonesia",
+                "start_year": 2010,
+                "end_year": 2013
+            },
+            {
+                "position": "SVP Head of Business Banking",
+                "company": "PT Bank Ekonomi Raharja (HSBC Group)",
+                "country": "Indonesia",
+                "start_year": 2013,
+                "end_year": 2017
+            },
+            {
+                "position": "SVP Head of Business Banking",
+                "company": "PT Bank HSBC Indonesia",
+                "country": "Indonesia",
+                "start_year": 2017,
+                "end_year": 2021
+            }
+        ],
+        "name": "Edwin Rudianto",
+        "position": "Director",
+        "company": "ID_AGRS_IR_2023"
+    },
+    "sources": [
+        35,
+        197,
+        141,
+        176,
+        58,
+        62
+    ]
+}

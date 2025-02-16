@@ -1,0 +1,75 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Business/Management",
+            "university": "Indonesian Business Institute",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "President Commissioner",
+                "company": "PT Mandala Multifinance Tbk",
+                "country": "Indonesia",
+                "start_year": 2024,
+                "end_year": null
+            },
+            {
+                "position": "Director of Corporate Finance",
+                "company": "PT Adira Dinamika Multi Finance Tbk",
+                "country": "Indonesia",
+                "start_year": 2022,
+                "end_year": null
+            },
+            {
+                "position": "Director of Sales, Service & Distribution",
+                "company": "PT Adira Dinamika Multi Finance Tbk",
+                "country": "Indonesia",
+                "start_year": 2018,
+                "end_year": null
+            },
+            {
+                "position": "Deputy Director of Sales, Service & Distribution",
+                "company": "PT Adira Dinamika Multi Finance Tbk",
+                "country": "Indonesia",
+                "start_year": 2017,
+                "end_year": 2018
+            },
+            {
+                "position": "Deputy Director of Retail Car Financing",
+                "company": "PT Adira Dinamika Multi Finance Tbk",
+                "country": "Indonesia",
+                "start_year": 2010,
+                "end_year": 2017
+            },
+            {
+                "position": "Head of Retail Car Financing",
+                "company": "PT Adira Dinamika Multi Finance Tbk",
+                "country": "Indonesia",
+                "start_year": 2008,
+                "end_year": 2010
+            },
+            {
+                "position": "Regional Head of East Java",
+                "company": "PT Adira Dinamika Multi Finance Tbk",
+                "country": "Indonesia",
+                "start_year": 2004,
+                "end_year": 2005
+            }
+        ],
+        "name": "Niko Kurniawan Bonggowarsito",
+        "position": "Director",
+        "company": "ID_ADMF_IR_2023"
+    },
+    "sources": [
+        105,
+        110,
+        112,
+        113,
+        115
+    ]
+}

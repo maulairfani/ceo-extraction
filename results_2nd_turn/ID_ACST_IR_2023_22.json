@@ -1,0 +1,62 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Engineering",
+            "university": "Swiss German University",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "General Manager of Supply Chain & Business Development",
+                "company": "PT Komatsu Remanufacturing Asia",
+                "country": "Indonesia",
+                "start_year": 2009,
+                "end_year": 2011
+            },
+            {
+                "position": "Operations Director",
+                "company": "PT Universal Tekno Reksajaya",
+                "country": "Indonesia",
+                "start_year": 2011,
+                "end_year": 2012
+            },
+            {
+                "position": "Operations Director",
+                "company": "PT Komatsu Remanufacturing Asia",
+                "country": "Indonesia",
+                "start_year": 2012,
+                "end_year": 2019
+            },
+            {
+                "position": "President Director",
+                "company": "PT United Tractors Pandu Engineering",
+                "country": "Indonesia",
+                "start_year": 2019,
+                "end_year": 2022
+            },
+            {
+                "position": "Director",
+                "company": "PT Acset Indonusa Tbk (ACSET)",
+                "country": "Indonesia",
+                "start_year": 2022,
+                "end_year": null
+            }
+        ],
+        "name": "David Widjaja",
+        "position": "Director",
+        "company": "ID_ACST_IR_2023"
+    },
+    "sources": [
+        103,
+        82,
+        83,
+        85,
+        86,
+        87
+    ]
+}

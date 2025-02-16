@@ -1,0 +1,53 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Economics",
+            "university": "Trisakti University",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Finance",
+                "company": "PT Sehat Bugar Langsing",
+                "country": "Indonesia",
+                "start_year": 2020,
+                "end_year": 2023
+            },
+            {
+                "position": "Finance",
+                "company": "PT Flavia Lanini Indonesia",
+                "country": "Indonesia",
+                "start_year": 2021,
+                "end_year": 2022
+            },
+            {
+                "position": "Marketing",
+                "company": "PT Nuansa Sapta Samudera",
+                "country": "Indonesia",
+                "start_year": 2018,
+                "end_year": 2018
+            },
+            {
+                "position": "Project Officer",
+                "company": "PT Kreatif Marketing Indonesia",
+                "country": "Indonesia",
+                "start_year": 2017,
+                "end_year": 2018
+            }
+        ],
+        "name": "Ahmad Ali Fahmi",
+        "position": "Independent Commissioner",
+        "company": "ID_AIMS_IR_2023"
+    },
+    "sources": [
+        42,
+        116,
+        101,
+        118
+    ]
+}

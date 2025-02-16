@@ -1,0 +1,77 @@
+{
+    "data": {
+        "nationality": "Thai",
+        "edu_s1": {
+            "major": "Accounting and Finance",
+            "university": "University of Alberta",
+            "country": "Canada"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Commissioner",
+                "company": "PT Adira Dinamika Multi Finance Tbk",
+                "country": "Thailand",
+                "start_year": 2020,
+                "end_year": null
+            },
+            {
+                "position": "Head of Krungsri Auto Group",
+                "company": "Bank of Ayudhya PCL",
+                "country": "Thailand",
+                "start_year": 2022,
+                "end_year": null
+            },
+            {
+                "position": "Executive Vice President",
+                "company": "Krungsri Auto Group, Bank of Ayudhya PCL",
+                "country": "Thailand",
+                "start_year": 2021,
+                "end_year": 2021
+            },
+            {
+                "position": "Head of Krungsri Auto Finance and Strategy Division",
+                "company": "Krungsri Auto Group, Bank of Ayudhya PCL",
+                "country": "Thailand",
+                "start_year": 2017,
+                "end_year": 2021
+            },
+            {
+                "position": "Executive Vice President, Head of Krungsri Auto Strategic Division",
+                "company": "Krungsri Auto Group, Bank of Ayudhya PCL",
+                "country": "Thailand",
+                "start_year": 2015,
+                "end_year": 2016
+            },
+            {
+                "position": "Acting Head of Krungsri Auto Finance and Accounting Division",
+                "company": "Krungsri Auto Group, Bank of Ayudhya PCL",
+                "country": "Thailand",
+                "start_year": 2015,
+                "end_year": 2015
+            },
+            {
+                "position": "Head of Krungsri Auto Finance and Accounting Division",
+                "company": "Krungsri Auto Group, Bank of Ayudhya PCL",
+                "country": "Thailand",
+                "start_year": null,
+                "end_year": null
+            }
+        ],
+        "name": "Congsin Congcar",
+        "position": "Commissioner",
+        "company": "ID_ADMF_IR_2023"
+    },
+    "sources": [
+        129,
+        110,
+        113,
+        119,
+        88,
+        90,
+        187
+    ]
+}

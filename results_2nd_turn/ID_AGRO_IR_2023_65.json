@@ -1,0 +1,53 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Accounting",
+            "university": "Universitas Indonesia",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Independent Commissioner",
+                "company": "PT Bank Raya Indonesia Tbk",
+                "country": "Indonesia",
+                "start_year": 2023,
+                "end_year": null
+            },
+            {
+                "position": "Head of Compliance Division",
+                "company": "BRI (Bank Rakyat Indonesia)",
+                "country": "Indonesia",
+                "start_year": 2019,
+                "end_year": 2020
+            },
+            {
+                "position": "Director of Finance",
+                "company": "PT Bahana Artha Ventura",
+                "country": "Indonesia",
+                "start_year": 2018,
+                "end_year": 2018
+            },
+            {
+                "position": "Inspector",
+                "company": "BRI Manado Inspection Office",
+                "country": "Indonesia",
+                "start_year": 2017,
+                "end_year": 2018
+            }
+        ],
+        "name": "Johanes Kuntjoro Adisardjono",
+        "position": "Independent Commissioner",
+        "company": "ID_AGRO_IR_2023"
+    },
+    "sources": [
+        112,
+        114,
+        115,
+        111
+    ]
+}

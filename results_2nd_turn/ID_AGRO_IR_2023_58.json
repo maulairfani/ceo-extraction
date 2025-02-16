@@ -1,0 +1,46 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Electrical Engineering",
+            "university": "Institut Teknologi Bandung",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Director of Digital & Operations",
+                "company": "PT Bank Raya Indonesia Tbk",
+                "country": "Indonesia",
+                "start_year": 2022,
+                "end_year": null
+            },
+            {
+                "position": "Director of Digital Business",
+                "company": "PT Bank Raya Indonesia Tbk",
+                "country": "Indonesia",
+                "start_year": 2021,
+                "end_year": 2022
+            },
+            {
+                "position": "Senior Vice President of Innovation",
+                "company": "PT Pegadaian (Persero)",
+                "country": "Indonesia",
+                "start_year": null,
+                "end_year": null
+            }
+        ],
+        "name": "Bhimo Wikan Hantoro",
+        "position": "Director of Digital and Operations",
+        "company": "ID_AGRO_IR_2023"
+    },
+    "sources": [
+        120,
+        122,
+        118,
+        119
+    ]
+}

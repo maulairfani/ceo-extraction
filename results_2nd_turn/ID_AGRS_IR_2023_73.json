@@ -1,0 +1,88 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Ilmu Ekonomi (Economics)",
+            "university": "Universitas Gadjah Mada",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Deputy Director of Banking Supervision Department 3",
+                "company": "Bank Indonesia",
+                "country": "Indonesia",
+                "start_year": 2006,
+                "end_year": 2008
+            },
+            {
+                "position": "Director of Banking Licensing and Information Department",
+                "company": "Bank Indonesia",
+                "country": "Indonesia",
+                "start_year": 2008,
+                "end_year": 2011
+            },
+            {
+                "position": "Head of Semarang Branch",
+                "company": "Bank Indonesia",
+                "country": "Indonesia",
+                "start_year": 2011,
+                "end_year": 2013
+            },
+            {
+                "position": "Head of Banking Research and Development Department",
+                "company": "Otoritas Jasa Keuangan",
+                "country": "Indonesia",
+                "start_year": 2013,
+                "end_year": 2013
+            },
+            {
+                "position": "Head of Banking Licensing and Information Section",
+                "company": "Otoritas Jasa Keuangan",
+                "country": "Indonesia",
+                "start_year": 2013,
+                "end_year": 2014
+            },
+            {
+                "position": "Advisor to the Panelist Group",
+                "company": "Otoritas Jasa Keuangan",
+                "country": "Indonesia",
+                "start_year": 2014,
+                "end_year": 2015
+            },
+            {
+                "position": "Deputy Commissioner for Strategic Management 1B",
+                "company": "Otoritas Jasa Keuangan",
+                "country": "Indonesia",
+                "start_year": 2015,
+                "end_year": 2015
+            },
+            {
+                "position": "Deputy Commissioner for Strategic Management 2B",
+                "company": "Otoritas Jasa Keuangan",
+                "country": "Indonesia",
+                "start_year": 2015,
+                "end_year": 2015
+            },
+            {
+                "position": "Commissioner",
+                "company": "PT Bank Negara Indonesia Tbk",
+                "country": "Indonesia",
+                "start_year": 2016,
+                "end_year": 2021
+            }
+        ],
+        "name": "Joni Swastanto",
+        "position": "Independent Commissioner",
+        "company": "ID_AGRS_IR_2023"
+    },
+    "sources": [
+        176,
+        62,
+        197,
+        70
+    ]
+}

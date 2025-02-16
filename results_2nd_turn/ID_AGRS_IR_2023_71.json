@@ -1,0 +1,89 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Agricultural Socio-Economics",
+            "university": "Bogor Agricultural Institute",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Vice President, Group Head of System, Procedures, and Compliance (SPK) of Banking and Management of the International Bank Restructuring Agency (IBRA)",
+                "company": null,
+                "country": "Indonesia",
+                "start_year": 2000,
+                "end_year": 2004
+            },
+            {
+                "position": "Vice President, Division Head of Risk Management of Stock and Credit",
+                "company": "PT Perusahaan Pengelola Aset (PPA) Persero",
+                "country": "Indonesia",
+                "start_year": 2004,
+                "end_year": 2005
+            },
+            {
+                "position": "Director of Finance and Planning",
+                "company": "PT Bank BTPN",
+                "country": "Indonesia",
+                "start_year": 2005,
+                "end_year": 2006
+            },
+            {
+                "position": "Director of Compliance and Risk Management",
+                "company": "PT Bank BTPN Tbk",
+                "country": "Indonesia",
+                "start_year": 2006,
+                "end_year": 2008
+            },
+            {
+                "position": "Director of Risk Management",
+                "company": "PT Bank BTPN Tbk",
+                "country": "Indonesia",
+                "start_year": 2008,
+                "end_year": 2010
+            },
+            {
+                "position": "Director of Standardization of Banking Professional Certification Institution",
+                "company": "LSPP",
+                "country": "Indonesia",
+                "start_year": 2011,
+                "end_year": 2013
+            },
+            {
+                "position": "Director of Compliance and Risk Management",
+                "company": "PT Bank Banten Indonesia Tbk (formerly Bank Pundi)",
+                "country": "Indonesia",
+                "start_year": 2013,
+                "end_year": 2016
+            },
+            {
+                "position": "Director of Compliance and Risk Management",
+                "company": "PT BPD Banten Tbk",
+                "country": "Indonesia",
+                "start_year": 2016,
+                "end_year": 2017
+            },
+            {
+                "position": "Independent Commissioner",
+                "company": "PT Bank IBK Indonesia Tbk",
+                "country": "Indonesia",
+                "start_year": 2019,
+                "end_year": 2022
+            }
+        ],
+        "name": "Taufik Hakim",
+        "position": "President Commissioner (Independent)",
+        "company": "ID_AGRS_IR_2023"
+    },
+    "sources": [
+        67,
+        197,
+        176,
+        23,
+        59
+    ]
+}

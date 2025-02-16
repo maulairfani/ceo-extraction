@@ -1,0 +1,41 @@
+{
+    "data": {
+        "bod": [
+            {
+                "name": "Tubagus Farash Akbar F",
+                "position": "President Director"
+            },
+            {
+                "name": "Vincentius Dicky Haryanto",
+                "position": "Director"
+            },
+            {
+                "name": "Ishak Reza",
+                "position": "Director"
+            }
+        ],
+        "boc": [
+            {
+                "name": "Aldo Rambie",
+                "position": "Independent Commissioner"
+            },
+            {
+                "name": "Rudy Setia Laksmana",
+                "position": "Commissioner"
+            },
+            {
+                "name": "Mahendra Agakhan T",
+                "position": "Commissioner"
+            }
+        ],
+        "company": "ID_ABBA_IR_2023"
+    },
+    "sources": [
+        128,
+        33,
+        38,
+        136,
+        49,
+        51
+    ]
+}

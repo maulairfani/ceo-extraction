@@ -1,0 +1,67 @@
+{
+    "data": {
+        "bod": [
+            {
+                "name": "I Dewa Made Susila",
+                "position": "President Director"
+            },
+            {
+                "name": "Swandajani Gunadi",
+                "position": "Director"
+            },
+            {
+                "name": "Niko Kurniawan Bonggowarsito",
+                "position": "Director"
+            },
+            {
+                "name": "Harry Latif",
+                "position": "Director"
+            },
+            {
+                "name": "Jin Yoshida",
+                "position": "Director"
+            },
+            {
+                "name": "Denny Riza Farib",
+                "position": "Director"
+            }
+        ],
+        "boc": [
+            {
+                "name": "Daisuke Ejima",
+                "position": "President Commissioner"
+            },
+            {
+                "name": "Krisna Wijaya",
+                "position": "Independent Commissioner"
+            },
+            {
+                "name": "Manggi Taruna Habir",
+                "position": "Independent Commissioner"
+            },
+            {
+                "name": "Eng Heng Nee Philip",
+                "position": "Commissioner"
+            },
+            {
+                "name": "Congsin Congcar",
+                "position": "Commissioner"
+            },
+            {
+                "name": "Hafid Hadeli",
+                "position": "Commissioner"
+            }
+        ],
+        "company": "ID_ADMF_IR_2023"
+    },
+    "sources": [
+        288,
+        290,
+        291,
+        48,
+        273,
+        276,
+        311,
+        281
+    ]
+}

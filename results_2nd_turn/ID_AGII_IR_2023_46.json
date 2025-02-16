@@ -1,0 +1,61 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Science",
+            "university": "Oregon State University",
+            "country": "United States of America"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Director",
+                "company": "PT Softex Indonesia",
+                "country": "Indonesia",
+                "start_year": 2016,
+                "end_year": 2020
+            },
+            {
+                "position": "Director",
+                "company": "PT MAP Adi Perkasa Tbk",
+                "country": "Indonesia",
+                "start_year": 2015,
+                "end_year": 2020
+            },
+            {
+                "position": "Director",
+                "company": "PT Matahari Department Store Tbk",
+                "country": "Indonesia",
+                "start_year": 2014,
+                "end_year": 2017
+            },
+            {
+                "position": "Director",
+                "company": "PT Link Net Tbk",
+                "country": "Indonesia",
+                "start_year": 2013,
+                "end_year": 2022
+            },
+            {
+                "position": "Commissioner",
+                "company": "PT MAP Active Adiperkasa Tbk",
+                "country": "Indonesia",
+                "start_year": 2020,
+                "end_year": 2023
+            }
+        ],
+        "name": "Agus Purnomo",
+        "position": "Director",
+        "company": "ID_AGII_IR_2023"
+    },
+    "sources": [
+        66,
+        74,
+        79,
+        81,
+        82
+    ]
+}

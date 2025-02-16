@@ -1,0 +1,60 @@
+{
+    "data": {
+        "nationality": "South Korean",
+        "edu_s1": {
+            "major": "Business Administration",
+            "university": "Konkuk University",
+            "country": "South Korea"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Deputy General Manager",
+                "company": "IBK Korea",
+                "country": "South Korea",
+                "start_year": 2008,
+                "end_year": 2009
+            },
+            {
+                "position": "Chief Deputy General Manager",
+                "company": "IBK Korea",
+                "country": "South Korea",
+                "start_year": 2009,
+                "end_year": 2012
+            },
+            {
+                "position": "General Manager, Head of Korea Branch",
+                "company": "IBK Korea",
+                "country": "South Korea",
+                "start_year": 2012,
+                "end_year": 2016
+            },
+            {
+                "position": "General Manager, Head of New York Branch",
+                "company": "IBK Korea",
+                "country": "USA",
+                "start_year": 2016,
+                "end_year": 2019
+            },
+            {
+                "position": "General Manager",
+                "company": "IBK Korea",
+                "country": "South Korea",
+                "start_year": 2019,
+                "end_year": 2021
+            }
+        ],
+        "name": "Cha Jae Young",
+        "position": "President Director",
+        "company": "ID_AGRS_IR_2023"
+    },
+    "sources": [
+        64,
+        137,
+        140,
+        167
+    ]
+}

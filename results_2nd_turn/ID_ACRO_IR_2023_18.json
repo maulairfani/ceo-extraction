@@ -1,0 +1,33 @@
+{
+    "data": {
+        "nationality": "South Korean",
+        "edu_s1": {
+            "major": "Business",
+            "university": "Southern Oregon University",
+            "country": "United States"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Project Manager",
+                "company": "Macro Media",
+                "country": "United States",
+                "start_year": 1996,
+                "end_year": 1998
+            }
+        ],
+        "name": "Lim Sung Pil",
+        "position": "President Commissioner",
+        "company": "ID_ACRO_IR_2023"
+    },
+    "sources": [
+        48,
+        49,
+        50,
+        53,
+        55
+    ]
+}

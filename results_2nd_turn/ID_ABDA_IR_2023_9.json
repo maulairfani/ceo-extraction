@@ -1,0 +1,82 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": null,
+            "university": "University of Indonesia",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Director",
+                "company": "PT Asuransi Bina Dana Arta, Tbk",
+                "country": "Indonesia",
+                "start_year": 2023,
+                "end_year": null
+            },
+            {
+                "position": "Marketing Director",
+                "company": "PT Asuransi Candi Utama",
+                "country": "Indonesia",
+                "start_year": 2020,
+                "end_year": 2022
+            },
+            {
+                "position": "Head of Technical Division",
+                "company": "PT Asuransi Sinar Mas",
+                "country": "Indonesia",
+                "start_year": 2018,
+                "end_year": 2019
+            },
+            {
+                "position": "Chief Operations Officer",
+                "company": "PT Asuransi Asoka Mas",
+                "country": "Indonesia",
+                "start_year": 2016,
+                "end_year": 2017
+            },
+            {
+                "position": "Chief Operations Officer",
+                "company": "PT JLT Broker",
+                "country": "Indonesia",
+                "start_year": 2012,
+                "end_year": 2016
+            },
+            {
+                "position": "Regional Underwriting Manager",
+                "company": "Chartis Asia Pacific Pte. Ltd",
+                "country": "Singapore",
+                "start_year": 2009,
+                "end_year": 2012
+            },
+            {
+                "position": "Property Business Unit Manager",
+                "company": "PT Asuransi AIU Indonesia",
+                "country": "Indonesia",
+                "start_year": 2004,
+                "end_year": 2009
+            },
+            {
+                "position": "Supervisor",
+                "company": "PT Zurich Insurance Indonesia",
+                "country": "Indonesia",
+                "start_year": 2000,
+                "end_year": 2004
+            }
+        ],
+        "name": "Fenni Sutanto",
+        "position": "Director",
+        "company": "ID_ABDA_IR_2023"
+    },
+    "sources": [
+        174,
+        175,
+        179,
+        188,
+        191
+    ]
+}

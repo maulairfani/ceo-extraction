@@ -1,0 +1,50 @@
+{
+    "data": {
+        "bod": [
+            {
+                "name": "Idot Supriadi",
+                "position": "President Director"
+            },
+            {
+                "name": "Soeharsono Tjatur Nugroho",
+                "position": "Director"
+            },
+            {
+                "name": "David Widjaja",
+                "position": "Director"
+            },
+            {
+                "name": "Djoko Prabowo",
+                "position": "Director"
+            }
+        ],
+        "boc": [
+            {
+                "name": "Frans Kesuma",
+                "position": "President Commissioner"
+            },
+            {
+                "name": "Iwan Hadiantoro",
+                "position": "Commissioner"
+            },
+            {
+                "name": "Buntoro Muljono",
+                "position": "Independent Commissioner"
+            },
+            {
+                "name": "Wiltarsa Halim",
+                "position": "Independent Commissioner"
+            }
+        ],
+        "company": "ID_ACST_IR_2023"
+    },
+    "sources": [
+        44,
+        77,
+        78,
+        79,
+        149,
+        55,
+        158
+    ]
+}

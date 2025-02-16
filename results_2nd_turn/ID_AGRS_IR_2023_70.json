@@ -1,0 +1,68 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Management",
+            "university": "Sam Ratulangi University",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Branch Manager (Executive Officer)",
+                "company": "PT Bank Harfa",
+                "country": "Indonesia",
+                "start_year": 1998,
+                "end_year": 1999
+            },
+            {
+                "position": "Head of Marketing and Credit Group (Executive Officer)",
+                "company": "PT Bank Harfa",
+                "country": "Indonesia",
+                "start_year": 1999,
+                "end_year": 2003
+            },
+            {
+                "position": "Deputy Director of Marketing and Credit (Executive Officer)",
+                "company": "PT Bank Harfa",
+                "country": "Indonesia",
+                "start_year": 2003,
+                "end_year": 2004
+            },
+            {
+                "position": "Special Staff of the Board of Directors (Executive Officer)",
+                "company": "PT Bank Harfa",
+                "country": "Indonesia",
+                "start_year": 2005,
+                "end_year": 2006
+            },
+            {
+                "position": "Compliance Director",
+                "company": "PT Bank Mitraniaga Tbk",
+                "country": "Indonesia",
+                "start_year": 2006,
+                "end_year": 2019
+            },
+            {
+                "position": "Compliance Director",
+                "company": "ID_AGRS_IR_2023",
+                "country": "Indonesia",
+                "start_year": 2022,
+                "end_year": null
+            }
+        ],
+        "name": "Alexander Frans Rori",
+        "position": "Compliance Director",
+        "company": "ID_AGRS_IR_2023"
+    },
+    "sources": [
+        197,
+        176,
+        61,
+        62,
+        63
+    ]
+}

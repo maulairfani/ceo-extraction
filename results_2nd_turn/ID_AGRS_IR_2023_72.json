@@ -1,0 +1,55 @@
+{
+    "data": {
+        "nationality": "South Korean",
+        "edu_s1": {
+            "major": "Public Administration",
+            "university": "Jeju University",
+            "country": "South Korea"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "General Manager, Branch Manager (London)",
+                "company": "IBK Korea",
+                "country": "United Kingdom",
+                "start_year": 2006,
+                "end_year": 2009
+            },
+            {
+                "position": "General Manager, Head of Global Business Division",
+                "company": "IBK Korea",
+                "country": "South Korea",
+                "start_year": 2009,
+                "end_year": 2012
+            },
+            {
+                "position": "General Manager, Branch Manager (Samsung Station)",
+                "company": "IBK Korea",
+                "country": "South Korea",
+                "start_year": 2012,
+                "end_year": 2013
+            },
+            {
+                "position": "Director Executive",
+                "company": "IBK Credit Information",
+                "country": "South Korea",
+                "start_year": 2014,
+                "end_year": 2018
+            }
+        ],
+        "name": "Kang Ho Chang",
+        "position": "Commissioner",
+        "company": "ID_AGRS_IR_2023"
+    },
+    "sources": [
+        64,
+        68,
+        175,
+        178,
+        59,
+        60
+    ]
+}

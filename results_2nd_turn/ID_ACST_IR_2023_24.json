@@ -1,0 +1,62 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Engineering",
+            "university": "Swiss German University",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "General Manager Supply Chain & Business Development",
+                "company": "PT Komatsu Remanufacturing Asia",
+                "country": "Indonesia",
+                "start_year": 2009,
+                "end_year": 2011
+            },
+            {
+                "position": "Operations Director",
+                "company": "PT Universal Tekno Reksajaya",
+                "country": "Indonesia",
+                "start_year": 2011,
+                "end_year": 2012
+            },
+            {
+                "position": "Operations Director",
+                "company": "PT Komatsu Remanufacturing Asia",
+                "country": "Indonesia",
+                "start_year": 2012,
+                "end_year": 2019
+            },
+            {
+                "position": "President Director",
+                "company": "PT United Tractors Pandu Engineering",
+                "country": "Indonesia",
+                "start_year": 2019,
+                "end_year": 2022
+            },
+            {
+                "position": "President Commissioner",
+                "company": "PT Innotech Systems",
+                "country": "Indonesia",
+                "start_year": 2023,
+                "end_year": null
+            }
+        ],
+        "name": "Frans Kesuma",
+        "position": "President Commissioner",
+        "company": "ID_ACST_IR_2023"
+    },
+    "sources": [
+        103,
+        81,
+        85,
+        87,
+        89,
+        57
+    ]
+}

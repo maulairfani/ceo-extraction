@@ -1,0 +1,53 @@
+{
+    "data": {
+        "nationality": "Not specified",
+        "edu_s1": {
+            "major": "Accounting",
+            "university": "University of New South Wales",
+            "country": "Australia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Chairman",
+                "company": "ALPS Pte. Ltd (formerly known as Agency for Healthcare Supply Chain Pte. Ltd)",
+                "country": "Singapore",
+                "start_year": 2018,
+                "end_year": null
+            },
+            {
+                "position": "Chairman",
+                "company": "TSI Tech Pte. Ltd. (formerly known as Transmex Systems International Pte. Ltd.)",
+                "country": "Singapore",
+                "start_year": 2017,
+                "end_year": null
+            },
+            {
+                "position": "Company Commissioner",
+                "company": "Not specified (assumed ID_ADMF_IR_2023)",
+                "country": "Singapore",
+                "start_year": 2016,
+                "end_year": null
+            },
+            {
+                "position": "Member of the Company's Nomination and Remuneration Committee",
+                "company": "Not specified (assumed ID_ADMF_IR_2023)",
+                "country": "Singapore",
+                "start_year": 2015,
+                "end_year": null
+            }
+        ],
+        "name": "Eng Heng Nee Philip",
+        "position": "Commissioner",
+        "company": "ID_ADMF_IR_2023"
+    },
+    "sources": [
+        115,
+        89,
+        91,
+        99
+    ]
+}

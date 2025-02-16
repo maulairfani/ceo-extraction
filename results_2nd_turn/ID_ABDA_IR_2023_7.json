@@ -1,0 +1,82 @@
+{
+    "data": {
+        "nationality": "French",
+        "edu_s1": {
+            "major": "Insurance (continued education in this field)",
+            "university": "Lycee Jolimont Toulouse",
+            "country": "France"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Director",
+                "company": "PT Asuransi Bina Dana Arta Tbk (Oona Insurance)",
+                "country": "Indonesia",
+                "start_year": 2018,
+                "end_year": null
+            },
+            {
+                "position": "Commissioner",
+                "company": "PT Pacifico Assistance Indonesia",
+                "country": "Indonesia",
+                "start_year": 2021,
+                "end_year": 2022
+            },
+            {
+                "position": "Managing Director / CEO",
+                "company": "Mapfre Abda Assistance (Indonesia)",
+                "country": "Indonesia",
+                "start_year": 2016,
+                "end_year": 2018
+            },
+            {
+                "position": "Business Advisor",
+                "company": "Mapfre Warranty",
+                "country": "France",
+                "start_year": 2014,
+                "end_year": 2016
+            },
+            {
+                "position": "Specialty Risks Managing Director",
+                "company": "Mapfre Warranty",
+                "country": "France",
+                "start_year": 2012,
+                "end_year": 2014
+            },
+            {
+                "position": "Technical & Operation Director",
+                "company": "Mapfre Warranty",
+                "country": "France",
+                "start_year": 2007,
+                "end_year": 2012
+            },
+            {
+                "position": "Operation Supervisor",
+                "company": "Mapfre Warranty",
+                "country": "France",
+                "start_year": 2003,
+                "end_year": 2007
+            },
+            {
+                "position": "Car Warranty Claims Handler Expert",
+                "company": "Sage",
+                "country": "France",
+                "start_year": 2001,
+                "end_year": 2003
+            }
+        ],
+        "name": "Julien Pierre Combaret",
+        "position": "Director",
+        "company": "ID_ABDA_IR_2023"
+    },
+    "sources": [
+        172,
+        175,
+        179,
+        87,
+        184
+    ]
+}

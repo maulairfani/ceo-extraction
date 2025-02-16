@@ -1,0 +1,55 @@
+{
+    "data": {
+        "bod": [
+            {
+                "name": "Cha Jae Young",
+                "position": "President Director"
+            },
+            {
+                "name": "Lee Dae Sung",
+                "position": "Director"
+            },
+            {
+                "name": "Maria Cortilia Vera Afianti",
+                "position": "Director"
+            },
+            {
+                "name": "Edwin Rudianto",
+                "position": "Director"
+            },
+            {
+                "name": "Alexander Frans Rori",
+                "position": "Compliance Director"
+            }
+        ],
+        "boc": [
+            {
+                "name": "Taufik Hakim",
+                "position": "President Commissioner (Independent)"
+            },
+            {
+                "name": "Kang Ho Chang",
+                "position": "Commissioner"
+            },
+            {
+                "name": "Joni Swastanto",
+                "position": "Independent Commissioner"
+            },
+            {
+                "name": "Damal Bayu Utama",
+                "position": "Independent Commissioner"
+            }
+        ],
+        "company": "ID_AGRS_IR_2023"
+    },
+    "sources": [
+        65,
+        132,
+        167,
+        137,
+        155,
+        147,
+        153,
+        27
+    ]
+}

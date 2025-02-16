@@ -1,0 +1,53 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Computer Science",
+            "university": "Bina Nusantara University",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "National Sales Manager",
+                "company": "L'oreal Indonesia",
+                "country": "Indonesia",
+                "start_year": 2005,
+                "end_year": 2011
+            },
+            {
+                "position": "Key Account Senior Manager / Head of Hyperstore",
+                "company": "PT Samsung Electronics Indonesia",
+                "country": "Indonesia",
+                "start_year": 2011,
+                "end_year": 2011
+            },
+            {
+                "position": "Business Development Manager",
+                "company": "L'oreal Indonesia",
+                "country": "Indonesia",
+                "start_year": 2012,
+                "end_year": 2015
+            },
+            {
+                "position": "Strategic Partner Development Manager",
+                "company": "Google Indonesia",
+                "country": "Indonesia",
+                "start_year": 2015,
+                "end_year": 2022
+            }
+        ],
+        "name": "Vincentius Dicky Haryanto",
+        "position": "Director",
+        "company": "ID_ABBA_IR_2023"
+    },
+    "sources": [
+        49,
+        52,
+        53,
+        38
+    ]
+}

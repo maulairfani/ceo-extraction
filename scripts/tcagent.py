@@ -38,7 +38,7 @@ class TCAgent:
         )
         tools = [self.retriever_tool]
         agent = create_tool_calling_agent(self.llm, tools, prompt)
-        agent_executor = AgentExecutor(agent=agent, tools=tools, verbose=True)
+        agent_executor = AgentExecutor(agent=agent, tools=tools, verbose=False)
         return agent_executor
 
     def _create_retriever_tool(self):

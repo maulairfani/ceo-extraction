@@ -1,0 +1,69 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Economics",
+            "university": "Atma Jaya University",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Portfolio Director",
+                "company": "PT Adira Dinamika Multi Finance Tbk",
+                "country": "Indonesia",
+                "start_year": 2020,
+                "end_year": null
+            },
+            {
+                "position": "Deputy Director of 2W/4W Sales Financing and Sales Portfolio",
+                "company": "PT Adira Dinamika Multi Finance Tbk",
+                "country": "Indonesia",
+                "start_year": 2015,
+                "end_year": 2020
+            },
+            {
+                "position": "President Director",
+                "company": "Honda Car Dealer, PT Istana Mitra Sendani",
+                "country": "Indonesia",
+                "start_year": 2012,
+                "end_year": 2015
+            },
+            {
+                "position": "Deputy Director",
+                "company": "PT Kirana Megatara Tbk",
+                "country": "Indonesia",
+                "start_year": 2011,
+                "end_year": 2012
+            },
+            {
+                "position": "General Manager of the Honda Motorcycle Division & Area Sales Manager",
+                "company": "PT Adira Dinamika Multi Finance Tbk",
+                "country": "Indonesia",
+                "start_year": 2006,
+                "end_year": 2011
+            },
+            {
+                "position": "General Manager Sales & Marketing",
+                "company": "PT Viar Motor Indonesia (AtpmViar) and PT Kencana Laju Mandiri",
+                "country": "Indonesia",
+                "start_year": 2005,
+                "end_year": 2006
+            }
+        ],
+        "name": "Harry Latif",
+        "position": "Director",
+        "company": "ID_ADMF_IR_2023"
+    },
+    "sources": [
+        106,
+        108,
+        114,
+        116,
+        91,
+        124
+    ]
+}

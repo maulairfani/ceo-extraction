@@ -1,0 +1,48 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Sarjana Ekonomi",
+            "university": "Universitas Kristen Satya Wacana",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Strategic Planning",
+                "company": "Samator Group",
+                "country": "Indonesia",
+                "start_year": 2007,
+                "end_year": 2018
+            },
+            {
+                "position": "Investment Director",
+                "company": "Dana Pensiun Satya Wacana",
+                "country": "Indonesia",
+                "start_year": 2019,
+                "end_year": 2021
+            },
+            {
+                "position": "Audit Committee Member",
+                "company": "PT Aneka Gas Industri Tbk",
+                "country": "Indonesia",
+                "start_year": 2021,
+                "end_year": 2022
+            }
+        ],
+        "name": "Robiyanto",
+        "position": "Independent Commissioner",
+        "company": "ID_AGII_IR_2023"
+    },
+    "sources": [
+        65,
+        260,
+        72,
+        235,
+        177,
+        95
+    ]
+}

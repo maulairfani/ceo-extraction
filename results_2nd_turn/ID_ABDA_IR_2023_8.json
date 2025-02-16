@@ -1,0 +1,81 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Accounting",
+            "university": "Atma Jaya Catholic University Jakarta",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Director",
+                "company": "PT Asuransi Bina Dana Arta, Tbk",
+                "country": "Indonesia",
+                "start_year": 2022,
+                "end_year": null
+            },
+            {
+                "position": "Assistant Director - Head",
+                "company": "PT Asuransi Bina Dana Arta, Tbk",
+                "country": "Indonesia",
+                "start_year": 2016,
+                "end_year": 2022
+            },
+            {
+                "position": "Head of Finance & Accounting",
+                "company": "PT Asuransi Adira Dinamika",
+                "country": "Indonesia",
+                "start_year": 2012,
+                "end_year": 2016
+            },
+            {
+                "position": "Manager Finance & Accounting",
+                "company": "PT Asuransi Umum Mega",
+                "country": "Indonesia",
+                "start_year": 2008,
+                "end_year": 2011
+            },
+            {
+                "position": "Manager Finance & Accounting",
+                "company": "PT Menara Dana Sejahtera",
+                "country": "Indonesia",
+                "start_year": 2007,
+                "end_year": 2008
+            },
+            {
+                "position": "Manager Finance & Accounting",
+                "company": "PT Alpha Multi Service",
+                "country": "Indonesia",
+                "start_year": 2006,
+                "end_year": 2007
+            },
+            {
+                "position": "Accounting Senior Supervisor",
+                "company": "PT Asuransi Sinar Mas",
+                "country": "Indonesia",
+                "start_year": 1999,
+                "end_year": 2006
+            },
+            {
+                "position": "Senior Staff of Finance & Accounting",
+                "company": "PT BII Lend Lease Investment Services",
+                "country": "Indonesia",
+                "start_year": 1997,
+                "end_year": 1999
+            }
+        ],
+        "name": "Liani Chandra",
+        "position": "Director",
+        "company": "ID_ABDA_IR_2023"
+    },
+    "sources": [
+        184,
+        179,
+        188,
+        173
+    ]
+}

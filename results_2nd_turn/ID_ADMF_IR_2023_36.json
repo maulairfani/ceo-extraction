@@ -1,0 +1,53 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Economics",
+            "university": "McGill University",
+            "country": "Canada"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Independent Commissioner",
+                "company": "PT Adira Dinamika Multi Finance Tbk",
+                "country": "Indonesia",
+                "start_year": 2021,
+                "end_year": null
+            },
+            {
+                "position": "Independent Commissioner",
+                "company": "PT ABM-Investama Tbk",
+                "country": "Indonesia",
+                "start_year": 2021,
+                "end_year": null
+            },
+            {
+                "position": "Independent Member of the Audit Committee and Risk Monitoring Committee",
+                "company": "PT Bank Jago Tbk",
+                "country": "Indonesia",
+                "start_year": 2021,
+                "end_year": null
+            },
+            {
+                "position": "President Commissioner",
+                "company": "PT Berdayakan Usaha Indonesia",
+                "country": "Indonesia",
+                "start_year": 2021,
+                "end_year": null
+            }
+        ],
+        "name": "Manggi Taruna Habir",
+        "position": "Independent Commissioner",
+        "company": "ID_ADMF_IR_2023"
+    },
+    "sources": [
+        88,
+        98,
+        96,
+        92
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Economics",
+            "university": "University of Indonesia",
+            "country": "Indonesia"
+        },
+        "edu_s2": {
+            "major": "Business Management",
+            "university": "University of Queensland",
+            "country": "Australia"
+        },
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Commissioner",
+                "company": "PT Bumi Petangis",
+                "country": "Indonesia",
+                "start_year": 2021,
+                "end_year": null
+            },
+            {
+                "position": "Director",
+                "company": "PT Borneo Marine Services",
+                "country": "Indonesia",
+                "start_year": 2012,
+                "end_year": null
+            },
+            {
+                "position": "Chief Operating Officer (COO)",
+                "company": "PT Persija Jaya Jakarta",
+                "country": "Indonesia",
+                "start_year": 2016,
+                "end_year": 2018
+            },
+            {
+                "position": "President Director",
+                "company": "PT Borneo Trans Pacific",
+                "country": "Indonesia",
+                "start_year": 2012,
+                "end_year": 2018
+            }
+        ],
+        "name": "Endru Adhikara",
+        "position": "Commissioner",
+        "company": "ID_AIMS_IR_2023"
+    },
+    "sources": [
+        49,
+        187,
+        43,
+        45
+    ]
+}

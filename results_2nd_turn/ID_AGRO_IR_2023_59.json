@@ -1,0 +1,46 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Aeronautical Engineering",
+            "university": "Institut Teknologi Bandung",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Director of Enterprise Risk Management, Compliance & Human Resources",
+                "company": "PT Bank Raya Indonesia Tbk",
+                "country": "Indonesia",
+                "start_year": 2023,
+                "end_year": null
+            },
+            {
+                "position": "Head of Digital Risk Division",
+                "company": "BRI (Bank Rakyat Indonesia)",
+                "country": "Indonesia",
+                "start_year": 2021,
+                "end_year": 2023
+            },
+            {
+                "position": "Head of Enterprise Data Management Division",
+                "company": "BRI (Bank Rakyat Indonesia)",
+                "country": "Indonesia",
+                "start_year": 2020,
+                "end_year": 2021
+            }
+        ],
+        "name": "Danar Widyantoro",
+        "position": "Director of Enterprise Risk Management, Compliance & Human Resources",
+        "company": "ID_AGRO_IR_2023"
+    },
+    "sources": [
+        120,
+        122,
+        133,
+        119
+    ]
+}

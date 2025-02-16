@@ -1,0 +1,46 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Physics",
+            "university": "Institut Teknologi Bandung",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Senior Exploration and Production Manager",
+                "company": "PT Nuasa Saksi Kencana",
+                "country": "Indonesia",
+                "start_year": 2021,
+                "end_year": null
+            },
+            {
+                "position": "Junior Project Manager",
+                "company": "PT Cikondang Kancana Prima",
+                "country": "Indonesia",
+                "start_year": 2015,
+                "end_year": 2020
+            },
+            {
+                "position": "Senior Business Development Manager",
+                "company": "PT Bayanaka Mas Kosultan",
+                "country": "Indonesia",
+                "start_year": 2012,
+                "end_year": 2015
+            }
+        ],
+        "name": "Pandu Andakara",
+        "position": "Director",
+        "company": "ID_AIMS_IR_2023"
+    },
+    "sources": [
+        48,
+        49,
+        43,
+        45
+    ]
+}

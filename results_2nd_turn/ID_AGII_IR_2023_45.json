@@ -1,0 +1,67 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "English Literature",
+            "university": "UNESA (formerly IKIP Surabaya)",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Project Assistant",
+                "company": "BOSS GmbH (Formorex-Pyrolysis Project)",
+                "country": "Germany",
+                "start_year": 1999,
+                "end_year": 2000
+            },
+            {
+                "position": "Deputy General Manager of Research and Development Department",
+                "company": "PT Pabrik Kertas Tjiwi Kimia Tbk",
+                "country": "Indonesia",
+                "start_year": 2000,
+                "end_year": 2004
+            },
+            {
+                "position": "R&D Manager",
+                "company": "PT Samator",
+                "country": "Indonesia",
+                "start_year": 2004,
+                "end_year": 2010
+            },
+            {
+                "position": "General Manager",
+                "company": "PT Samator",
+                "country": "Indonesia",
+                "start_year": 2010,
+                "end_year": 2018
+            },
+            {
+                "position": "Director",
+                "company": "PT Samator Tomoe",
+                "country": "Indonesia",
+                "start_year": 2012,
+                "end_year": 2018
+            },
+            {
+                "position": "Director",
+                "company": "PT Samator Indo Gas Tbk",
+                "country": "Indonesia",
+                "start_year": 2022,
+                "end_year": 2025
+            }
+        ],
+        "name": "Djanarko Tjandra",
+        "position": "Director",
+        "company": "ID_AGII_IR_2023"
+    },
+    "sources": [
+        80,
+        82,
+        75,
+        166
+    ]
+}

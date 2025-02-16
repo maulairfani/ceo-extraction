@@ -1,0 +1,48 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Bachelor of Arts",
+            "university": "National University of Singapore",
+            "country": "Singapore"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Head of Procurement",
+                "company": "Samator Group",
+                "country": "Indonesia",
+                "start_year": 2003,
+                "end_year": 2012
+            },
+            {
+                "position": "Commissioner",
+                "company": "Perseroan",
+                "country": "Indonesia",
+                "start_year": 2004,
+                "end_year": 2006
+            },
+            {
+                "position": "Director",
+                "company": "PT Samator",
+                "country": "Indonesia",
+                "start_year": 2006,
+                "end_year": null
+            }
+        ],
+        "name": "Imelda Mulyani Harsono",
+        "position": "Director",
+        "company": "ID_AGII_IR_2023"
+    },
+    "sources": [
+        65,
+        66,
+        67,
+        101,
+        75,
+        77
+    ]
+}

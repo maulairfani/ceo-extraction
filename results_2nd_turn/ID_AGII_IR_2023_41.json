@@ -1,0 +1,41 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Insinyur (Engineer)",
+            "university": "Institut Teknologi Sepuluh November",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Technical Director",
+                "company": "PT Samator",
+                "country": "Indonesia",
+                "start_year": 1997,
+                "end_year": 1999
+            },
+            {
+                "position": "Director of Research and Development",
+                "company": "PT Samator",
+                "country": "Indonesia",
+                "start_year": 1999,
+                "end_year": 2001
+            }
+        ],
+        "name": "Ferryawan Utomo",
+        "position": "Vice President Director",
+        "company": "ID_AGII_IR_2023"
+    },
+    "sources": [
+        68,
+        74,
+        76,
+        79,
+        82,
+        253
+    ]
+}

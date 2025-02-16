@@ -1,0 +1,34 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Aeronautical Engineering",
+            "university": "Institut Teknologi Bandung",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Commissioner",
+                "company": "PT Bank Raya Indonesia Tbk",
+                "country": "Indonesia",
+                "start_year": 2023,
+                "end_year": null
+            }
+        ],
+        "name": "Achmad F.C Barir",
+        "position": "Commissioner",
+        "company": "ID_AGRO_IR_2023"
+    },
+    "sources": [
+        390,
+        426,
+        83,
+        117,
+        599,
+        120
+    ]
+}

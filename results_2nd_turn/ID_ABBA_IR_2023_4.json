@@ -1,0 +1,69 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Business Administration",
+            "university": "Universitas of Applied Sciences Utrecht (Hogeschool Utrecht)",
+            "country": "Netherlands"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Independent Commissioner",
+                "company": "PT Mahaka Media Tbk",
+                "country": "Indonesia",
+                "start_year": 2022,
+                "end_year": null
+            },
+            {
+                "position": "Vertical Lead",
+                "company": "META",
+                "country": null,
+                "start_year": null,
+                "end_year": null
+            },
+            {
+                "position": "Principal, Customer & Channel",
+                "company": "Accenture",
+                "country": null,
+                "start_year": null,
+                "end_year": null
+            },
+            {
+                "position": "Manager, Strategy & Operation",
+                "company": "FMCG",
+                "country": null,
+                "start_year": null,
+                "end_year": null
+            },
+            {
+                "position": "Senior Manager",
+                "company": "Unilever",
+                "country": "Singapore",
+                "start_year": null,
+                "end_year": null
+            },
+            {
+                "position": "Manager, Supply Market Intelligence",
+                "company": "Philips",
+                "country": null,
+                "start_year": null,
+                "end_year": null
+            }
+        ],
+        "name": "Aldo Rambie",
+        "position": "Independent Commissioner",
+        "company": "ID_ABBA_IR_2023"
+    },
+    "sources": [
+        128,
+        35,
+        36,
+        38,
+        53,
+        124
+    ]
+}

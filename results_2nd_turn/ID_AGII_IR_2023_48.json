@@ -1,0 +1,53 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": null,
+        "edu_s2": {
+            "major": "Strategic Action Program",
+            "university": "P2EB Gadjah Mada University",
+            "country": "Indonesia"
+        },
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "President Commissioner",
+                "company": "ID_AGII_IR_2023",
+                "country": "Indonesia",
+                "start_year": 2022,
+                "end_year": 2025
+            },
+            {
+                "position": "Vice President Commissioner",
+                "company": "ID_AGII_IR_2023",
+                "country": "Indonesia",
+                "start_year": 2018,
+                "end_year": 2021
+            },
+            {
+                "position": "President Director",
+                "company": "ID_AGII_IR_2023",
+                "country": "Indonesia",
+                "start_year": 2006,
+                "end_year": 2018
+            },
+            {
+                "position": "President Director",
+                "company": "PT Krakatau Samator",
+                "country": "Indonesia",
+                "start_year": 2013,
+                "end_year": 2021
+            }
+        ],
+        "name": "Heyzer Harsono",
+        "position": "President Commissioner",
+        "company": "ID_AGII_IR_2023"
+    },
+    "sources": [
+        67,
+        66,
+        75,
+        77
+    ]
+}

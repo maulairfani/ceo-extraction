@@ -1,0 +1,61 @@
+{
+    "data": {
+        "nationality": "Japanese",
+        "edu_s1": {
+            "major": "Bachelor of Laws",
+            "university": "Gakushuin University",
+            "country": "Japan"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Director of Corporate Strategic Alliances",
+                "company": "PT Adira Dinamika Multi Finance Tbk",
+                "country": "Indonesia",
+                "start_year": 2020,
+                "end_year": null
+            },
+            {
+                "position": "Head of Planning Group for JCB America, Managing Director",
+                "company": "MUFG, Union Bank",
+                "country": "USA",
+                "start_year": 2017,
+                "end_year": 2020
+            },
+            {
+                "position": "Director",
+                "company": "Corporate Banking Group, The Bank of Tokyo Mitsubishi UFJ",
+                "country": "UK (London)",
+                "start_year": 2011,
+                "end_year": 2017
+            },
+            {
+                "position": "Relationship Manager",
+                "company": "Corporate Banking Group, The Bank of Tokyo Mitsubishi UFJ",
+                "country": "Japan (Nagoya)",
+                "start_year": 2007,
+                "end_year": 2011
+            },
+            {
+                "position": "Relationship Manager",
+                "company": "Corporate Banking Group, The Bank of Tokyo Mitsubishi UFJ",
+                "country": "Japan (Tokyo)",
+                "start_year": null,
+                "end_year": 2007
+            }
+        ],
+        "name": "Jin Yoshida",
+        "position": "Director",
+        "company": "ID_ADMF_IR_2023"
+    },
+    "sources": [
+        107,
+        142,
+        86,
+        90,
+        63
+    ]
+}

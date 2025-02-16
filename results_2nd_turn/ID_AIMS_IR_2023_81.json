@@ -1,0 +1,60 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Bachelor of Laws (Sarjana Hukum)",
+            "university": "Gadjah Mada University",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Founder & Partner",
+                "company": "Brawijaya Advisor Group",
+                "country": "Indonesia",
+                "start_year": 2021,
+                "end_year": null
+            },
+            {
+                "position": "Partner",
+                "company": "Brawijaya and Partners Law Firm",
+                "country": "Indonesia",
+                "start_year": 2016,
+                "end_year": 2021
+            },
+            {
+                "position": "Lawyer & Legal Consultant",
+                "company": "S&B (Shella A Salomo) Law Firm",
+                "country": "Indonesia",
+                "start_year": 2016,
+                "end_year": 2021
+            },
+            {
+                "position": "Lawyer",
+                "company": "Arie Hutagalung and Partner Law Firm",
+                "country": "Indonesia",
+                "start_year": 2011,
+                "end_year": 2011
+            },
+            {
+                "position": "Founder",
+                "company": "Wimaya Legal Aid Office (LBH)",
+                "country": "Indonesia",
+                "start_year": 2009,
+                "end_year": 2011
+            }
+        ],
+        "name": "Megah Supratiwi",
+        "position": "Independent Commissioner",
+        "company": "ID_AIMS_IR_2023"
+    },
+    "sources": [
+        48,
+        50,
+        43,
+        45
+    ]
+}

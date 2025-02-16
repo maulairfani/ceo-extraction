@@ -1,0 +1,74 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Accounting",
+            "university": "Trisakti University",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Commissioner",
+                "company": "PT Adira Dinamika Multi Finance Tbk",
+                "country": "Indonesia",
+                "start_year": 2022,
+                "end_year": null
+            },
+            {
+                "position": "Deputy President Director",
+                "company": "PT Bank Danamon Indonesia Tbk",
+                "country": "Indonesia",
+                "start_year": 2022,
+                "end_year": null
+            },
+            {
+                "position": "President Director and Compliance Director",
+                "company": "PT Adira Dinamika Multi Finance Tbk",
+                "country": "Indonesia",
+                "start_year": 2017,
+                "end_year": 2022
+            },
+            {
+                "position": "Director of Corporate Financing Marketing",
+                "company": "PT Adira Dinamika Multi Finance Tbk",
+                "country": "Indonesia",
+                "start_year": 2012,
+                "end_year": 2017
+            },
+            {
+                "position": "Marketing Director of Car Financing",
+                "company": "PT Adira Dinamika Multi Finance Tbk",
+                "country": "Indonesia",
+                "start_year": 2010,
+                "end_year": 2012
+            },
+            {
+                "position": "Director of Finance and Corporate Secretary",
+                "company": "PT Adira Dinamika Multi Finance Tbk",
+                "country": "Indonesia",
+                "start_year": 2006,
+                "end_year": 2010
+            },
+            {
+                "position": "Director",
+                "company": "PT Broadband Multimedia Tbk",
+                "country": "Indonesia",
+                "start_year": 2002,
+                "end_year": 2005
+            }
+        ],
+        "name": "Hafid Hadeli",
+        "position": "Commissioner",
+        "company": "ID_ADMF_IR_2023"
+    },
+    "sources": [
+        106,
+        91,
+        109,
+        110
+    ]
+}

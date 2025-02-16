@@ -1,0 +1,104 @@
+{
+    "data": {
+        "nationality": "Indian",
+        "edu_s1": {
+            "major": "BTech in Electrical Engineering",
+            "university": "IIT Bombay",
+            "country": "India"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Commissioner",
+                "company": "PT Asuransi Bina Dana Arta, Tbk",
+                "country": "Indonesia",
+                "start_year": 2023,
+                "end_year": null
+            },
+            {
+                "position": "Director",
+                "company": "Aseana Insurance Pte. Ltd",
+                "country": "Singapore",
+                "start_year": 2022,
+                "end_year": null
+            },
+            {
+                "position": "Director",
+                "company": "Advance Intelligence Group",
+                "country": "Singapore",
+                "start_year": 2022,
+                "end_year": null
+            },
+            {
+                "position": "Director",
+                "company": "Circles.life",
+                "country": "Singapore",
+                "start_year": 2021,
+                "end_year": null
+            },
+            {
+                "position": "Director",
+                "company": "Vietnam Technological and Commercial Joint Stock Bank (Techcombank)",
+                "country": "Vietnam",
+                "start_year": 2019,
+                "end_year": null
+            },
+            {
+                "position": "Director",
+                "company": "Online Mobile Services Joint Stock Company (MoMo)",
+                "country": "Vietnam",
+                "start_year": 2018,
+                "end_year": null
+            },
+            {
+                "position": "Managing Director",
+                "company": "Warburg Pincus",
+                "country": "Singapore",
+                "start_year": 2017,
+                "end_year": null
+            },
+            {
+                "position": "Principal",
+                "company": "Warburg Pincus",
+                "country": "New York, USA",
+                "start_year": 2014,
+                "end_year": 2016
+            },
+            {
+                "position": "Vice President",
+                "company": "Warburg Pincus",
+                "country": "New York, USA",
+                "start_year": 2009,
+                "end_year": 2013
+            },
+            {
+                "position": "Investment Associate",
+                "company": "Temasek Holdings",
+                "country": "India",
+                "start_year": 2007,
+                "end_year": 2007
+            },
+            {
+                "position": "Business Analyst",
+                "company": "McKinsey & Company",
+                "country": "USA & India",
+                "start_year": 2004,
+                "end_year": 2007
+            }
+        ],
+        "name": "Saurabh Narayan Agarwal",
+        "position": "Commissioner",
+        "company": "ID_ABDA_IR_2023"
+    },
+    "sources": [
+        166,
+        167,
+        170,
+        81,
+        179,
+        190
+    ]
+}

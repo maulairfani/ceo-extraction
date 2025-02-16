@@ -1,0 +1,74 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": null,
+            "university": "Universitas Trisakti",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Corporate Banking Account Manager",
+                "company": "Bank Duta",
+                "country": "Indonesia",
+                "start_year": null,
+                "end_year": null
+            },
+            {
+                "position": "Head of Commercial Banking Department",
+                "company": "Bank Muamalat",
+                "country": "Indonesia",
+                "start_year": null,
+                "end_year": null
+            },
+            {
+                "position": "Commissioner",
+                "company": "PT Grita Artha Kreamindo",
+                "country": "Indonesia",
+                "start_year": null,
+                "end_year": null
+            },
+            {
+                "position": "President Director",
+                "company": "PT Dimensi Hijau Inforama",
+                "country": "Indonesia",
+                "start_year": null,
+                "end_year": null
+            },
+            {
+                "position": "President Commissioner",
+                "company": "PT Mahaka Radio Integra Tbk",
+                "country": "Indonesia",
+                "start_year": null,
+                "end_year": null
+            },
+            {
+                "position": "President Commissioner",
+                "company": "PT Mahaka Digital Inovasi",
+                "country": "Indonesia",
+                "start_year": null,
+                "end_year": null
+            },
+            {
+                "position": "Director",
+                "company": "PT Beyond Media",
+                "country": "Indonesia",
+                "start_year": null,
+                "end_year": null
+            }
+        ],
+        "name": "Rudy Setia Laksmana",
+        "position": "Commissioner",
+        "company": "ID_ABBA_IR_2023"
+    },
+    "sources": [
+        128,
+        36,
+        37,
+        38
+    ]
+}

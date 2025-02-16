@@ -1,0 +1,47 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Telecommunication Engineering",
+            "university": "Telkom University",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "SEVP IT",
+                "company": "PT Bank Raya Indonesia Tbk",
+                "country": "Indonesia",
+                "start_year": 2023,
+                "end_year": null
+            },
+            {
+                "position": "VP IT Business Partnership",
+                "company": "PT Bank Rakyat Indonesia, Tbk.",
+                "country": "Indonesia",
+                "start_year": 2021,
+                "end_year": 2023
+            },
+            {
+                "position": "VP Satellite Services Operation",
+                "company": "PT Bank Rakyat Indonesia, Tbk.",
+                "country": "Indonesia",
+                "start_year": 2020,
+                "end_year": 2021
+            }
+        ],
+        "name": "Muhamad Sidik Heruwibowo",
+        "position": "President Commissioner",
+        "company": "ID_AGRO_IR_2023"
+    },
+    "sources": [
+        133,
+        119,
+        120,
+        122,
+        380
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "data": {
+        "bod": [
+            {
+                "name": "Calvin Lutvi",
+                "position": "President Director"
+            },
+            {
+                "name": "Pandu Andakara",
+                "position": "Director"
+            },
+            {
+                "name": "Mohammad Adil Triansyah",
+                "position": "Director"
+            }
+        ],
+        "boc": [
+            {
+                "name": "Mohammad Rafil Perdana",
+                "position": "President Commissioner"
+            },
+            {
+                "name": "Endru Adhikara",
+                "position": "Commissioner"
+            },
+            {
+                "name": "Ahmad Ali Fahmi",
+                "position": "Independent Commissioner"
+            },
+            {
+                "name": "Megah Supratiwi",
+                "position": "Independent Commissioner"
+            }
+        ],
+        "company": "ID_AIMS_IR_2023"
+    },
+    "sources": [
+        103,
+        42,
+        43,
+        46,
+        51,
+        116
+    ]
+}

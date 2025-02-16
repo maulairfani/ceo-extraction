@@ -1,0 +1,111 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Electrical Engineering",
+            "university": "University of Indonesia",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Management Trainee",
+                "company": "PT United Tractors Tbk",
+                "country": "Indonesia",
+                "start_year": 1981,
+                "end_year": 1983
+            },
+            {
+                "position": "Director",
+                "company": "UT Heavy Industry (S) Pte Ltd",
+                "country": "Singapore",
+                "start_year": 1997,
+                "end_year": 2006
+            },
+            {
+                "position": "Commissioner",
+                "company": "PT Pamapersada Nusantara",
+                "country": "Indonesia",
+                "start_year": 1998,
+                "end_year": 2001
+            },
+            {
+                "position": "Commissioner",
+                "company": "PT Traktor Nusantara",
+                "country": "Indonesia",
+                "start_year": 1998,
+                "end_year": 2006
+            },
+            {
+                "position": "Director",
+                "company": "PT United Tractors Pandu Engineering",
+                "country": "Indonesia",
+                "start_year": 1999,
+                "end_year": 2006
+            },
+            {
+                "position": "President Director",
+                "company": "PT Toyota Astra Financial Services",
+                "country": "Indonesia",
+                "start_year": 2006,
+                "end_year": 2014
+            },
+            {
+                "position": "Independent Commissioner",
+                "company": "PT Komatsu Astra Finance",
+                "country": "Indonesia",
+                "start_year": 2017,
+                "end_year": 2021
+            },
+            {
+                "position": "Independent Commissioner and Chairman of the Audit Committee",
+                "company": "PT United Tractors Tbk",
+                "country": "Indonesia",
+                "start_year": 2017,
+                "end_year": 2021
+            },
+            {
+                "position": "Independent Commissioner",
+                "company": "PT Surya Artha Nusantara Finance",
+                "country": "Indonesia",
+                "start_year": 2018,
+                "end_year": null
+            },
+            {
+                "position": "Chairman of the Audit Committee",
+                "company": "ACSET",
+                "country": "Indonesia",
+                "start_year": 2021,
+                "end_year": null
+            },
+            {
+                "position": "Chairman of the Nomination and Remuneration Committee",
+                "company": "ACSET",
+                "country": "Indonesia",
+                "start_year": 2021,
+                "end_year": null
+            },
+            {
+                "position": "Chairman of the Risk Monitoring Committee",
+                "company": "SANF",
+                "country": "Indonesia",
+                "start_year": 2022,
+                "end_year": null
+            }
+        ],
+        "name": "Djoko Prabowo",
+        "position": "Director",
+        "company": "ID_ACST_IR_2023"
+    },
+    "sources": [
+        103,
+        82,
+        83,
+        84,
+        86,
+        87
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Accounting",
+            "university": "Universitas Gadjah Mada",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Deputy Head of Internal Audit for BRI Denpasar Region",
+                "company": "BRI (Bank Rakyat Indonesia)",
+                "country": "Indonesia",
+                "start_year": 2018,
+                "end_year": 2019
+            },
+            {
+                "position": "Deputy Regional Manager of BRI Makassar",
+                "company": "BRI (Bank Rakyat Indonesia)",
+                "country": "Indonesia",
+                "start_year": 2017,
+                "end_year": 2018
+            },
+            {
+                "position": "Deputy Regional Manager of BRI Manado",
+                "company": "BRI (Bank Rakyat Indonesia)",
+                "country": "Indonesia",
+                "start_year": 2014,
+                "end_year": 2017
+            }
+        ],
+        "name": "Eko B. Supriyanto",
+        "position": "Independent Commissioner",
+        "company": "ID_AGRO_IR_2023"
+    },
+    "sources": [
+        120,
+        409,
+        122,
+        420
+    ]
+}

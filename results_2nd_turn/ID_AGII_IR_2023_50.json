@@ -1,0 +1,46 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Economics",
+            "university": "Islamic University of Indonesia",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Staff Auditor, Verification, Evaluation, and Control of Financial Transactions",
+                "company": "Bank Danamon Indonesia",
+                "country": "Indonesia",
+                "start_year": 1996,
+                "end_year": 2000
+            },
+            {
+                "position": "Director",
+                "company": "PT Samator Wase Gas",
+                "country": "Indonesia",
+                "start_year": 2015,
+                "end_year": null
+            },
+            {
+                "position": "Chairperson",
+                "company": "Bojonegoro Regional Election Commission (KPU Bojonegoro)",
+                "country": "Indonesia",
+                "start_year": 2014,
+                "end_year": 2019
+            }
+        ],
+        "name": "Setyo Wahono",
+        "position": "Vice President Commissioner",
+        "company": "ID_AGII_IR_2023"
+    },
+    "sources": [
+        82,
+        68,
+        69,
+        79
+    ]
+}

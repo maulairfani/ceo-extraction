@@ -1,0 +1,55 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Sarjana Sosial Ekonomi Pertanian",
+            "university": "Institut Pertanian Bogor",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Independent Commissioner",
+                "company": "PT Bank Raya Indonesia Tbk",
+                "country": "Indonesia",
+                "start_year": 2023,
+                "end_year": null
+            },
+            {
+                "position": "Director",
+                "company": "LPPI",
+                "country": "Indonesia",
+                "start_year": 2022,
+                "end_year": null
+            },
+            {
+                "position": "Senior Executive Vice President (SEVP), Change Management & Transformation Office",
+                "company": "BRI (Bank Rakyat Indonesia)",
+                "country": "Indonesia",
+                "start_year": 2020,
+                "end_year": 2021
+            },
+            {
+                "position": "Head of Corporate Development and Strategy Division",
+                "company": "BRI (Bank Rakyat Indonesia)",
+                "country": "Indonesia",
+                "start_year": 2016,
+                "end_year": 2017
+            }
+        ],
+        "name": "Retno Wahyuni Wijayanti",
+        "position": "Independent Commissioner",
+        "company": "ID_AGRO_IR_2023"
+    },
+    "sources": [
+        420,
+        114,
+        120,
+        121,
+        122,
+        124
+    ]
+}

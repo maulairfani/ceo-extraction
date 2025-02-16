@@ -1,0 +1,47 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Accounting",
+            "university": "Universitas Jenderal Soedirman",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Director of Finance",
+                "company": "PT Bank Raya Indonesia Tbk",
+                "country": "Indonesia",
+                "start_year": 2023,
+                "end_year": null
+            },
+            {
+                "position": "Head of Investor Relations Division",
+                "company": "BRI (Bank Rakyat Indonesia)",
+                "country": "Indonesia",
+                "start_year": 2021,
+                "end_year": 2023
+            },
+            {
+                "position": "Act. Head of Subsidiary Management Division",
+                "company": "BRI (Bank Rakyat Indonesia)",
+                "country": "Indonesia",
+                "start_year": 2021,
+                "end_year": 2021
+            }
+        ],
+        "name": "Rustarti Suri Pertiwi",
+        "position": "Director of Finance",
+        "company": "ID_AGRO_IR_2023"
+    },
+    "sources": [
+        395,
+        116,
+        118,
+        120,
+        121
+    ]
+}

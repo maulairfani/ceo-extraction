@@ -1,0 +1,55 @@
+{
+    "data": {
+        "nationality": "Indonesian",
+        "edu_s1": {
+            "major": "Bachelor of Economics",
+            "university": "University of Indonesia",
+            "country": "Indonesia"
+        },
+        "edu_s2": null,
+        "edu_s3": null,
+        "edu_profesi": null,
+        "edu_vokasi": null,
+        "work_experience": [
+            {
+                "position": "Analyst",
+                "company": "Delta Advisory and PT Mandiri Sekuritas",
+                "country": "Indonesia",
+                "start_year": 2004,
+                "end_year": 2008
+            },
+            {
+                "position": "Manager of Structured Finance",
+                "company": "PT HSBC Amanah Syariah",
+                "country": "Indonesia",
+                "start_year": 2008,
+                "end_year": 2010
+            },
+            {
+                "position": "Head of Investment",
+                "company": "Grup Asanusa",
+                "country": "Indonesia",
+                "start_year": 2010,
+                "end_year": 2017
+            },
+            {
+                "position": "Director",
+                "company": "PT Avrist Asset Management",
+                "country": "Indonesia",
+                "start_year": 2017,
+                "end_year": 2022
+            }
+        ],
+        "name": "Tubagus Farash Akbar F",
+        "position": "President Director",
+        "company": "ID_ABBA_IR_2023"
+    },
+    "sources": [
+        35,
+        38,
+        136,
+        40,
+        51,
+        53
+    ]
+}
